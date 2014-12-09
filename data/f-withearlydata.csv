@@ -1,0 +1,806 @@
+SchoolID,SchoolName,FullName,CPSUnit,Network,SchoolID,EducationalUnit,EduUnit,Total,White_No,White_Pct,AfricanAmerican_No,AfricanAmerican_Pct,PacificIslanderRetired_No,PacificIslanderRetired_Pct,NativeAmerican_No,NativeAmerican_Pct,Hispanic_No,Hispanic_Pct,MulitRacial_No,MulitRacial_Pct,Asian_No,Asian_Pct,Hawaiian_No,Hawaiian_Pct,NotAvailable_No,NotAvailable_Pct,lat,lng,Unit,FY00_Name,FY00Total,FY00_WhitePct,Fy00_AfrianAmericanPct,FY00_AsianPct,FY00_HispanicPct
+400010,Ace Technical Chtr HS,"Architecture, Construction, and Engineering(ACE)Technical Charter School",7950,Charter,400010,ACE Tech Chtr HS,ACE TECH CHTR HS,481,11,2.3,366,76.1,0,0,3,0.6,100,20.8,1,0.2,0,0,0,0,0,0,41.795972,-87.62630279999999,,,,,,,
+609772,Addams,Jane Addams Elementary School,2020,Network 13,609772,Addams,ADDAMS,866,19,2.2,12,1.4,0,0,0,0,831,96,3,0.3,1,0.1,0,0,0,0,41.6988814,-87.53289,2020,Addams,698,10.6,0.1,0.1,88.7
+609773,Agassiz,Louis A Agassiz Elementary School,2030,Network 4,609773,Agassiz,AGASSIZ,484,170,35.1,119,24.6,0,0,1,0.2,160,33.1,19,3.9,13,2.7,2,0.4,0,0,41.9339239,-87.6557787,2030,Agassiz,599,22.7,33.9,3.2,40.1
+610513,Air Force HS,Air Force Academy High School,1055,Military,610513,Air Force Acad HS,AIR FORCE ACAD HS,369,36,9.8,152,41.2,0,0,0,0,164,44.4,4,1.1,12,3.3,1,0.3,0,0,41.8284801,-87.63269989999999,,,,,,,
+610212,Albany Park,Albany Park Multicultural Academy,6290,Network 1,610212,Albany Park Middle,ALBANY PARK MIDDLE,280,12,4.3,16,5.7,0,0,0,0,217,77.5,3,1.1,32,11.4,0,0,0,0,41.9710949,-87.70946350000001,6290,Albany Park Acad,273,18.3,7.7,29.3,44.7
+609774,Alcott ES,Louisa May Alcott Elementary School,2040,Network 4,609774,Alcott,ALCOTT,510,326,63.9,46,9,1,0.2,0,0,74,14.5,29,5.7,30,5.9,0,0,4,0.8,41.929482,-87.64608170000001,2040,Alcott,467,15,45,13.7,26.1
+610524,Alcott HS,Alcott High School for the Humanities,8035,Network 4,610524,Alcott HS,ALCOTT HS,281,34,12.1,84,29.9,0,0,5,1.8,150,53.4,3,1.1,3,1.1,2,0.7,0,0,41.9356386,-87.6802788,,,,,,,
+609848,Aldridge,Ira F Aldridge Elementary School,2710,OS4,609848,Aldridge,ALDRIDGE,252,0,0,252,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.65733760000001,-87.6070331,2710,Aldridge,505,0,100,0,0
+400012,Amandla Chtr HS,Amandla Charter High School,2035,Charter,400012,Amandla Elementay Chrtr,AMANDLA ELEMENTAY CHRTR,354,1,0.3,344,97.2,0,0,0,0,2,0.6,1,0.3,0,0,0,0,6,1.7,41.7708441,-87.63258569999999,,,,,,,
+609780,Ames,Ames Middle School,2090,Network 4,609780,Ames Middle,AMES MIDDLE,542,0,0,26,4.8,0,0,1,0.2,509,93.9,3,0.6,3,0.6,0,0,0,0,41.91634930000001,-87.72232869999999,2090,Ames,796,2.1,7.4,0,90.5
+609695,Amundsen HS,Roald Amundsen High School,1210,Network 2,609695,Amundsen HS,AMUNDSEN HS,"1,266",129,10.2,138,10.9,1,0.1,6,0.5,787,62.2,8,0.6,185,14.6,5,0.4,7,0.6,41.9751493,-87.6799965,1210,Amundsen HS,1704,28.3,8.7,11.8,51.1
+609951,Ariel,Ariel Elementary Community Academy,3640,Network 9,609951,Ariel,ARIEL,565,2,0.4,547,96.8,0,0,0,0,13,2.3,2,0.4,1,0.2,0,0,0,0,41.8111549,-87.59825889999999,3640,Ariel Comm,207,0.5,99,0,0.5
+609777,Armour,Phillip D Armour Elementary School,2070,Network 6,609777,Armour,ARMOUR,324,28,8.6,8,2.5,0,0,0,0,274,84.6,2,0.6,12,3.7,0,0,0,0,41.8340174,-87.64999089999999,2070,Armour,628,18.9,7.3,1.1,72.6
+609779,"Armstrong, G",George Armstrong International Studies ES,2080,Network 2,609779,Armstrong G.,ARMSTRONG G.,"1,444",111,7.7,414,28.7,0,0,11,0.8,627,43.4,28,1.9,251,17.4,1,0.1,1,0.1,42.01034689999999,-87.6850224,2080,"Armstrong, G.",1277,12.8,20.4,22.8,44
+610287,Ashburn,Ashburn Community Elementary School,7100,Network 10,610287,Ashburn,ASHBURN,475,3,0.6,388,81.7,0,0,0,0,74,15.6,9,1.9,1,0.2,0,0,0,0,41.7423623,-87.7095047,,,,,,,
+610268,Ashe,Arthur R Ashe Elementary School,6900,OS4,610268,Ashe,ASHE,392,0,0,386,98.5,0,0,0,0,6,1.5,0,0,0,0,0,0,0,0,41.7400343,-87.6009832,6900,Ashe,748,0,100,0,0
+400060,Asian Human Services Chtr - Passages,Asian Human Services - Passages Charter School,6850,Charter,400060,Passages Chrt,PASSAGES CHRT,440,25,5.7,215,48.9,2,0.5,3,0.7,91,20.7,24,5.5,73,16.6,4,0.9,3,0.7,41.9832766,-87.67123509999999,,,,,,,
+400013,Aspira Chtr - Early College HS,ASPIRA Charter - Early College,7803,Charter,400013,ASPIRA Chrt - Early College,ASPIRA CHRT - EARLY COLLEGE,568,4,0.7,14,2.5,0,0,3,0.5,538,94.7,0,0,5,0.9,0,0,4,0.7,41.9374637,-87.7267682,,,,,,,
+400017,Aspira Chtr - Haugan,ASPIRA Charter - Haugan Campus,3500,Charter,400017,ASPIRA Chrt - Haugan,ASPIRA CHRT - HAUGAN,565,12,2.1,18,3.2,0,0,5,0.9,508,89.9,6,1.1,14,2.5,1,0.2,1,0.2,41.96633509999999,-87.72183179999999,,,,,,,
+400015,Aspira Chtr - Ramirez HS,ASPIRA Charter - Mirta Ramirez Computer Science,7800,Charter,400015,ASPIRA Chrt - Ramirez,ASPIRA CHRT - RAMIREZ,166,5,3,14,8.4,0,0,1,0.6,146,88,0,0,0,0,0,0,0,0,41.9128678,-87.6964062,,,,,,,
+609781,Attucks,Crispus Attucks Elementary School,2100,Network 9,609781,Attucks,ATTUCKS,168,0,0,166,98.8,0,0,0,0,1,0.6,0,0,0,0,0,0,1,0.6,41.8024973,-87.6258326,2100,Attucks,441,0,100,0,0
+609782,Audubon,John J Audubon Elementary School,2110,Network 4,609782,Audubon,AUDUBON,591,342,57.9,19,3.2,0,0,0,0,172,29.1,31,5.2,10,1.7,2,0.3,15,2.5,41.9453833,-87.6811506,2110,Audubon,545,17.1,4.8,7.5,64.4
+400018,Austin Bus & Entrp HS,Austin Business and Entrepreneurship Academy HS,7020,Network 3,400018,Austin Bus & Entrp HS,AUSTIN BUS & ENTRP HS,186,0,0,186,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.8851391,-87.7626951,,,,,,,
+610501,Austin Poly HS,Austin Polytechnical Academy High School,1065,Network 3,610501,Austin Poly Tech HS,AUSTIN POLY TECH HS,196,1,0.5,190,96.9,0,0,1,0.5,4,2,0,0,0,0,0,0,0,0,41.8851391,-87.7626951,,,,,,,
+609786,Avalon Park,Avalon Park Elementary School,2130,Network 12,609786,Avalon Park,AVALON PARK,308,1,0.3,302,98.1,0,0,1,0.3,3,1,1,0.3,0,0,0,0,0,0,41.7485087,-87.5911282,2130,Avalon Park,749,0.1,99.9,0,0
+610544,Azuela,Mariano Azuela Elementary School,8660,Network 10,610544,Azuela,AZUELA,944,28,3,8,0.8,0,0,6,0.6,884,93.6,1,0.1,3,0.3,0,0,14,1.5,41.7711079,-87.7385027,,,,,,,
+610563,Back Of The Yards Ib HS,Back of the Yards IB HS,9623,Network 8,610563,Back of the Yards IB HS,BACK OF THE YARDS IB HS,281,6,2.1,9,3.2,0,0,1,0.4,248,88.3,0,0,17,6,0,0,0,0,41.80774359999999,-87.6776045,,,,,,,
+610555,Banner Academy West HS,Banner Academy West,8685,Options,610555,Banner West HS,BANNER WEST HS,296,0,0,283,95.6,0,0,0,0,7,2.4,5,1.7,0,0,0,0,1,0.3,41.909154,-87.7525802,,,,,,,
+609788,Barnard,Alice L Barnard Computer Math & Science Ctr ES,2150,OS4,609788,Barnard,BARNARD,301,1,0.3,288,95.7,0,0,0,0,6,2,4,1.3,1,0.3,1,0.3,0,0,41.7053141,-87.6585159,2150,Barnard,369,12.5,83.2,0.5,3.5
+609789,Barry,John Barry Elementary School,2160,Network 4,609789,Barry,BARRY,831,13,1.6,10,1.2,0,0,1,0.1,791,95.2,7,0.8,9,1.1,0,0,0,0,41.9326996,-87.73987790000001,2160,Barry,829,9.2,0.7,1.7,88.4
+609790,Barton,Clara Barton Elementary School,2170,Network 11,609790,Barton,BARTON,591,2,0.3,584,98.8,0,0,0,0,4,0.7,1,0.2,0,0,0,0,0,0,41.7542839,-87.6711625,2170,Barton,828,0,100,0,0
+609791,Bass,Perkins Bass Elementary School,2180,Network 11,609791,Bass,BASS,566,0,0,552,97.5,0,0,2,0.4,11,1.9,0,0,0,0,1,0.2,0,0,41.7752089,-87.65402399999999,2180,Bass,804,0,100,0,0
+609792,Bateman,Newton Bateman Elementary School,2190,Network 1,609792,Bateman,BATEMAN,"1,036",94,9.1,26,2.5,0,0,6,0.6,833,80.4,4,0.4,38,3.7,1,0.1,34,3.3,41.958303,-87.7025531,2190,Bateman,1001,14.2,3.7,8.9,72.6
+610083,Beard,Daniel C Beard Elementary School,4950,Network 1,610083,Beard,BEARD,169,60,35.5,10,5.9,0,0,0,0,76,45,6,3.6,16,9.5,1,0.6,0,0,41.9699424,-87.7900097,4950,Beard,168,57.7,19,1.8,20.8
+610246,Beasley,Edward Beasley Elementary Magnet Academic Center,6660,Network 9,610246,Beasley Magnet,BEASLEY MAGNET,"1,403",0,0,"1,363",97.1,0,0,4,0.3,26,1.9,4,0.3,2,0.1,2,0.1,2,0.1,41.79846550000001,-87.6250506,6660,Beasley Acad,1436,7.2,87.7,2.7,1.9
+609796,Beaubien,Jean Baptiste Beaubien Elementary School,2240,Network 1,609796,Beaubien,BEAUBIEN,"1,166",447,38.3,20,1.7,3,0.3,6,0.5,450,38.6,56,4.8,163,14,5,0.4,16,1.4,41.9719691,-87.75703999999999,2240,Beaubien,913,53.1,5.6,12.2,28
+610237,Beethoven,Ludwig Van Beethoven Elementary School,6540,Network 9,610237,Beethoven,BEETHOVEN,395,1,0.3,383,97,0,0,0,0,4,1,0,0,0,0,0,0,7,1.8,41.8091973,-87.62689449999999,6540,Beethoven,762,0,100,0,0
+609797,Beidler,Jacob Beidler Elementary School,2250,OS4,609797,Beidler,BEIDLER,463,0,0,452,97.6,0,0,1,0.2,9,1.9,1,0.2,0,0,0,0,0,0,41.8851931,-87.70540779999999,2250,Beidler,452,0,99.8,0,0.2
+609798,Belding,Hiram H Belding Elementary School,2260,Network 1,609798,Belding,BELDING,606,206,34,43,7.1,0,0,4,0.7,299,49.3,12,2,31,5.1,8,1.3,3,0.5,41.958895,-87.733679,2260,Belding,508,43.3,4.9,10.2,40.6
+609799,Bell,Alexander Graham Bell Elementary School,2270,Network 4,609799,Bell,BELL,"1,048",640,61.1,22,2.1,0,0,5,0.5,230,21.9,80,7.6,65,6.2,4,0.4,2,0.2,41.9495311,-87.68662119999999,2270,Bell,731,45.7,13.5,10.7,29.4
+609922,Belmont-cragin,Belmont-Cragin Elementary School,3390,Network 3,609922,Belmont-Cragin,BELMONT-CRAGIN,587,17,2.9,24,4.1,0,0,4,0.7,535,91.1,3,0.5,2,0.3,2,0.3,0,0,41.9211855,-87.7581093,,,,,,,
+609800,Bennett,Frank I Bennett Elementary School,2280,Network 13,609800,Bennett,BENNETT,419,1,0.2,405,96.7,0,0,0,0,7,1.7,6,1.4,0,0,0,0,0,0,41.71052479999999,-87.6169857,2280,Bennett,673,0,99.9,0,0.1
+610350,Black,Robert A Black Magnet Elementary School,7860,Network 12,610350,Black Magnet,BLACK MAGNET,474,0,0,453,95.6,0,0,0,0,5,1.1,2,0.4,0,0,0,0,14,3,41.729614,-87.576382,7860,Black Magnet,467,1.1,93.4,0.4,4.5
+609803,Blaine,James G Blaine Elementary School,2300,Network 4,609803,Blaine,BLAINE,943,563,59.7,42,4.5,0,0,2,0.2,245,26,44,4.7,34,3.6,13,1.4,0,0,41.9509619,-87.664931,2300,Blaine,531,20.5,13.2,5.8,60.3
+610087,Blair,Blair Early Childhood Center,4990,Network 10,610087,Blair,BLAIR,192,32,16.7,38,19.8,0,0,0,0,120,62.5,0,0,1,0.5,1,0.5,0,0,41.776342,-87.790536,4990,Blair,115,15.7,47,1.7,34.8
+609698,Bogan HS,William J Bogan High School,1230,OS4,609698,Bogan Tech HS,BOGAN TECH HS,"1,115",26,2.3,538,48.3,0,0,10,0.9,533,47.8,7,0.6,1,0.1,0,0,0,0,41.7492235,-87.720959,1230,Bogan HS,1792,14.7,56.9,3.6,24.6
+610238,Bond,Carrie Jacobs Bond Elementary School,6550,Network 11,610238,Bond,BOND,420,1,0.2,413,98.3,0,0,0,0,6,1.4,0,0,0,0,0,0,0,0,41.765743,-87.65377000000001,6550,Bond,726,0,98.5,0.3,1.2
+609804,Boone,Daniel Boone Elementary School,2320,Network 2,609804,Boone,BOONE,805,176,21.9,82,10.2,0,0,3,0.4,364,45.2,9,1.1,169,21,1,0.1,1,0.1,42.0039664,-87.6979523,2320,Boone,1109,40.8,6,26.8,26.1
+609815,Bouchet,Edward A Bouchet Math & Science Academy ES,2430,Network 12,609815,Bouchet,BOUCHET,686,0,0,681,99.3,0,0,0,0,2,0.3,3,0.4,0,0,0,0,0,0,41.7613022,-87.5761752,2430,Bouchet Acad,1525,0,99.6,0,0.4
+610323,Bowen HS,Bowen High School,7540,OS4,610323,New Millenium HS,NEW MILLENIUM HS,464,2,0.4,362,78,0,0,3,0.6,93,20,4,0.9,0,0,0,0,0,0,41.734564,-87.557508,,,,,,,
+609806,Bradwell,Myra Bradwell Communications Arts & Sciences ES,2340,AUSL,609806,Bradwell,BRADWELL,834,4,0.5,817,98,0,0,1,0.1,9,1.1,3,0.4,0,0,0,0,0,0,41.7548658,-87.55777669999999,2340,Bradwell,1347,0,100,0,0
+610242,Brennemann,Joseph Brennemann Elementary School,6600,Network 2,610242,Brennemann,BRENNEMANN,502,16,3.2,315,62.7,0,0,1,0.2,136,27.1,10,2,22,4.4,1,0.2,1,0.2,41.9600422,-87.6492392,6600,Brennemann,510,3.7,53.7,7.6,34.9
+609809,Brentano,Lorenz Brentano Math & Science Academy ES,2370,OS4,609809,Brentano,BRENTANO,411,20,4.9,18,4.4,0,0,1,0.2,355,86.4,2,0.5,1,0.2,0,0,14,3.4,41.9310377,-87.69608029999999,2370,Brentano,951,7.6,3,1.2,88.1
+609810,Bridge,Norman A Bridge Elementary School,2380,Network 1,609810,Bridge,BRIDGE,"1,049",532,50.7,8,0.8,0,0,1,0.1,461,43.9,19,1.8,27,2.6,1,0.1,0,0,41.9499149,-87.7993505,2380,Bridge,689,65.3,13.1,3.8,17.1
+610566,Bridgescape Academy Of North Lawndale,Magic Johnson Bridgescape Academy North Lawndale,9631,Options,610566,MJ Bridgescape - Nth Lawndale HS,MJ BRIDGESCAPE - NTH LAWNDALE HS,138,0,0,121,87.7,0,0,0,0,16,11.6,0,0,0,0,0,0,1,0.7,41.867589,-87.706661,,,,,,,
+610567,Bridgescape Academy Of South Shore,Magic Johnson Bridgescape Academy South Shore,9632,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+609811,Bright,Orville T Bright Elementary School,2390,Network 13,609811,Bright,BRIGHT,290,1,0.3,200,69,0,0,0,0,89,30.7,0,0,0,0,0,0,0,0,41.700046,-87.562815,2390,Bright,580,3.8,45.3,0,50.9
+610317,Brighton Park,Brighton Park Elementary School,7470,Network 8,610317,Brighton Park,BRIGHTON PARK,593,9,1.5,5,0.8,0,0,2,0.3,571,96.3,2,0.3,4,0.7,0,0,0,0,41.8239728,-87.6917543,7470,Brighton Park,526,12.7,0.4,0.6,86.1
+610381,Bronzeville HS,Bronzeville Scholastic Academy High School,7270,OS4,610381,Bronzeville Mil HS,BRONZEVILLE MIL HS,516,0,0,508,98.4,0,0,0,0,5,1,1,0.2,1,0.2,1,0.2,0,0,41.8045878,-87.6247619,,,,,,,
+400019,Bronzeville Lthouse Chtr Campus,Bronzeville Lighthouse Charter Elementary School,3990,Charter,400019,Bronzeville LH Chrt,BRONZEVILLE LH CHRT,488,0,0,477,97.7,0,0,0,0,2,0.4,1,0.2,1,0.2,0,0,7,1.4,41.8194509,-87.6269813,,,,,,,
+609726,Brooks HS,Gwendolyn Brooks College Preparatory Academy HS,1500,Network 13,609726,Brooks CPHS,BROOKS CPHS,783,6,0.8,663,84.7,0,0,2,0.3,101,12.9,9,1.1,1,0.1,0,0,1,0.1,41.6940693,-87.6158744,1500,Southside College Prep,386,0.5,88.3,0,11.1
+610091,"Brown, R",Ronald Brown Elementary Community Academy,5040,Network 13,610091,Brown R.,BROWN R.,292,0,0,288,98.6,0,0,0,0,4,1.4,0,0,0,0,0,0,0,0,41.6648631,-87.6386967,5040,"Brown, R.",430,0.2,99.5,0,0.2
+609812,"Brown, W",William H Brown Elementary School,2400,OS4,609812,Brown W.,BROWN W.,224,0,0,216,96.4,0,0,2,0.9,5,2.2,0,0,1,0.4,0,0,0,0,41.882633,-87.6705831,2400,"Brown, W.",402,0,98.5,0.2,1.2
+609813,Brownell,Charles S Brownell Elementary School,2410,Network 12,609813,Brownell,BROWNELL,261,0,0,260,99.6,0,0,0,0,1,0.4,0,0,0,0,0,0,0,0,41.7715893,-87.62140649999999,2410,Brownell,413,0,100,0,0
+609830,Brunson,Milton Brunson Math & Science Specialty ES,2550,Network 3,609830,Brunson,BRUNSON,645,1,0.2,613,95,0,0,1,0.2,25,3.9,1,0.2,0,0,0,0,4,0.6,41.897651,-87.7658702,2550,Byford,563,0,99.8,0,0.2
+609817,Budlong,Lyman A Budlong Elementary School,2440,Network 2,609817,Budlong,BUDLONG,874,222,25.4,52,5.9,0,0,5,0.6,393,45,20,2.3,172,19.7,1,0.1,9,1,41.9753187,-87.6968823,2440,Budlong,1014,35.5,4.8,20.7,39
+609818,Burbank,Luther Burbank Elementary School,2450,Network 3,609818,Burbank,BURBANK,955,14,1.5,52,5.4,0,0,5,0.5,875,91.6,4,0.4,2,0.2,3,0.3,0,0,41.9175247,-87.7819925,2450,Burbank,1146,4.4,10.4,2.7,82.3
+609819,Burke,Edmond Burke Elementary School,2460,OS4,609819,Burke,BURKE,369,0,0,365,98.9,0,0,1,0.3,2,0.5,1,0.3,0,0,0,0,0,0,41.7970776,-87.6160457,2460,Burke,396,0,100,0,0
+609820,Burley,Augustus H Burley Elementary School,2470,Network 4,609820,Burley,BURLEY,550,309,56.2,15,2.7,0,0,3,0.5,153,27.8,33,6,37,6.7,0,0,0,0,41.9380961,-87.6698682,2470,Burley,344,18.6,9.9,3.2,68.3
+609821,Burnham,Burnham Elementary Inclusive Academy,2480,Network 13,609821,Burnham,BURNHAM,581,0,0,567,97.6,0,0,0,0,9,1.5,3,0.5,1,0.2,1,0.2,0,0,41.7145593,-87.5673772,2480,Burnham Acad,376,0,97.9,0,1.9
+609827,Burnside,Burnside Elementary Scholastic Academy,2520,Network 12,609827,Burnside Magnet,BURNSIDE MAGNET,679,1,0.1,663,97.6,0,0,1,0.1,11,1.6,3,0.4,0,0,0,0,0,0,41.7286605,-87.6076788,2520,Burnside Acad,831,0,98.8,0.1,1.1
+609828,Burr,Jonathan Burr Elementary School,2530,Network 6,609828,Burr,BURR,388,143,36.9,35,9,0,0,0,0,189,48.7,15,3.9,5,1.3,1,0.3,0,0,41.91212700000001,-87.6686796,2530,Burr,457,7.9,5,0,84.2
+609829,Burroughs,John C Burroughs Elementary School,2540,Network 8,609829,Burroughs,BURROUGHS,519,19,3.7,4,0.8,0,0,0,0,493,95,0,0,2,0.4,0,0,1,0.2,41.8288647,-87.69269919999999,2540,Burroughs,519,12.9,1.7,1.9,82.9
+609832,Byrne,Michael M Byrne Elementary School,2570,Network 10,609832,Byrne,BYRNE,671,270,40.2,6,0.9,0,0,1,0.1,390,58.1,3,0.4,0,0,0,0,1,0.1,41.79486319999999,-87.7912144,2570,Byrne,496,64.3,9.5,2,23.8
+609833,Caldwell,Charles P Caldwell Academy of Math & Science ES,2580,Network 12,609833,Caldwell,CALDWELL,283,0,0,276,97.5,0,0,1,0.4,2,0.7,4,1.4,0,0,0,0,0,0,41.7392845,-87.5815346,2580,Caldwell,662,0.2,99.5,0,0.3
+610353,Calmeca,Calmeca Academy of Fine Arts and Dual Language,7880,Network 8,610353,McKinley Park,MCKINLEY PARK,811,9,1.1,11,1.4,0,0,3,0.4,733,90.4,2,0.2,15,1.8,0,0,38,4.7,41.8245538,-87.71140009999999,,,,,,,
+610565,Camelot - Excel Academy Of Englewood,Excel Academy of Englewood,9630,Options,610565,EXCEL Acad Englewood Hs,EXCEL ACAD ENGLEWOOD HS,259,0,0,254,98.1,0,0,0,0,3,1.2,2,0.8,0,0,0,0,0,0,41.7636438,-87.6489991,,,,,,,
+610572,Camelot - Safe School Program ES,Camelot Safe Academy Elementary,9637,Options,610572,Camelot Academy ES,CAMELOT ACADEMY ES,21,0,0,20,95.2,0,0,0,0,1,4.8,0,0,0,0,0,0,0,0,41.7527183,-87.5510144,,,,,,,
+610573,Camelot - Safe School Program HS,Camelot Safe Academy High School,9638,Options,610573,Camelot Academy HS,CAMELOT ACADEMY HS,16,0,0,16,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.7527183,-87.5510144,,,,,,,
+609835,Cameron,Daniel R Cameron Elementary School,2610,Network 5,609835,Cameron,CAMERON,811,5,0.6,291,35.9,0,0,0,0,507,62.5,5,0.6,0,0,0,0,3,0.4,41.9040722,-87.7182183,2610,Cameron,1250,1.3,40.2,0,57.4
+610539,Camras,Marvin Camras Elementary School,8600,Network 3,610539,Camras,CAMRAS,"1,001",56,5.6,9,0.9,0,0,9,0.9,906,90.5,6,0.6,15,1.5,0,0,0,0,41.9348934,-87.7700349,,,,,,,
+610018,Canter,Miriam G Canter Middle School,4260,,,,,,,,,,,,,,,,,,,,,,,,,,4260,Wirth Experimental,312,0.6,98.4,0,1
+609836,Canty,Arthur E Canty Elementary School,2620,Network 1,609836,Canty,CANTY,812,442,54.4,8,1,0,0,1,0.1,302,37.2,25,3.1,33,4.1,1,0.1,0,0,41.9480675,-87.82976459999999,2620,Canty,495,68.5,7.1,4,20.4
+610024,Cardenas,Lazaro Cardenas Elementary School,4320,Network 7,610024,Cardenas,CARDENAS,713,4,0.6,29,4.1,0,0,0,0,680,95.4,0,0,0,0,0,0,0,0,41.8482581,-87.71589159999999,4320,Cardenas,839,0.4,0.6,0,99
+609837,Carnegie,Andrew Carnegie Elementary School,2630,OS4,609837,Carnegie,CARNEGIE,669,8,1.2,653,97.6,0,0,0,0,5,0.7,2,0.3,0,0,1,0.1,0,0,41.7832793,-87.59106659999999,2630,Carnegie,519,0,99.8,0,0.2
+609839,Carroll,Carroll-Rosenwald Specialty Elementary School,2650,Network 10,609839,Carroll,CARROLL,533,0,0,513,96.2,0,0,0,0,17,3.2,2,0.4,0,0,1,0.2,0,0,41.7421281,-87.6968203,2650,Carroll,1105,1.2,97.4,0.1,1.4
+609842,Carson,Rachel Carson Elementary School,2660,Network 8,609842,Carson,CARSON,"1,222",2,0.2,41,3.4,0,0,8,0.7,"1,170",95.7,0,0,0,0,0,0,1,0.1,41.793112,-87.687934,2660,Carson,1250,1.3,7,0,91.7
+609844,Carter,William W Carter Elementary School,2670,AUSL,609844,Carter,CARTER,439,0,0,429,97.7,0,0,0,0,10,2.3,0,0,0,0,0,0,0,0,41.7899955,-87.62237089999999,2670,Carter,725,0,100,0,0
+609845,"Carver , G",George Washington Carver Primary School,2690,OS4,609845,Carver Elementary,CARVER ELEMENTARY,507,3,0.6,499,98.4,0,0,0,0,5,1,0,0,0,0,0,0,0,0,41.653758,-87.5998011,2690,Carver Primary,812,0.1,99.9,0,0
+609760,Carver Military,George Washington Carver Military Academy HS,1850,Military,609760,Carver Mil Acad HS,CARVER MIL ACAD HS,529,2,0.4,254,48,0,0,1,0.2,270,51,2,0.4,0,0,0,0,0,0,41.6590217,-87.58372659999999,1850,Carver HS,687,0,99.9,0,0.1
+610021,Casals,Pablo Casals Elementary School,4290,AUSL,610021,Casals,CASALS,468,4,0.9,238,50.9,0,0,0,0,224,47.9,2,0.4,0,0,0,0,0,0,41.90404179999999,-87.71457550000001,4290,"Casals, P.",787,0.4,51.1,0.3,48.3
+609849,Cassell,George F Cassell Elementary School,2720,Network 10,609849,Cassell,CASSELL,367,283,77.1,34,9.3,0,0,2,0.5,40,10.9,5,1.4,3,0.8,0,0,0,0,41.6874239,-87.70391350000001,2720,Cassell,310,74.5,20,0.6,3.5
+609826,Castellanos,Rosario Castellanos Elementary School,2510,Network 7,609826,Castellanos,CASTELLANOS,586,1,0.2,29,4.9,0,0,1,0.2,555,94.7,0,0,0,0,0,0,0,0,41.8455301,-87.7148448,2510,Burns,749,0.1,0.5,0,99.3
+400021,Catalyst Chtr - Circle Rock,Catalyst Elementary School - Circle Rock,4371,Charter,400021,Catalyst Chtr -Circle Rock,CATALYST CHTR -CIRCLE ROCK,521,0,0,438,84.1,0,0,1,0.2,1,0.2,2,0.4,0,0,0,0,79,15.2,41.8823875,-87.76545449999999,,,,,,,
+400020,Catalyst Chtr - Howland,Catalyst Charter ES - Howland,4370,Charter,400020,Catalyst Chrt - Howland,CATALYST CHRT - HOWLAND,472,0,0,422,89.4,0,0,1,0.2,11,2.3,0,0,0,0,0,0,38,8.1,41.8572115,-87.707832,,,,,,,
+400115,Catalyst Chtr - Maria,Catalyst-Maria Charter School,9032,Charter,400115,Catalyst Chrt - Maria,CATALYST CHRT - MARIA,832,8,1,380,45.7,0,0,3,0.4,378,45.4,5,0.6,0,0,0,0,58,7,41.77128020000001,-87.6931788,,,,,,,
+610251,Cather,Willa Cather Elementary School,6730,Network 5,610251,Cather,CATHER,451,0,0,442,98,0,0,0,0,9,2,0,0,0,0,0,0,0,0,41.8832454,-87.6993324,6730,Cather,489,0,100,0,0
+609851,Chalmers,Thomas Chalmers Specialty Elementary School,2740,AUSL,609851,Chalmers,CHALMERS,406,1,0.2,386,95.1,0,0,0,0,15,3.7,4,1,0,0,0,0,0,0,41.86649999999999,-87.69526169999999,2740,Chalmers,433,0,100,0,0
+609852,Chappell,Eliza Chappell Elementary School,2750,Network 2,609852,Chappell,CHAPPELL,551,73,13.2,28,5.1,0,0,7,1.3,343,62.3,21,3.8,78,14.2,0,0,1,0.2,41.9746782,-87.6832515,2750,Chappell,580,21,2.9,12.8,63.3
+609853,Chase,Salmon P Chase Elementary School,2760,Network 4,609853,Chase,CHASE,498,14,2.8,11,2.2,0,0,1,0.2,467,93.8,2,0.4,1,0.2,0,0,2,0.4,41.9181414,-87.6943248,2760,Chase,855,6.1,3.3,0.2,90.4
+610148,Chavez,Cesar E Chavez Multicultural Academic Center ES,5640,Network 8,610148,Chavez,CHAVEZ,947,9,1,34,3.6,0,0,4,0.4,899,94.9,1,0.1,0,0,0,0,0,0,41.8073353,-87.6656974,5640,Chavez,885,4.5,7.8,0,87.7
+610248,Chgo Acad ES,Chicago Academy Elementary School,6670,AUSL,610248,Chicago Acad,CHICAGO ACAD,600,152,25.3,28,4.7,0,0,2,0.3,387,64.5,12,2,16,2.7,3,0.5,0,0,41.94296689999999,-87.7769852,,,,,,,
+610340,Chgo Acad HS,Chicago Academy High School,7770,AUSL,610340,Chicago Acad HS,CHICAGO ACAD HS,518,112,21.6,89,17.2,0,0,3,0.6,284,54.8,7,1.4,22,4.2,1,0.2,0,0,41.94296689999999,-87.7769852,,,,,,,
+609753,Chgo Agr HS,Chicago High School for Agricultural Sciences,1790,Network 10,609753,Chicago Agr Sci HS,CHICAGO AGR SCI HS,651,199,30.6,275,42.2,0,0,2,0.3,152,23.3,17,2.6,3,0.5,0,0,3,0.5,41.6880836,-87.7179871,1790,Chicago Argiculture HS,564,24.8,60.5,0.7,13.5
+400022,Chgo Arts Contr HS,Chicago High School for the Arts,8047,Contract,400022,Chicago Arts HS,CHICAGO ARTS HS,575,69,12,306,53.2,2,0.3,1,0.2,135,23.5,19,3.3,7,1.2,1,0.2,35,6.1,41.89930469999999,-87.6948322,,,,,,,
+400035,Chgo Math & Sci Acad Campus HS,Chicago Math and Science Academy High School,7940,Charter,400035,Chgo Math/Sci Chtr,CHGO MATH/SCI CHTR,606,24,4,164,27.1,1,0.2,4,0.7,340,56.1,10,1.7,62,10.2,1,0.2,0,0,42.0134245,-87.6751427,,,,,,,
+609754,Chgo Military Acad HS,Chicago Military Academy High School,1800,Military,609754,Chicago Mil Acad HS,CHICAGO MIL ACAD HS,405,7,1.7,312,77,0,0,1,0.2,78,19.3,6,1.5,0,0,0,0,1,0.2,41.8300966,-87.619287,1800,Chicago Military Acad,149,4,78.5,0,16.8
+400093,Chgo Talent Chtr HS,Chicago Talent Development HS,8053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Chicago Collegiate Chtr School,Chicago Charter Collegiate HS,9618,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+400147,Chicago Excel Contr Acad,Chicago Excel Academy,9066,Contract,400147,Chicago Excel Acad,CHICAGO EXCEL ACAD,375,3,0.8,360,96,0,0,0,0,11,2.9,0,0,0,0,1,0.3,0,0,41.6921971,-87.65437949999999,,,,,,,
+400113,Chicago Quest North,Chicago Intl Charter - Chicago Quest North,8672,Charter,400113,CICS - Chgo Quest North,CICS - CHGO QUEST NORTH,379,21,5.5,238,62.8,0,0,1,0.3,101,26.6,9,2.4,5,1.3,1,0.3,3,0.8,41.9074607,-87.6455106,,,,,,,
+400091,Chicago Tech Academy,Chicago Technology Academy High School,8022,Contract,400091,Chicago Adv Tech Acad HS,CHICAGO ADV TECH ACAD HS,387,10,2.6,271,70,0,0,2,0.5,96,24.8,0,0,7,1.8,0,0,1,0.3,41.8631989,-87.65934179999999,,,,,,,
+400036,Chicago Virtual Chtr Campus HS,Chicago Virtual Charter High School,7700,Charter,400036,Chicago Virtual Chtr,CHICAGO VIRTUAL CHTR,690,118,17.1,373,54.1,2,0.3,2,0.3,109,15.8,31,4.5,51,7.4,1,0.1,3,0.4,41.8809778,-87.65001889999999,,,,,,,
+609674,Chicago Vocational HS,Chicago Vocational Career Academy High School,1010,OS4,609674,Chicago Voc HS,CHICAGO VOC HS,990,0,0,974,98.4,0,0,0,0,12,1.2,4,0.4,0,0,0,0,0,0,41.7369592,-87.57314769999999,1010,Chicago Vocational,2271,0,99.7,0,0.2
+609854,Chopin,Frederic Chopin Elementary School,2770,Network 5,609854,Chopin,CHOPIN,594,35,5.9,120,20.2,0,0,4,0.7,416,70,6,1,4,0.7,1,0.2,8,1.3,41.8970556,-87.6885276,2770,Chopin,619,4.7,6.8,0.8,87.7
+609855,Christopher,Walter S Christopher Elementary School,2780,Network 8,609855,Christopher,CHRISTOPHER,360,23,6.4,92,25.6,0,0,2,0.6,240,66.7,0,0,0,0,0,0,3,0.8,41.8016584,-87.6856696,2780,Christopher,248,16.1,49.6,0,34.3
+400159,Christopher House Chtr School,Christopher Charter House ES,9616,Charter,400159,Christopher Hse Chtr,CHRISTOPHER HSE CHTR,95,1,1.1,5,5.3,0,0,0,0,77,81.1,0,0,1,1.1,0,0,11,11.6,41.9222473,-87.7573948,,,,,,,
+400023,Cics - Avalon /so Shore,Chicago Intl Charter - Avalon / South Shore,6580,Charter,400023,CICS - Avalon/So Shore,CICS - AVALON/SO SHORE,418,2,0.5,411,98.3,0,0,0,0,2,0.5,0,0,0,0,0,0,3,0.7,41.7428973,-87.5877066,,,,,,,
+400024,Cics - Basil,Chicago Intl Charter - Basil,7130,Charter,400024,CICS- Basil,CICS- BASIL,704,1,0.1,630,89.5,0,0,0,0,67,9.5,1,0.1,2,0.3,0,0,3,0.4,41.7941734,-87.6700657,,,,,,,
+400025,Cics - Bucktown,Chicago Intl Charter - Bucktown,4910,Charter,400025,CICS - Bucktown,CICS - BUCKTOWN,674,16,2.4,92,13.6,0,0,4,0.6,552,81.9,6,0.9,1,0.1,1,0.1,2,0.3,41.92251419999999,-87.68095149999999,4910,Chicago Int'l-Bucktown,598,13.5,36,1.5,48.3
+400032,Cics - Ellison,Chicago Intl Charter - Ralph Ellison,4911,Charter,400032,CICS - Ellison,CICS - ELLISON,481,0,0,468,97.3,0,0,0,0,2,0.4,8,1.7,0,0,0,0,3,0.6,41.7483779,-87.6690222,,,,,,,
+400108,Cics - Hawkins,Chicago Intl Charter - Larry Hawkins,8110,Charter,400108,CICS - Hawkins,CICS - HAWKINS,348,0,0,344,98.9,0,0,0,0,2,0.6,2,0.6,0,0,0,0,0,0,41.65341249999999,-87.6010853,,,,,,,
+400027,Cics - Irving Park,Chicago Intl Charter - Irving Park,4913,Charter,400027,CICS - Irving Park,CICS - IRVING PARK,534,70,13.1,36,6.7,1,0.2,1,0.2,332,62.2,12,2.2,24,4.5,0,0,58,10.9,41.9505445,-87.7106689,,,,,,,
+400092,Cics - Lloyd Bond,Chicago Intl Charter - Lloyd Bond,8049,Charter,400092,CICS - Lloyd Bond,CICS - LLOYD BOND,348,0,0,341,98,0,0,0,0,5,1.4,0,0,0,0,0,0,2,0.6,41.6536949,-87.6049634,,,,,,,
+400033,Cics - Longwood,Chicago Intl Charter - Longwood,2420,Charter,400033,CICS - Longwood,CICS - LONGWOOD,"1,283",1,0.1,"1,250",97.4,0,0,0,0,16,1.2,2,0.2,2,0.2,0,0,12,0.9,41.72020000000001,-87.656308,2420,Chicago Int'l -Longwood,1131,0.3,99.4,0,0.4
+400026,Cics - Loomis,Chicago Intl Charter - Loomis Primary,4914,Charter,400026,CICS - Loomis,CICS - LOOMIS,578,0,0,555,96,0,0,0,0,5,0.9,2,0.3,0,0,0,0,16,2.8,41.7200739,-87.65705,,,,,,,
+400034,Cics - Northtown,Chicago Intl Charter - Northtown,7740,Charter,400034,CICS - Northtown,CICS - NORTHTOWN,886,174,19.6,53,6,3,0.3,7,0.8,501,56.5,14,1.6,122,13.8,6,0.7,6,0.7,41.9908741,-87.72745689999999,,,,,,,
+400028,Cics - Prairie,Chicago Intl Charter - Prairie,4220,Charter,400028,CICS- Prairie,CICS- PRAIRIE,406,0,0,199,49,0,0,0,0,206,50.7,1,0.2,0,0,0,0,0,0,41.6844595,-87.6167967,4220,Chicago Int'l-Prairie,311,0,52.7,0,47.3
+400029,Cics - Washington Park,Chicago Intl Charter - Washington Park,2290,Charter,400029,CICS- Washington,CICS- WASHINGTON,442,0,0,403,91.2,0,0,1,0.2,6,1.4,0,0,0,0,0,0,32,7.2,41.7836169,-87.6221676,,,,,,,
+400030,Cics - West Belden,Chicago Intl Charter - West Belden,7120,Charter,400030,CICS - W. Belden,CICS - W. BELDEN,500,5,1,38,7.6,0,0,0,0,454,90.8,0,0,0,0,0,0,3,0.6,41.9212827,-87.7768304,,,,,,,
+400031,Cics - Wrightwood,Chicago Intl Charter - Wrightwood,3180,Charter,400031,CICS- Wrightwood,CICS- WRIGHTWOOD,731,4,0.5,680,93,0,0,1,0.1,17,2.3,21,2.9,1,0.1,0,0,7,1,41.7457239,-87.69253479999999,,,,,,,
+610347,Claremont,Claremont Academy Elementary School,7830,Network 10,610347,Claremont,CLAREMONT,477,0,0,449,94.1,0,0,0,0,25,5.2,0,0,0,0,3,0.6,0,0,41.7778083,-87.6815104,,,,,,,
+610244,Clark HS,Michele Clark Academic Prep Magnet High School,6620,Network 3,610244,Clark Magnet HS,CLARK MAGNET HS,499,0,0,492,98.6,0,0,1,0.2,5,1,1,0.2,0,0,0,0,0,0,41.87267749999999,-87.75244029999999,6620,"Clark, M. Middle",711,0,99.6,0.3,0.1
+609795,"Clark, G",George Rogers Clark Elementary School,2230,Network 3,609795,Clark G. R.,CLARK G. R.,279,5,1.8,170,60.9,0,0,3,1.1,93,33.3,4,1.4,2,0.7,2,0.7,0,0,41.8679279,-87.7702046,2230,"Clark, G.",399,8.3,52.1,2,36.8
+609856,Clay,Henry Clay Elementary School,2790,Network 13,609856,Clay,CLAY,568,64,11.3,47,8.3,0,0,3,0.5,438,77.1,12,2.1,4,0.7,0,0,0,0,41.654584,-87.544389,2790,Clay,633,52.4,7.4,0.8,39
+609759,Clemente HS,Roberto Clemente Community Academy High School,1840,OS4,609759,Clemente HS,CLEMENTE HS,701,19,2.7,161,23,0,0,3,0.4,513,73.2,4,0.6,1,0.1,0,0,0,0,41.9023033,-87.6869188,1840,Clemente Comm Acad HS,1809,1.8,11.9,0.4,85.7
+609857,Cleveland,Grover Cleveland Elementary School,2800,Network 1,609857,Cleveland,CLEVELAND,689,41,6,29,4.2,0,0,9,1.3,558,81,6,0.9,40,5.8,3,0.4,3,0.4,41.9519284,-87.706458,2800,Cleveland,799,17.4,3.9,9,69.5
+609859,Clinton,DeWitt Clinton Elementary School,2810,Network 2,609859,Clinton,CLINTON,"1,147",188,16.4,132,11.5,0,0,13,1.1,350,30.5,10,0.9,442,38.5,9,0.8,3,0.3,41.9924039,-87.6982549,2810,Clinton,1533,36.9,7,32.7,23.2
+609861,Clissold,Henry R Clissold Elementary School,2820,Network 10,609861,Clissold,CLISSOLD,560,168,30,353,63,0,0,1,0.2,29,5.2,5,0.9,3,0.5,1,0.2,0,0,41.6929627,-87.68029709999999,2820,Clissold,704,46.6,49.4,0.9,3
+610199,Colemon,Johnnie Colemon Elementary Academy,6170,Network 13,610199,Colemon J.,COLEMON J.,279,0,0,259,92.8,0,0,0,0,20,7.2,0,0,0,0,0,0,0,0,41.67754830000001,-87.6594399,,,,,,,
+609862,Coles,Edward Coles Elementary Language Academy,2830,Network 12,609862,Coles,COLES,547,1,0.2,529,96.7,0,0,1,0.2,11,2,5,0.9,0,0,0,0,0,0,41.741744,-87.565468,2830,Coles,1002,0.1,98.4,0,1.5
+610499,Collins HS,Collins Academy High School,1045,AUSL,610499,Collins HS,COLLINS HS,384,0,0,379,98.7,0,0,0,0,3,0.8,1,0.3,1,0.3,0,0,0,0,41.86452449999999,-87.7022152,,,,,,,
+610170,Columbia Explorers,Columbia Explorers Elementary Academy,5860,Network 8,610170,Columbia Explorers,COLUMBIA EXPLORERS,"1,083",10,0.9,6,0.6,0,0,2,0.2,"1,057",97.6,5,0.5,2,0.2,0,0,1,0.1,41.8108949,-87.7045395,,,,,,,
+609863,Columbus,Christopher Columbus Elementary School,2850,Network 5,609863,Columbus,COLUMBUS,294,163,55.4,16,5.4,0,0,0,0,107,36.4,8,2.7,0,0,0,0,0,0,41.8996893,-87.6814153,2850,Columbus,360,39.4,4.4,0.3,55.8
+400038,Community Services West,Community Services West Academy,1225,Contract,400038,Community Service West HS,COMMUNITY SERVICE WEST HS,156,0,0,153,98.1,0,0,0,0,1,0.6,2,1.3,0,0,0,0,0,0,41.86502979999999,-87.72496749999999,,,,,,,
+609864,Cook,John W Cook Elementary School,2860,Network 11,609864,Cook,COOK,437,0,0,424,97,0,0,3,0.7,4,0.9,2,0.5,0,0,0,0,4,0.9,41.7458161,-87.6598508,2860,Cook,885,0,99.9,0,0.1
+609866,Coonley,John C Coonley Elementary School,2880,Network 2,609866,Coonley,COONLEY,732,424,57.9,9,1.2,0,0,4,0.5,217,29.6,41,5.6,36,4.9,1,0.1,0,0,41.9554091,-87.6839763,2880,Coonley,367,28.1,8.2,4.1,58.6
+609867,Cooper,Peter Cooper Elementary Dual Language Academy,2890,Network 7,609867,Cooper,COOPER,635,7,1.1,10,1.6,0,0,4,0.6,611,96.2,1,0.2,2,0.3,0,0,0,0,41.8561772,-87.66726390000001,2890,Cooper,903,0.2,0.4,0,99.3
+609870,Corkery,Daniel J Corkery Elementary School,2910,Network 7,609870,Corkery,CORKERY,607,7,1.2,108,17.8,0,0,1,0.2,488,80.4,2,0.3,0,0,0,0,1,0.2,41.8455541,-87.7319419,2910,Corkery,813,1.2,24.5,0,74.3
+609761,Corliss HS,George H Corliss High School,1860,Network 13,609761,Corliss HS,CORLISS HS,497,1,0.2,481,96.8,0,0,1,0.2,12,2.4,1,0.2,0,0,1,0.2,0,0,41.7065107,-87.6026697,1860,Corliss HS,1075,0,99.8,0,0.2
+610355,Courtenay,Mary E Courtenay Elementary Language Arts Center,7910,Network 2,610355,Courtenay,COURTENAY,631,70,11.1,255,40.4,0,0,3,0.5,244,38.7,10,1.6,36,5.7,4,0.6,9,1.4,41.9616955,-87.66358290000001,7910,Courtenay,271,17.3,22.5,5.5,54.2
+609702,Crane HS,Richard T Crane Technical Preparatory HS,1270,Network 6,609702,Crane Tech HS,CRANE TECH HS,162,0,0,154,95.1,0,0,2,1.2,5,3.1,1,0.6,0,0,0,0,0,0,41.8772624,-87.68291719999999,1270,Crane HS,1154,0.3,99.1,0,0.5
+610561,Crane Medical Prep,Richard T Crane Medical Preparatory HS,9621,Network 6,610561,Crane Med Prep HS,CRANE MED PREP HS,149,0,0,114,76.5,0,0,0,0,32,21.5,1,0.7,2,1.3,0,0,0,0,41.8772624,-87.68291719999999,,,,,,,
+609873,Crown,Crown Community Academy of Fine Arts Center ES,2940,OS4,609873,Crown,CROWN,349,0,0,334,95.7,0,0,0,0,13,3.7,0,0,1,0.3,0,0,1,0.3,41.852819,-87.7128551,2940,Crown Comm Acad,559,0,99.3,0,0.7
+610003,Cuffe,Paul Cuffe Math-Science Technology Academy ES,4090,Network 11,610003,Cuffe,CUFFE,459,0,0,450,98,0,0,0,0,7,1.5,2,0.4,0,0,0,0,0,0,41.7427571,-87.65355939999999,4090,Cuffe,409,0,100,0,0
+610004,Cullen,Countee Cullen Elementary School,4100,Network 13,610004,Cullen,CULLEN,261,0,0,254,97.3,0,0,0,0,5,1.9,2,0.8,0,0,0,0,0,0,41.7002943,-87.6115035,4100,Cullen,380,0,100,0,0
+609756,Curie HS,Marie Sklodowska Curie Metropolitan High School,1820,Network 8,609756,Curie HS,CURIE HS,"2,982",78,2.6,356,11.9,0,0,12,0.4,"2,449",82.1,9,0.3,77,2.6,1,0,0,0,41.8022402,-87.721707,1820,Curie Magnet HS,3011,15.2,32.2,3.2,49.4
+609900,Curtis,George W Curtis Elementary School,3160,AUSL,609900,Curtis,CURTIS,626,0,0,599,95.7,0,0,0,0,20,3.2,3,0.5,0,0,1,0.2,3,0.5,41.6853515,-87.6222087,3160,Curtis,939,0.2,99,0,0.6
+610239,Daley,Richard J Daley Elementary Academy,6560,Network 8,610239,Daley,DALEY,709,1,0.1,81,11.4,0,0,1,0.1,626,88.3,0,0,0,0,0,0,0,0,41.8025125,-87.6724515,6560,Daley Acad,854,1.4,31.4,0,67.2
+609875,Darwin,Charles R Darwin Elementary School,2960,Network 4,609875,Darwin,DARWIN,593,26,4.4,67,11.3,0,0,0,0,462,77.9,2,0.3,2,0.3,0,0,34,5.7,41.9234551,-87.7052937,2960,Darwin,1141,3.2,9,0.1,87.6
+610521,"Davis, M",Sir Miles Davis Magnet Elementary Academy,7000,Network 11,610521,Davis M. Magnet,DAVIS M. MAGNET,336,0,0,329,97.9,0,0,0,0,4,1.2,1,0.3,1,0.3,0,0,1,0.3,41.771165,-87.666045,,,,,,,
+609876,"Davis, N",Nathan S Davis Elementary School,2970,Network 8,609876,Davis N.,DAVIS N.,916,14,1.5,11,1.2,0,0,0,0,877,95.7,2,0.2,3,0.3,1,0.1,8,0.9,41.8222271,-87.7002991,2970,"Davis, N.",1845,7.6,0.3,0,92
+609879,Dawes,Charles Gates Dawes Elementary School,2980,Network 10,609879,Dawes,DAWES,"1,028",11,1.1,207,20.1,0,0,9,0.9,792,77,4,0.4,3,0.3,2,0.2,0,0,41.7455946,-87.71863139999999,2980,Dawes,1473,18,44.5,1.1,36.3
+610367,De Priest,Oscar DePriest Elementary School,8050,Network 3,610367,DePriest,DEPRIEST,723,0,0,700,96.8,0,0,1,0.1,15,2.1,5,0.7,1,0.1,0,0,1,0.1,41.8780939,-87.7659401,8050,DePriest,605,0,99.8,0.2,0
+609880,Decatur,Stephen Decatur Classical Elementary School,2990,Network 2,609880,Decatur Classical,DECATUR CLASSICAL,286,119,41.6,16,5.6,0,0,1,0.3,40,14,30,10.5,79,27.6,1,0.3,0,0,42.0095099,-87.70490769999999,2990,Decatur Classical,271,43.5,19.6,19.2,15.9
+609883,Deneen,Charles S Deneen Elementary School,3010,AUSL,609883,Deneen,DENEEN,619,3,0.5,609,98.4,0,0,1,0.2,3,0.5,3,0.5,0,0,0,0,0,0,41.762424,-87.624028,3010,Deneen,645,0.3,99.7,0,0
+610252,Dett,Robert Nathaniel Dett Elementary School,6740,Network 6,610252,Dett,DETT,470,3,0.6,436,92.8,0,0,0,0,16,3.4,5,1.1,2,0.4,0,0,8,1.7,41.8796875,-87.6806019,6740,Dett,524,0.2,99.2,0,0.6
+609884,Dever,William E Dever Elementary School,3020,Network 1,609884,Dever,DEVER,847,402,47.5,15,1.8,0,0,3,0.4,375,44.3,11,1.3,38,4.5,1,0.1,2,0.2,41.9425567,-87.81359049999999,3020,Dever,676,74.1,4.6,1.8,19.4
+610402,Devry HS,DeVry University Advantage Academy HS,6990,Network 4,610402,DeVry Advantage HS,DEVRY ADVANTAGE HS,192,19,9.9,59,30.7,0,0,0,0,98,51,4,2.1,12,6.3,0,0,0,0,41.9411699,-87.6911824,,,,,,,
+609885,Dewey,Dewey Elementary Academy of Fine Arts,3030,AUSL,609885,Dewey,DEWEY,360,0,0,347,96.4,0,0,0,0,10,2.8,3,0.8,0,0,0,0,0,0,41.7959272,-87.6424021,3030,Dewey,480,0,100,0,0
+610313,Diego,Jose De Diego Elementary Community Academy,7420,Network 5,610313,De Diego,DE DIEGO,934,16,1.7,212,22.7,0,0,3,0.3,669,71.6,3,0.3,8,0.9,2,0.2,21,2.2,41.9058281,-87.6855231,7420,De Diego Comm Acad,1427,3.4,11.1,0.8,84.7
+609874,Dirksen,Everett McKinley Dirksen Elementary School,2950,Network 1,609874,Dirksen,DIRKSEN,807,528,65.4,26,3.2,0,0,3,0.4,98,12.1,5,0.6,61,7.6,1,0.1,85,10.5,41.9730575,-87.84178089999999,2950,Dirksen,560,70.4,6.8,6.8,15.7
+610363,Disney,Walt Disney Magnet Elementary School,8000,Network 2,610363,Disney Magnet,DISNEY MAGNET,"1,678",382,22.8,639,38.1,0,0,17,1,390,23.2,74,4.4,173,10.3,2,0.1,1,0.1,41.9567418,-87.64699139999999,8000,Disney Magnet,1706,25.4,34.9,11.4,27.4
+610515,Disney Ii,Disney II Magnet School,8045,Network 1,610515,Disney II Magnet,DISNEY II MAGNET,414,185,44.7,34,8.2,1,0.2,4,1,149,36,12,2.9,23,5.6,1,0.2,5,1.2,41.9504273,-87.73052659999999,,,,,,,
+,Disney Ii HS,Disney II Magnet High School,9626,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+609887,Dixon,Arthur Dixon Elementary School,3040,Network 12,609887,Dixon,DIXON,661,0,0,651,98.5,0,0,0,0,4,0.6,5,0.8,1,0.2,0,0,0,0,41.743127,-87.611012,3040,Dixon,784,0,100,0,0
+609888,Dodge,Mary Mapes Dodge Elementary Renaissance Academy,3050,AUSL,609888,Dodge,DODGE,248,1,0.4,245,98.8,0,0,0,0,2,0.8,0,0,0,0,0,0,0,0,41.8890389,-87.704657,3050,Dodge,340,0,100,0,0
+609891,Doolittle,James R Doolittle Jr Elementary School,3070,Network 9,609891,Doolittle,DOOLITTLE,304,0,0,298,98,0,0,0,0,5,1.6,1,0.3,0,0,0,0,0,0,41.8311181,-87.6128428,3070,Doolittle Intermediate,415,0.2,99.8,0,0
+609893,Dore,John C Dore Elementary School,3080,Network 10,609893,Dore,DORE,646,222,34.4,18,2.8,0,0,1,0.2,394,61,4,0.6,6,0.9,1,0.2,0,0,41.780505,-87.78748530000001,3080,Dore,421,65.6,11.4,0.7,22.3
+610245,Douglass HS,Frederick A Douglass Academy High School,6630,Network 3,610245,Douglass HS,DOUGLASS HS,291,0,0,282,96.9,0,0,0,0,7,2.4,2,0.7,0,0,0,0,0,0,41.8900969,-87.76702,6630,Douglass Acad,715,0,100,0,0
+609894,Drake,John B Drake Elementary School,3100,Network 9,609894,Drake,DRAKE,517,2,0.4,496,95.9,0,0,0,0,8,1.5,3,0.6,3,0.6,0,0,5,1,41.8441791,-87.62886,3100,Drake,388,0,100,0,0
+609896,Drummond,Thomas Drummond Elementary School,3120,Network 6,609896,Drummond Magnet,DRUMMOND MAGNET,349,136,39,20,5.7,0,0,0,0,144,41.3,30,8.6,19,5.4,0,0,0,0,41.9157817,-87.6745452,3120,Drummond,310,13.9,4.2,0,81
+610364,Dubois,William E B Dubois Elementary School,8010,Network 13,610364,DuBois,DUBOIS,205,2,1,191,93.2,0,0,0,0,8,3.9,4,2,0,0,0,0,0,0,41.65365660000001,-87.6140063,8010,DuBois,488,0,94.1,0.2,5.7
+610263,Dulles,John Foster Dulles Elementary School,6860,AUSL,610263,Dulles,DULLES,788,2,0.3,770,97.7,0,0,0,0,9,1.1,2,0.3,1,0.1,1,0.1,3,0.4,41.779957,-87.61687769999999,6860,Dulles,875,0,99.9,0,0.1
+609676,Dunbar HS,Paul Laurence Dunbar Career Academy High School,1030,Network 9,609676,Dunbar Voc HS,DUNBAR VOC HS,"1,188",2,0.2,"1,167",98.2,0,0,0,0,11,0.9,6,0.5,2,0.2,0,0,0,0,41.8406297,-87.6180455,1030,Dunbar HS,1832,0.1,99.9,0,0.1
+610188,Dunne Tech Acad,Dunne Technology Academy,6050,Network 13,610188,Dunne,DUNNE,294,0,0,289,98.3,0,0,0,0,5,1.7,0,0,0,0,0,0,0,0,41.6970253,-87.6400893,6050,Dunne,540,0,100,0,0
+610352,Durkin Park,Durkin Park Elementary School,7870,Network 10,610352,Durkin Park,DURKIN PARK,592,37,6.3,79,13.3,0,0,3,0.5,468,79.1,5,0.8,0,0,0,0,0,0,41.73904700000001,-87.7298805,,,,,,,
+610254,Dvorak Tech Acad,Dvorak Technology Academy,6760,Network 5,610254,Dvorak,DVORAK,547,0,0,537,98.2,0,0,0,0,8,1.5,2,0.4,0,0,0,0,0,0,41.8584928,-87.71576329999999,6760,Dvorak,676,0,100,0,0
+609736,Dyett HS,Dyett High School,1600,Network 9,609736,Dyett HS,DYETT HS,83,0,0,79,95.2,0,0,1,1.2,1,1.2,2,2.4,0,0,0,0,0,0,41.8013958,-87.61238639999999,,,,,,,
+610316,Earhart,Amelia Earhart Options for Knowledge ES,7450,Network 12,610316,Earhart,EARHART,263,0,0,258,98.1,0,0,0,0,1,0.4,4,1.5,0,0,0,0,0,0,41.7263394,-87.58284689999999,7450,Earhart,219,0.5,99.5,0,0
+609897,Earle,Charles W Earle Elementary School,3130,Network 11,609897,Earle,EARLE,530,0,0,513,96.8,0,0,0,0,14,2.6,1,0.2,0,0,1,0.2,1,0.2,41.7811501,-87.67533999999999,3130,Earle,760,0.1,99.7,0,0.1
+609898,Eberhart,John F Eberhart Elementary School,3140,Network 10,609898,Eberhart,EBERHART,"1,591",28,1.8,58,3.6,0,0,1,0.1,"1,500",94.3,4,0.3,0,0,0,0,0,0,41.774628,-87.70833510000001,3140,Eberhart,1370,11.5,3.4,0.3,84.7
+609899,Ebinger,Christian Ebinger Elementary School,3150,Network 1,609899,Ebinger,EBINGER,732,531,72.5,4,0.5,0,0,1,0.1,145,19.8,19,2.6,26,3.6,2,0.3,4,0.5,42.0043537,-87.8106409,3150,Ebinger,391,79,2.8,4.1,14.1
+609901,Edgebrook,Edgebrook Elementary School,3170,Network 1,609901,Edgebrook,EDGEBROOK,504,342,67.9,14,2.8,0,0,2,0.4,74,14.7,12,2.4,54,10.7,6,1.2,0,0,41.9997444,-87.76266190000001,3170,Edgebrook,277,74.4,5.1,10.8,9
+610523,Edison Park,Edison Park Elementary School,2085,Network 1,610523,Edison Park,EDISON PARK,470,338,71.9,3,0.6,1,0.2,1,0.2,97,20.6,0,0,20,4.3,2,0.4,8,1.7,41.9941977,-87.8136821,,,,,,,
+609794,"Edison, T",Thomas A Edison Regional Gifted Center ES,2220,Network 1,609794,Edison,EDISON,276,144,52.2,12,4.3,0,0,0,0,40,14.5,21,7.6,57,20.7,2,0.7,0,0,41.9710949,-87.70946350000001,2220,Edison,269,33.5,18.6,18.2,28.3
+609903,Edwards,Richard Edwards Elementary School,3200,Network 8,609903,Edwards,EDWARDS,"1,520",51,3.4,8,0.5,0,0,13,0.9,"1,434",94.3,1,0.1,8,0.5,4,0.3,1,0.1,41.8053434,-87.7254019,3200,Edwards,1068,37.2,0.7,0.1,61.8
+609904,Ellington,Edward K Ellington Elementary School,3220,Network 3,609904,Ellington,ELLINGTON,735,3,0.4,704,95.8,0,0,1,0.1,24,3.3,2,0.3,0,0,0,0,1,0.1,41.8855384,-87.7663785,3220,Ellington,736,0,100,0,0
+400094,Epic Chtr HS,EPIC Academy High School,8058,Charter,400094,EPIC Acad HS,EPIC ACAD HS,493,2,0.4,293,59.4,0,0,2,0.4,181,36.7,3,0.6,0,0,0,0,12,2.4,41.7449535,-87.54965849999999,,,,,,,
+609907,Ericson,Leif Ericson Elementary Scholastic Academy,3240,OS4,609907,Ericson Magnet,ERICSON MAGNET,487,1,0.2,454,93.2,0,0,0,0,6,1.2,0,0,1,0.2,0,0,25,5.1,41.8758867,-87.7162518,3240,Ericson,735,0,100,0,0
+400039,Erie Chtr Campus,Erie Elementary Charter School,5780,Charter,400039,Erie Charter,ERIE CHARTER,425,7,1.6,74,17.4,0,0,0,0,331,77.9,7,1.6,2,0.5,0,0,4,0.9,41.906965,-87.6941118,,,,,,,
+609908,Esmond,Esmond Elementary School,3250,OS4,609908,Esmond,ESMOND,356,0,0,344,96.6,0,0,0,0,10,2.8,1,0.3,1,0.3,0,0,0,0,41.689107,-87.669517,3250,Esmond,626,0,99.8,0,0.2
+609909,Everett,Edward Everett Elementary School,3260,Network 8,609909,Everett,EVERETT,256,10,3.9,4,1.6,0,0,0,0,235,91.8,3,1.2,4,1.6,0,0,0,0,41.8317383,-87.68108219999999,3260,Everett,437,17.4,1.6,3.9,76.9
+610319,Evergreen,Evergreen Academy Middle School,7490,Network 8,610319,Evergreen Middle,EVERGREEN MIDDLE,388,13,3.4,9,2.3,0,0,0,0,353,91,4,1,6,1.5,1,0.3,2,0.5,41.8291339,-87.66753489999999,7490,Evergreen Acad,364,8.2,0.5,3.3,87.1
+610362,Evers,Medgar Evers Elementary School,7990,Network 11,610362,Evers,EVERS,395,1,0.3,394,99.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.71523699999999,-87.6393976,7990,Evers,259,0,100,0,0
+610057,Fairfield,Fairfield Elementary Academy,4660,Network 10,610057,Fairfield,FAIRFIELD,575,4,0.7,192,33.4,0,0,4,0.7,370,64.3,4,0.7,0,0,0,0,1,0.2,41.7806457,-87.6917009,4660,Maquette East,876,0.7,65.1,0.1,34.1
+609910,Falconer,Laughlin Falconer Elementary School,3270,Network 3,609910,Falconer,FALCONER,"1,434",56,3.9,25,1.7,0,0,6,0.4,"1,325",92.4,4,0.3,16,1.1,2,0.1,0,0,41.93582989999999,-87.75051289999999,3270,Falconer,1162,20.7,1.5,1.3,76.4
+610055,Faraday,Michael Faraday Elementary School,4640,Network 5,610055,Faraday,FARADAY,347,0,0,336,96.8,0,0,1,0.3,5,1.4,2,0.6,0,0,0,0,3,0.9,41.8798883,-87.7082623,4640,Faraday,615,0,100,0,0
+609912,Farnsworth,James B Farnsworth Elementary School,3280,Network 1,609912,Farnsworth,FARNSWORTH,597,249,41.7,13,2.2,0,0,1,0.2,246,41.2,7,1.2,77,12.9,2,0.3,2,0.3,41.9797454,-87.7662909,3280,Farnsworth,529,59,7.6,8.1,20.6
+609704,Farragut HS,David G Farragut Career Academy High School,1300,Network 7,609704,Farragut HS,FARRAGUT HS,"1,100",3,0.3,124,11.3,0,0,3,0.3,966,87.8,0,0,0,0,0,0,4,0.4,41.84897429999999,-87.70864739999999,1300,Farragut Car Acad HS,2182,0.4,12.2,0,87.4
+609705,Fenger HS,Christian Fenger Academy High School,1310,Network 13,609705,Fenger  HS,FENGER  HS,421,0,0,415,98.6,0,0,0,0,4,1,1,0.2,0,0,1,0.2,0,0,41.6896803,-87.6383546,1310,Fenger HS,796,0.3,99.5,0,0.3
+609917,Fernwood,Fernwood Elementary School,3330,Network 13,609917,Fernwood,FERNWOOD,311,0,0,309,99.4,0,0,0,0,0,0,2,0.6,0,0,0,0,0,0,41.7110091,-87.64035349999999,3330,Fernwood,450,0,100,0,0
+609918,Field,Eugene Field Elementary School,3350,Network 2,609918,Field,FIELD,390,9,2.3,141,36.2,0,0,0,0,198,50.8,7,1.8,35,9,0,0,0,0,42.0096198,-87.6700723,3350,Field,1443,7.3,45.1,3.3,43.6
+609967,Finkl,William F Finkl Elementary School,3760,Network 7,609967,Finkl,FINKL,524,14,2.7,47,9,0,0,0,0,448,85.5,1,0.2,1,0.2,0,0,13,2.5,41.8494924,-87.68664059999999,3760,Finkl,760,0.4,12.4,0,87.2
+609919,Fiske,John Fiske Elementary School,3360,Network 9,609919,Fiske,FISKE,507,0,0,500,98.6,0,0,0,0,5,1,1,0.2,0,0,0,0,1,0.2,41.7852614,-87.60854289999999,3360,Fiske,558,0,100,0,0
+400042,Ford Chtr HS,Henry Ford Academy Power House Charter HS,1165,Charter,400042,Ford Power House Chrt HS,FORD POWER HOUSE CHRT HS,179,1,0.6,162,90.5,0,0,1,0.6,11,6.1,0,0,0,0,0,0,4,2.2,41.869208,-87.709929,,,,,,,
+609708,Foreman HS,Edwin G Foreman High School,1330,Network 1,609708,Foreman HS,FOREMAN HS,"1,507",57,3.8,222,14.7,0,0,5,0.3,"1,201",79.7,6,0.4,10,0.7,2,0.1,4,0.3,41.9397716,-87.7527327,1330,Foreman HS,1500,25.1,10.2,1.1,63.7
+609924,Fort Dearborn,Fort Dearborn Elementary School,3400,Network 11,609924,Fort Dearborn,FORT DEARBORN,416,0,0,412,99,0,0,0,0,0,0,4,1,0,0,0,0,0,0,41.7301465,-87.65532809999999,3400,Fort Dearborn,890,0,100,0,0
+609927,Foster Park,Foster Park Elementary School,3430,Network 11,609927,Foster Park,FOSTER PARK,395,0,0,388,98.2,0,0,0,0,6,1.5,0,0,1,0.3,0,0,0,0,41.7388577,-87.668317,3430,Foster Park,817,0.2,99.4,0.1,0.2
+609926,Franklin,Franklin Elementary Fine Arts Center,3420,Network 4,609926,Franklin Magnet,FRANKLIN MAGNET,371,123,33.2,136,36.7,0,0,0,0,73,19.7,16,4.3,23,6.2,0,0,0,0,41.906397,-87.6355614,3420,Franklin Magnet,361,29.6,32.1,15.5,19.7
+400040,Frazier Chtr,Frazier Preparatory Academy Elementary School,6650,Charter,400040,Frazier Prep Acad,FRAZIER PREP ACAD,456,1,0.2,408,89.5,0,0,0,0,3,0.7,0,0,0,0,0,0,44,9.6,41.8619571,-87.7182011,,,,,,,
+610503,Frazier Prospective,Frazier Prospective IB Magnet ES,5850,Network 5,610503,Frazier International,FRAZIER INTERNATIONAL,265,1,0.4,260,98.1,0,0,0,0,2,0.8,0,0,0,0,0,0,2,0.8,41.866802,-87.726444,,,,,,,
+609928,Fuller,Melville W Fuller Elementary School,3440,AUSL,609928,Fuller,FULLER,299,0,0,290,97,0,0,0,0,8,2.7,1,0.3,0,0,0,0,0,0,41.81810189999999,-87.6121644,3440,Fuller,444,0,100,0,0
+609929,Fulton,Robert Fulton Elementary School,3450,Network 11,609929,Fulton,FULTON,498,4,0.8,309,62,0,0,1,0.2,184,36.9,0,0,0,0,0,0,0,0,41.797134,-87.66868699999999,3450,Fulton,956,0,93.8,0,6.2
+609930,Funston,Frederick Funston Elementary School,3460,Network 4,609930,Funston,FUNSTON,591,5,0.8,71,12,0,0,2,0.3,510,86.3,1,0.2,2,0.3,0,0,0,0,41.917931,-87.717343,3460,Funston,905,2.3,11.8,0,85.4
+609709,Gage Park HS,Gage Park High School,1340,Network 8,609709,Gage Park HS,GAGE PARK HS,613,6,1,295,48.1,0,0,3,0.5,304,49.6,3,0.5,1,0.2,1,0.2,0,0,41.7910494,-87.68944950000001,1340,Gage Park HS,1485,0.9,53.9,0.2,44.9
+400041,Galapagos Chtr Campus,Galapagos Elementary Charter School,5840,Charter,400041,Galapagos Charter,GALAPAGOS CHARTER,346,0,0,299,86.4,0,0,0,0,18,5.2,0,0,0,0,0,0,29,8.4,41.8972387,-87.72185999999999,,,,,,,
+609933,Gale,Stephen F Gale Elementary Community Academy,3480,Network 2,609933,Gale,GALE,462,18,3.9,284,61.5,0,0,1,0.2,112,24.2,10,2.2,33,7.1,1,0.2,3,0.6,42.020712,-87.6712751,3480,Gale Comm Acad,965,2.4,75.5,1.9,19.8
+610009,Galileo,Galileo Math & Science Scholastic Academy ES,4160,Network 6,610009,Galileo Magnet,GALILEO MAGNET,559,28,5,129,23.1,0,0,0,0,364,65.1,17,3,19,3.4,2,0.4,0,0,41.8711682,-87.65348390000001,4160,Galileo Scholastic,606,18.6,25.2,3.3,52.8
+609935,Gallistel,Matthew Gallistel Elementary Language Academy,3490,Network 13,609935,Gallistel Magnet,GALLISTEL MAGNET,"1,326",17,1.3,26,2,0,0,8,0.6,"1,272",95.9,2,0.2,0,0,0,0,1,0.1,41.706929,-87.534677,3490,Gallistel Lang Acad,1067,5.8,1.1,0.1,93
+610128,Garvey,Marcus Moziah Garvey Elementary School,5420,Network 13,610128,Garvey M.,GARVEY M.,292,0,0,292,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.7066016,-87.6475273,5420,Garvey,659,0,100,0,0
+609937,Garvy,John W Garvy Elementary School,3510,Network 1,609937,Garvy J.,GARVY J.,792,473,59.7,11,1.4,0,0,2,0.3,213,26.9,19,2.4,60,7.6,8,1,6,0.8,41.9760619,-87.7958862,3510,Garvy,429,81.1,2.8,4.7,10.5
+609938,Gary,Joseph E Gary Elementary School,3520,Network 7,609938,Gary,GARY,"1,206",5,0.4,4,0.3,0,0,6,0.5,"1,189",98.6,0,0,2,0.2,0,0,0,0,41.8379745,-87.7188503,3520,Gary,1269,0.6,0.3,0,99.1
+609939,Gillespie,Frank L Gillespie Elementary School,3530,Network 12,609939,Gillespie,GILLESPIE,601,0,0,592,98.5,0,0,0,0,6,1,2,0.3,0,0,0,0,1,0.2,41.725211,-87.62341599999999,3530,Gillespie,830,0,100,0,0
+400009,Global Citizenship Chtr,Academy for Global Citizenship Elementary School,2025,Charter,400009,Globel Citizenship,GLOBEL CITIZENSHIP,350,31,8.9,11,3.1,0,0,2,0.6,298,85.1,3,0.9,1,0.3,0,0,4,1.1,41.8074042,-87.7401828,,,,,,,
+609942,Goethe,Johann W von Goethe Elementary School,3560,Network 4,609942,Goethe,GOETHE,807,100,12.4,18,2.2,0,0,15,1.9,652,80.8,14,1.7,3,0.4,1,0.1,4,0.5,41.9228571,-87.69319200000001,3560,Goethe,846,4.8,2.6,0.2,92.3
+609943,Gompers,Samuel Gompers Fine Arts Options ES,3570,Network 13,609943,Gompers,GOMPERS,526,0,0,510,97,0,0,0,0,5,1,0,0,0,0,0,0,11,2.1,41.6705466,-87.62318929999999,3570,Gompers,511,0,99.6,0.2,0.2
+610558,Goode Acad HS,Sarah E. Goode STEM Academy,9598,Network 10,610558,Goode STEM Acad,GOODE STEM ACAD,462,5,1.1,276,59.7,0,0,3,0.6,168,36.4,7,1.5,1,0.2,0,0,2,0.4,41.7539852,-87.7073788,,,,,,,
+609945,Goudy,William C Goudy Elementary School,3590,Network 2,609945,Goudy,GOUDY,797,53,6.6,176,22.1,0,0,6,0.8,249,31.2,5,0.6,307,38.5,1,0.1,0,0,41.9759561,-87.6580654,3590,Goudy,938,22.2,20.8,27.8,28.6
+609947,Graham,Alexander Graham Elementary School,3600,Network 6,609947,Graham A.,GRAHAM A.,476,145,30.5,126,26.5,0,0,0,0,201,42.2,1,0.2,2,0.4,1,0.2,0,0,41.8134221,-87.643249,3600,Graham,907,54.2,25.8,0,19.8
+609769,"Graham,r HS",Ray Graham Training Center High School,1950,Network 6,609769,Graham R. Trng CTR,GRAHAM R. TRNG CTR,123,5,4.1,64,52,0,0,0,0,51,41.5,1,0.8,2,1.6,0,0,0,0,41.849591,-87.62539749999999,1950,Graham Trianing HS,192,3.1,68.8,1.6,26.6
+609949,"Gray, W",William P Gray Elementary School,3620,Network 1,609949,Gray,GRAY,"1,303",140,10.7,16,1.2,0,0,3,0.2,"1,100",84.4,12,0.9,27,2.1,0,0,5,0.4,41.9490944,-87.75741289999999,3620,Gray,1303,44.9,1.2,2.9,50.6
+610383,Greater Lawndale HS,Greater Lawndale High School For Social Justice,7600,Network 7,610383,Sch Of Social Justice HS,SCH OF SOCIAL JUSTICE HS,356,0,0,32,9,0,0,0,0,323,90.7,1,0.3,0,0,0,0,0,0,41.8351441,-87.7351437,,,,,,,
+609850,Greeley,Horace Greeley Elementary School,2730,Network 4,609850,Greeley,GREELEY,637,71,11.1,87,13.7,0,0,4,0.6,450,70.6,11,1.7,14,2.2,0,0,0,0,41.9532365,-87.65075259999999,2730,Greeley,575,16.3,20,3.8,59.8
+610032,Green,Wendell E Green Elementary School,4410,Network 11,610032,Green W.,GREEN W.,302,0,0,293,97,0,0,0,0,4,1.3,4,1.3,1,0.3,0,0,0,0,41.7193739,-87.6524659,4410,"Green, W.",340,0.3,99.7,0,0
+609952,Greene,Nathanael Greene Elementary School,3650,Network 8,609952,Greene N.,GREENE N.,642,32,5,18,2.8,0,0,2,0.3,577,89.9,2,0.3,9,1.4,0,0,2,0.3,41.8298658,-87.6711464,3650,Greene,750,15.3,0.1,4.4,80
+609954,Gregory,John Milton Gregory Elementary School,3660,Network 5,609954,Gregory,GREGORY,435,0,0,430,98.9,0,0,0,0,3,0.7,0,0,0,0,0,0,2,0.5,41.8707997,-87.7186199,3660,Gregory,673,0,99.9,0,0.1
+609955,Gresham,Walter Q Gresham Elementary School,3670,Network 11,609955,Gresham,GRESHAM,318,0,0,316,99.4,0,0,0,0,1,0.3,1,0.3,0,0,0,0,0,0,41.7392213,-87.64494239999999,3670,Gresham,684,0,100,0,0
+609956,Grimes,Robert L Grimes Elementary School,3680,Network 10,609956,Grimes,GRIMES,477,62,13,3,0.6,0,0,0,0,406,85.1,2,0.4,4,0.8,0,0,0,0,41.7756055,-87.7582534,3680,Grimes,395,51.6,10.1,0,38.2
+609944,Grissom,Virgil Grissom Elementary School,3580,Network 13,609944,Grissom,GRISSOM,339,71,20.9,21,6.2,0,0,3,0.9,241,71.1,2,0.6,1,0.3,0,0,0,0,41.66191999999999,-87.553792,3580,Grissom,295,51.2,13.6,0,35.3
+609958,Gunsaulus,Frank W Gunsaulus Elementary Scholastic Academy,3690,Network 8,609958,Gunsaulus Magnet,GUNSAULUS MAGNET,862,18,2.1,44,5.1,0,0,6,0.7,759,88.1,6,0.7,21,2.4,2,0.2,6,0.7,41.81327659999999,-87.69926219999999,3690,Gunsaulus Acad,721,25.2,25.5,5.5,43.4
+609959,Haines,John Charles Haines Elementary School,3700,Network 6,609959,Haines,HAINES,672,1,0.1,86,12.8,0,0,0,0,12,1.8,4,0.6,561,83.5,8,1.2,0,0,41.8497616,-87.63380149999999,3700,Haines,713,0.4,31.7,67.3,0.4
+609960,Hale,Nathan Hale Elementary School,3710,Network 10,609960,Hale,HALE,872,254,29.1,6,0.7,0,0,7,0.8,588,67.4,7,0.8,9,1,1,0.1,0,0,41.780251,-87.7768509,3710,Hale,701,63.8,3.4,2.4,29.8
+609808,Haley,Alex Haley Elementary Academy,2360,Network 13,609808,Haley,HALEY,651,1,0.2,634,97.4,0,0,0,0,11,1.7,4,0.6,0,0,0,0,1,0.2,41.6867911,-87.6337276,2360,Brenan,924,0.1,99.9,0,0
+609963,Hamilton,Alexander Hamilton Elementary School,3730,Network 4,609963,Hamilton,HAMILTON,381,189,49.6,40,10.5,0,0,1,0.3,109,28.6,22,5.8,17,4.5,3,0.8,0,0,41.9454296,-87.6707366,3730,Hamilton,488,18.9,30.3,3.9,46.7
+609964,Hamline,John H Hamline Elementary School,3740,Network 8,609964,Hamline,HAMLINE,681,8,1.2,69,10.1,0,0,1,0.1,595,87.4,5,0.7,3,0.4,0,0,0,0,41.8072923,-87.6609932,3740,Hamline,1028,1.8,15.7,0.5,82.1
+609966,Hammond,Charles G Hammond Elementary School,3750,OS4,609966,Hammond,HAMMOND,515,6,1.2,49,9.5,0,0,0,0,460,89.3,0,0,0,0,0,0,0,0,41.8525332,-87.6958882,3750,Hammond,575,0.3,0.7,0,99
+609807,Hampton,Lionel Hampton Fine & Performing Arts ES,2350,Network 10,609807,Hampton,HAMPTON,614,2,0.3,304,49.5,0,0,5,0.8,282,45.9,4,0.7,0,0,0,0,17,2.8,41.75376,-87.708978,,,,,,,
+609694,Hancock HS,John Hancock College Preparatory High School,1200,OS4,609694,Hancock HS,HANCOCK HS,928,38,4.1,8,0.9,0,0,2,0.2,867,93.4,5,0.5,5,0.5,1,0.1,2,0.2,41.7918745,-87.7249574,1200,Hancock HS,298,10.4,9.1,1,79.5
+610068,Hanson Park,Hanson Park Elementary School,4770,Network 3,610068,Hanson Park,HANSON PARK,"1,612",22,1.4,42,2.6,0,0,5,0.3,"1,539",95.5,2,0.1,1,0.1,0,0,1,0.1,41.9232753,-87.7620772,4770,Hanson Park,1074,8,7.7,1.8,82.3
+609710,Harlan HS,John M Harlan Community Academy High School,1350,Network 12,609710,Harlan HS,HARLAN HS,918,0,0,904,98.5,0,0,1,0.1,6,0.7,6,0.7,1,0.1,0,0,0,0,41.7183937,-87.6210565,1350,Harlan Com Acad HS,744,0,100,0,0
+609711,Harper HS,William Rainey Harper High School,1360,Network 11,609711,Harper HS,HARPER HS,482,1,0.2,468,97.1,0,0,0,0,11,2.3,1,0.2,0,0,0,0,1,0.2,41.7748285,-87.6695089,1360,Harper HS,1266,0.2,99.4,0,0.4
+609969,Harte,Bret Harte Elementary School,3780,Network 9,609969,Harte,HARTE,363,15,4.1,305,84,0,0,4,1.1,28,7.7,9,2.5,2,0.6,0,0,0,0,41.793709,-87.586698,3780,Harte,390,0.3,98.5,0,1
+609971,Harvard,John Harvard Elementary School of Excellence,3800,AUSL,609971,Harvard,HARVARD,501,1,0.2,498,99.4,0,0,0,0,0,0,1,0.2,0,0,1,0.2,0,0,41.75751229999999,-87.6323159,3800,Harvard,646,0.3,99.7,0,0
+609972,Haugan,Helge A Haugan Elementary School,3810,Network 1,609972,Haugan,HAUGAN,"1,207",71,5.9,39,3.2,0,0,3,0.2,"1,000",82.9,11,0.9,67,5.6,3,0.2,13,1.1,41.9637308,-87.7232137,3810,Haugan,1468,15.5,3.3,12.7,68.4
+609974,Hawthorne,Hawthorne Elementary Scholastic Academy,3830,Network 4,609974,Hawthorne Magnet,HAWTHORNE MAGNET,574,285,49.7,59,10.3,0,0,10,1.7,129,22.5,40,7,42,7.3,9,1.6,0,0,41.9423571,-87.6574886,3830,Hawthorne Acad,544,39.3,25.2,7.9,27.2
+609975,Hay,John Hay Elementary Community Academy,3840,Network 3,609975,Hay,HAY,541,2,0.4,491,90.8,0,0,0,0,42,7.8,2,0.4,1,0.2,0,0,3,0.6,41.8995468,-87.7557253,3840,Hay Comm Acad,759,0,99.7,0,0.3
+609976,Hayt,Stephen K Hayt Elementary School,3850,Network 2,609976,Hayt,HAYT,984,107,10.9,167,17,0,0,12,1.2,479,48.7,13,1.3,198,20.1,6,0.6,2,0.2,41.9947363,-87.66849959999999,3850,Hayt,1150,13.2,20.8,25.5,39
+609979,Healy,Robert Healy Elementary School,3880,Network 6,609979,Healy,HEALY,"1,418",136,9.6,15,1.1,0,0,1,0.1,355,25,18,1.3,859,60.6,34,2.4,0,0,41.839471,-87.6404791,3880,Healy,1352,20,1.8,53.8,24.3
+609981,Hearst,Phobe Apperson Hearst Elementary School,3890,Network 10,609981,Hearst,HEARST,353,4,1.1,162,45.9,0,0,0,0,182,51.6,4,1.1,0,0,1,0.3,0,0,41.8085418,-87.7461271,3890,Hearst,935,0.5,97.6,0,1.8
+609983,Hedges,James Hedges Elementary School,3900,Network 8,609983,Hedges,HEDGES,850,14,1.6,29,3.4,0,0,3,0.4,801,94.2,1,0.1,0,0,0,0,2,0.2,41.8073034,-87.67311570000001,3900,Hedges,1011,2.3,4,0,93.8
+609985,Hefferan,Helen M Hefferan Elementary School,3910,Network 5,609985,Hefferan,HEFFERAN,427,2,0.5,419,98.1,0,0,1,0.2,4,0.9,1,0.2,0,0,0,0,0,0,41.8785072,-87.7358885,3910,Hefferan,556,0.2,99.8,0,0
+609986,Henderson,Charles R Henderson Elementary School,3920,Network 11,609986,Henderson,HENDERSON,370,0,0,354,95.7,0,0,0,0,15,4.1,1,0.3,0,0,0,0,0,0,41.7907355,-87.67217459999999,3920,Henderson,848,0,98.8,0.1,1.1
+609987,Hendricks,Thomas A Hendricks Elementary Community Academy,3930,Network 9,609987,Hendricks,HENDRICKS,271,1,0.4,247,91.1,0,0,0,0,17,6.3,2,0.7,1,0.4,0,0,3,1.1,41.8159709,-87.63356619999999,3930,Hendricks Comm Acad,429,1.9,96.3,0,1.9
+609988,Henry,Patrick Henry Elementary School,3940,Network 1,609988,Henry,HENRY,683,34,5,31,4.5,0,0,6,0.9,511,74.8,3,0.4,19,2.8,5,0.7,74,10.8,41.9586697,-87.71592419999999,3940,Henry,977,13.2,3.4,5.3,77.7
+610532,Hernandez,Irene C. Hernandez Middle School for the Advancement of Science,8021,Network 8,610532,Hernandez,HERNANDEZ,916,7,0.8,21,2.3,0,0,4,0.4,879,96,2,0.2,0,0,0,0,3,0.3,41.7937008,-87.71190849999999,,,,,,,
+609961,Heroes,Ninos Heroes Elementary Academic Center,3720,Network 12,609961,Ninos Heroes,NINOS HEROES,436,4,0.9,345,79.1,0,0,3,0.7,83,19,1,0.2,0,0,0,0,0,0,41.7438367,-87.5527865,3720,Heroes Academic,842,0.5,77.7,0,21.7
+609991,Herzl,Theodore Herzl Elementary School,3970,AUSL,609991,Herzl,HERZL,554,2,0.4,529,95.5,0,0,0,0,18,3.2,4,0.7,0,0,1,0.2,0,0,41.8619571,-87.7182011,3970,Herzl,979,0,99,0,1
+609994,Hibbard,William G Hibbard Elementary School,4000,Network 1,609994,Hibbard,HIBBARD,"1,221",63,5.2,74,6.1,0,0,9,0.7,948,77.6,13,1.1,102,8.4,1,0.1,11,0.9,41.970866,-87.7103849,4000,Hibbard,1262,16.1,5,20.8,58.1
+610295,Higgins,Thomas J Higgins Elementary Community Academy,7210,Network 13,610295,Higgins,HIGGINS,410,0,0,403,98.3,0,0,0,0,6,1.5,1,0.2,0,0,0,0,0,0,41.6809597,-87.64722809999999,7210,Higgins Comm Acad,523,0,100,0,0
+610299,Hinton,William A Hinton Elementary School,7250,Network 11,610299,Hinton,HINTON,248,0,0,244,98.4,0,0,0,0,4,1.6,0,0,0,0,0,0,0,0,41.7652597,-87.64109739999999,7250,Hinton,687,0,100,0,0
+609712,Hirsch HS,Emil G Hirsch Metropolitan High School,1380,Network 12,609712,Hirsch HS,HIRSCH HS,273,1,0.4,270,98.9,0,0,0,0,2,0.7,0,0,0,0,0,0,0,0,41.7542231,-87.6016465,1380,Hirsch Magnet HS,585,0,100,0,0
+609995,Hitch,Rufus M Hitch Elementary School,4010,Network 1,609995,Hitch,HITCH,586,261,44.5,7,1.2,0,0,2,0.3,226,38.6,24,4.1,64,10.9,0,0,2,0.3,41.983825,-87.77861899999999,4010,Hitch,390,39.7,18.5,7.2,34.4
+609996,Holden,Charles N Holden Elementary School,4020,Network 6,609996,Holden,HOLDEN,528,55,10.4,36,6.8,0,0,2,0.4,340,64.4,10,1.9,85,16.1,0,0,0,0,41.838398,-87.654055,4020,Holden,776,28.4,5.4,8.9,56.6
+609997,Holmes,Oliver Wendell Holmes Elementary School,4030,OS4,609997,Holmes,HOLMES,274,0,0,269,98.2,0,0,0,0,2,0.7,3,1.1,0,0,0,0,0,0,41.7938661,-87.64966179999999,4030,Holmes,751,0,100,0,0
+400043,Hope Contr ES,Hope Institute Learning Academy,8067,Contract,400043,Hope Inst Learning Acad,HOPE INST LEARNING ACAD,398,9,2.3,342,85.9,0,0,1,0.3,34,8.5,3,0.8,4,1,0,0,5,1.3,41.883751,-87.6679178,,,,,,,
+609768,Hope HS,Hope College Preparatory High School,1940,Network 11,609768,Hope CPHS,HOPE CPHS,391,1,0.3,373,95.4,0,0,0,0,15,3.8,1,0.3,1,0.3,0,0,0,0,41.7933743,-87.6409596,,,,,,,
+610000,Howe,Julia Ward Howe Elementary School of Excellence,4060,AUSL,610000,Howe,HOWE,646,2,0.3,621,96.1,0,0,1,0.2,18,2.8,2,0.3,1,0.2,0,0,1,0.2,41.89354669999999,-87.7599539,4060,Howe,845,19.3,80.7,0,0
+610002,Hoyne,Thomas Hoyne Elementary School,4080,Network 12,610002,Hoyne,HOYNE,253,0,0,242,95.7,0,0,0,0,7,2.8,4,1.6,0,0,0,0,0,0,41.7332539,-87.56789680000001,4080,Hoyne,279,0,99.6,0.4,0
+609741,Hubbard HS,Gurdon S Hubbard High School,1670,Network 10,609741,Hubbard HS,HUBBARD HS,"1,615",53,3.3,85,5.3,0,0,6,0.4,"1,413",87.5,1,0.1,57,3.5,0,0,0,0,41.780545,-87.71791999999999,1670,Hubbard HS,1652,29.4,15,6.2,49.2
+610005,"Hughes, C",Charles Evans Hughes Elementary School,4110,Network 5,610005,Hughes C.,HUGHES C.,329,3,0.9,316,96,0,0,0,0,7,2.1,1,0.3,1,0.3,0,0,1,0.3,41.8605691,-87.732568,4110,"Hughes, C.E.",565,0,99.6,0,0.4
+610368,"Hughes, L",Langston Hughes Elementary School,8060,Network 13,610368,Hughes L.,HUGHES L.,606,2,0.3,597,98.5,0,0,0,0,7,1.2,0,0,0,0,0,0,0,0,41.705277,-87.629223,8060,"Hughes, L.",508,0,100,0,0
+610006,Hurley,Edward N Hurley Elementary School,4120,Network 10,610006,Hurley,HURLEY,854,3,0.4,8,0.9,0,0,0,0,843,98.7,0,0,0,0,0,0,0,0,41.7664033,-87.7191981,4120,Hurley,1085,10.5,9.9,1.4,78.2
+609713,Hyde Park HS,Hyde Park Academy High School,1390,Network 9,609713,Hyde Park HS,HYDE PARK HS,"1,001",0,0,989,98.8,0,0,0,0,4,0.4,7,0.7,0,0,0,0,1,0.1,41.7821852,-87.5870514,1390,Hyde ParkHS,1801,0,99.2,0,0.3
+610384,Infinity HS,Infinity Math Science and Technology High School,7680,Network 7,610384,Infinity HS,INFINITY HS,411,1,0.2,19,4.6,0,0,1,0.2,390,94.9,0,0,0,0,0,0,0,0,41.8351441,-87.7351437,,,,,,,
+400104,Instituto Acad Chtr Health,Instituto Health Sciences Career Academy HS,8026,Charter,400104,Instituto Health Acad HS,INSTITUTO HEALTH ACAD HS,762,11,1.4,33,4.3,0,0,4,0.5,711,93.3,0,0,1,0.1,0,0,2,0.3,41.8457485,-87.68586049999999,,,,,,,
+400148,Instituto Justice Chtr Acad,Instituto Justice and Leadership Acad Charter HS,9065,Charter,400148,IJLA Chtr - Leadership  HS,IJLA CHTR - LEADERSHIP  HS,165,3,1.8,5,3,0,0,1,0.6,152,92.1,0,0,1,0.6,0,0,3,1.8,41.845649,-87.6841139,,,,,,,
+610078,Inter-american,Inter-American Elementary Magnet School,4890,Network 4,610078,Inter-American Magnet,INTER-AMERICAN MAGNET,667,74,11.1,10,1.5,0,0,2,0.3,561,84.1,9,1.3,8,1.2,0,0,3,0.4,41.9487247,-87.65127,4890,Inter-American,651,18.1,15.5,1.7,64.2
+400162,Intrinsic Schools,Intrinsic Charter HS,9619,Charter,400162,Intrinsic Chtr HS,INTRINSIC CHTR HS,184,13,7.1,43,23.4,1,0.5,1,0.5,116,63,2,1.1,4,2.2,1,0.5,3,1.6,41.8815549,-87.6277744,,,,,,,
+610121,Irving,Washington Irving Elementary School,5350,Network 6,610121,Irving,IRVING,488,11,2.3,313,64.1,0,0,1,0.2,134,27.5,7,1.4,11,2.3,0,0,11,2.3,41.8717354,-87.6832998,5350,Irving,542,2.4,51.7,2.2,43.7
+610060,"Jackson, A",Andrew Jackson Elementary Language Academy,4690,Network 6,610060,Jackson A. Magnet,JACKSON A. MAGNET,567,124,21.9,151,26.6,0,0,1,0.2,156,27.5,15,2.6,120,21.2,0,0,0,0,41.87474,-87.660928,4690,"Jackson, A. Acad",543,28.9,28.7,14.5,27.4
+610369,"Jackson, M",Mahalia Jackson Elementary School,8090,Network 11,610369,Jackson M.,JACKSON M.,339,0,0,334,98.5,0,0,0,0,4,1.2,1,0.3,0,0,0,0,0,0,41.733882,-87.64707469999999,8090,"Jackson, M.",501,0,98.4,0,1.6
+610010,Jahn,Friedrich Ludwig Jahn Elementary School,4170,Network 4,610010,Jahn,JAHN,469,51,10.9,67,14.3,0,0,2,0.4,331,70.6,13,2.8,5,1.1,0,0,0,0,41.9389308,-87.675884,4170,Jahn,517,15.3,6.2,2.3,74.9
+610011,Jamieson,Minnie Mars Jamieson Elementary School,4180,Network 2,610011,Jamieson,JAMIESON,900,282,31.3,41,4.6,0,0,4,0.4,301,33.4,40,4.4,230,25.6,1,0.1,1,0.1,41.9839523,-87.7007649,4180,Jamieson,1021,47.4,2.4,31.2,18.8
+609783,Jefferson Alt HS,Nancy B Jefferson Alternative High School,2120,Options,609783,Jefferson N.,JEFFERSON N.,252,6,2.4,216,85.7,0,0,0,0,30,11.9,0,0,0,0,0,0,0,0,41.8679762,-87.68061399999999,2120,"Jefferson, N. Alt",550,6.2,79.5,0.4,13.8
+610012,Jenner,Edward Jenner Elementary Academy of the Arts,4200,Network 6,610012,Jenner,JENNER,278,0,0,271,97.5,0,0,0,0,6,2.2,0,0,1,0.4,0,0,0,0,41.9021258,-87.6408307,4200,Jenner,527,0,100,0,0
+610271,Jensen,Jensen Elementary Scholastic Academy,6920,Network 5,610271,Jensen Magnet,JENSEN MAGNET,503,0,0,463,92,0,0,1,0.2,17,3.4,0,0,0,0,0,0,22,4.4,41.8737346,-87.7021206,6920,Jensen,651,0,100,0,0
+610274,Johnson,James Weldon Johnson Elementary School,6940,AUSL,610274,Johnson,JOHNSON,435,0,0,430,98.9,0,0,0,0,5,1.1,0,0,0,0,0,0,0,0,41.8618722,-87.7035846,6940,Johnson,457,0,100,0,0
+609678,Jones HS,William Jones College Preparatory High School,1060,Network 6,609678,Jones CPHS,JONES CPHS,"1,124",324,28.8,236,21,2,0.2,4,0.4,349,31,35,3.1,107,9.5,3,0.3,64,5.7,41.8729372,-87.6279825,1060,Jones Magnet HS,395,8.1,41,5.1,44.3
+609805,Joplin,Scott Joplin Elementary School,2330,OS4,609805,Joplin,JOPLIN,484,1,0.2,472,97.5,0,0,0,0,5,1,3,0.6,0,0,0,0,3,0.6,41.7494853,-87.66908699999999,2330,Joplin,776,0,99.9,0,0.1
+609865,Jordan,Jordan Elementary Community School,2870,Network 2,609865,Jordan,JORDAN,656,13,2,244,37.2,0,0,4,0.6,372,56.7,9,1.4,12,1.8,1,0.2,1,0.2,42.0170685,-87.67801,2870,Jordan Comm,814,1.6,48.5,0.4,49.5
+609764,Juarez HS,Benito Juarez Community Academy High School,1890,OS4,609764,Juarez HS,JUAREZ HS,"1,684",18,1.1,41,2.4,0,0,9,0.5,"1,583",94,10,0.6,22,1.3,1,0.1,0,0,41.8537247,-87.6636565,1890,Juarez HS,1499,0.9,1.4,1.3,96.3
+609762,Julian HS,Percy L Julian High School,1870,OS4,609762,Julian HS,JULIAN HS,"1,057",1,0.1,"1,040",98.4,0,0,1,0.1,10,0.9,5,0.5,0,0,0,0,0,0,41.70594639999999,-87.65424,1870,Julian HS,1375,0.7,99.3,0,0
+610015,Jungman,Joseph Jungman Elementary School,4230,Network 7,610015,Jungman,JUNGMAN,272,1,0.4,7,2.6,0,0,2,0.7,259,95.2,0,0,0,0,0,0,3,1.1,41.858595,-87.6524661,4230,Jungman,435,2.8,3.7,0,93.6
+609920,Kanoon,Gerald Delgado Kanoon Elementary Magnet School,3370,Network 7,609920,Kanoon Magnet,KANOON MAGNET,747,2,0.3,5,0.7,0,0,0,0,739,98.9,1,0.1,0,0,0,0,0,0,41.850714,-87.704937,3370,Kanoon Magnet,937,2.1,2.6,0.1,95.1
+610084,Keller,Annie Keller Elementary Gifted Magnet School,4960,Network 10,610084,Keller,KELLER,248,90,36.3,93,37.5,0,0,0,0,32,12.9,8,3.2,22,8.9,2,0.8,1,0.4,41.69710389999999,-87.69716009999999,4960,Keller Magnet,231,33.3,51.9,2.6,11.3
+609925,Kellman,Joseph Kellman Corporate Community ES,3410,Network 5,609925,Kellman,KELLMAN,439,0,0,429,97.7,0,0,0,0,6,1.4,3,0.7,0,0,1,0.2,0,0,41.870351,-87.702131,3410,Kellman Corp Comm,293,0,100,0,0
+610016,Kellogg,Kate S Kellogg Elementary School,4240,Network 10,610016,Kellogg,KELLOGG,265,29,10.9,209,78.9,0,0,2,0.8,13,4.9,12,4.5,0,0,0,0,0,0,41.7252511,-87.67684919999999,4240,Kellogg,298,26.5,66.4,2,4.4
+609715,Kelly HS,Thomas Kelly High School,1400,OS4,609715,Kelly HS,KELLY HS,"2,537",53,2.1,45,1.8,0,0,10,0.4,"2,073",81.7,3,0.1,351,13.8,1,0,1,0,41.8189749,-87.6950904,1400,Kelly HS,2237,5.8,2.4,3.4,88.3
+609716,Kelvyn Park HS,Kelvyn Park High School,1410,OS4,609716,Kelvyn Park HS,KELVYN PARK HS,890,20,2.2,47,5.3,0,0,3,0.3,791,88.9,19,2.1,1,0.1,0,0,9,1,41.9271603,-87.73609259999999,1410,Kelvyn Park HS,1985,2,4.2,0.3,93.5
+609718,Kennedy HS,John F Kennedy High School,1420,Network 10,609718,Kennedy HS,KENNEDY HS,"1,506",385,25.6,66,4.4,0,0,7,0.5,"1,031",68.5,4,0.3,8,0.5,5,0.3,0,0,41.7905267,-87.78010789999999,1420,Kennedy HS,1570,41.1,11.7,1.7,45.4
+609746,Kenwood HS,Kenwood Academy High School,1710,Network 9,609746,Kenwood HS,KENWOOD HS,"1,814",27,1.5,"1,551",85.5,1,0.1,2,0.1,74,4.1,45,2.5,55,3,1,0.1,58,3.2,41.8034978,-87.59009069999999,1710,Kenwood HS,1880,5.7,88.5,3,2.7
+610019,Kershaw,Joshua D Kershaw Elementary School,4270,Network 11,610019,Kershaw Magnet,KERSHAW MAGNET,277,0,0,273,98.6,0,0,0,0,3,1.1,1,0.4,0,0,0,0,0,0,41.7767206,-87.6411881,4270,Kershaw,429,0,100,0,0
+610022,Kilmer,Joyce Kilmer Elementary School,4300,Network 2,610022,Kilmer,KILMER,804,35,4.4,208,25.9,0,0,3,0.4,460,57.2,19,2.4,75,9.3,0,0,4,0.5,42.0041902,-87.6684729,4300,Kilmer,1305,9.3,29.6,8.7,52.3
+609751,King HS,Dr  Martin Luther King  Jr  College Prep HS,1760,Network 9,609751,King CPHS,KING CPHS,804,8,1,737,91.7,0,0,0,0,41,5.1,6,0.7,12,1.5,0,0,0,0,41.8138729,-87.60296009999999,1760,King HS,332,0,100,0,0
+610026,Kinzie,John H Kinzie Elementary School,4330,Network 10,610026,Kinzie,KINZIE,684,213,31.1,26,3.8,0,0,5,0.7,437,63.9,3,0.4,0,0,0,0,0,0,41.7893586,-87.77927609999999,4330,Kinzie,617,56.9,14.1,0.3,28.7
+610027,Kipling,Rudyard Kipling Elementary School,4350,Network 11,610027,Kipling,KIPLING,402,1,0.2,394,98,0,0,0,0,3,0.7,2,0.5,1,0.2,1,0.2,0,0,41.7242232,-87.639641,4350,Kipling,377,0,100,0,0
+400044,Kipp Ascend Chtr Campus,KIPP Ascend Academy Charter Elementary School,7810,Charter,400044,KIPP Ascend Charter,KIPP ASCEND CHARTER,744,2,0.3,692,93,0,0,2,0.3,39,5.2,2,0.3,0,0,0,0,7,0.9,41.8583372,-87.7217845,,,,,,,
+400163,Kipp Bloom Chtr Campus,KIPP Charter Bloom,9627,Charter,400163,KIPP Create Charter,KIPP CREATE CHARTER,84,0,0,81,96.4,0,0,0,0,0,0,2,2.4,0,0,0,0,1,1.2,41.7933743,-87.6409596,,,,,,,
+400146,Kipp Create,KIPP Charter Create,9605,Charter,400146,ACT Charter,ACT CHARTER,166,0,0,160,96.4,0,0,0,0,6,3.6,0,0,0,0,0,0,0,0,41.8920702,-87.7472655,,,,,,,
+610030,Kozminski,Charles Kozminski Elementary Community Academy,4390,Network 9,610030,Kozminski,KOZMINSKI,394,3,0.8,377,95.7,0,0,0,0,9,2.3,4,1,0,0,1,0.3,0,0,41.79814409999999,-87.6022222,4390,Kozminski Com Acad,495,0,99.8,0,0.2
+609719,Lake View HS,Lake View High School,1430,Network 2,609719,Lake View HS,LAKE VIEW HS,"1,436",182,12.7,173,12,0,0,9,0.6,932,64.9,31,2.2,105,7.3,4,0.3,0,0,41.9549646,-87.6686466,1430,Lakeview HS,1068,13.7,19.2,6.6,59.9
+609720,Lane HS,Albert G Lane Technical High School,1440,Network 4,609720,Lane Tech HS,LANE TECH HS,"4,120","1,237",30,359,8.7,2,0,25,0.6,"1,883",45.7,94,2.3,427,10.4,14,0.3,79,1.9,41.945431,-87.690618,1440,Lane Tech HS,4204,28.2,14.5,17.5,39.2
+609869,Langford,Anna R. Langford Community Academy,2900,Network 11,609869,Copernicus,COPERNICUS,444,0,0,442,99.5,0,0,0,0,2,0.5,0,0,0,0,0,0,0,0,41.7845734,-87.65739909999999,2900,Copernicus,456,0,99.3,0,0.7
+609993,Lara,Agustin Lara Elementary Academy,3980,Network 8,609993,Lara,LARA,540,8,1.5,18,3.3,0,0,0,0,512,94.8,1,0.2,1,0.2,0,0,0,0,41.8094736,-87.67226169999999,3980,Lara Acad,606,3.3,0.8,0,95.9
+610033,Lasalle,LaSalle Elementary Language Academy,4420,Network 4,610033,LaSalle Magnet,LASALLE MAGNET,555,186,33.5,157,28.3,0,0,0,0,117,21.1,45,8.1,48,8.6,2,0.4,0,0,41.9136456,-87.6377921,4420,LaSalle Lang Acad,575,34.6,30.1,13.7,20.3
+610520,Lasalle Ii,LaSalle II Magnet Elementary School,8040,Network 6,610520,LaSalle II Magnet,LASALLE II MAGNET,623,170,27.3,131,21,0,0,2,0.3,279,44.8,21,3.4,18,2.9,2,0.3,0,0,41.9024109,-87.67430440000001,,,,,,,
+610208,Lavizzo,Mildred I Lavizzo Elementary School,6260,Network 13,610208,Lavizzo,LAVIZZO,401,0,0,395,98.5,0,0,0,0,6,1.5,0,0,0,0,0,0,0,0,41.6962921,-87.627887,6260,Van Vlissingen,841,0,100,0,0
+610034,Lawndale,Lawndale Elementary Community Academy,4430,OS4,610034,Lawndale,LAWNDALE,480,0,0,474,98.8,0,0,0,0,3,0.6,1,0.2,0,0,0,0,2,0.4,41.8628889,-87.71292729999999,4430,Lawndale Com Acad,773,0,100,0,0
+400107,Learn Chrt - So Chicago,LEARN  Charter School-South Chicago Campus,8029,Charter,400107,LEARN Chtr - South Shore,LEARN CHTR - SOUTH SHORE,383,0,0,298,77.8,0,0,1,0.3,32,8.4,1,0.3,0,0,0,0,51,13.3,41.732887,-87.5450539,,,,,,,
+400151,Learn Chtr - 7,Learn Charter 7 ES,9608,Charter,400151,LEARN Chtr - 7th Campus,LEARN CHTR - 7TH CAMPUS,201,0,0,170,84.6,0,0,0,0,5,2.5,1,0.5,0,0,1,0.5,24,11.9,41.887545,-87.70240559999999,,,,,,,
+400046,Learn Chtr - Butler,LEARN Charter ES - Romano Butler Campus,6770,Charter,400046,LEARN Chtr -  Butler,LEARN CHTR -  BUTLER,634,1,0.2,600,94.6,0,0,0,0,4,0.6,1,0.2,0,0,0,0,28,4.4,41.867149,-87.710905,,,,,,,
+400047,Learn Chtr - Campbell,LEARN Charter ES - Charles and Dorothy Campbell,8072,Charter,400047,LEARN Chtr - North Lawndale,LEARN CHTR - NORTH LAWNDALE,442,0,0,436,98.6,0,0,0,0,4,0.9,0,0,0,0,0,0,2,0.5,41.8778964,-87.6989414,,,,,,,
+400048,Learn Chtr - Excel,LEARN Charter ES - Excel,6775,Charter,400048,LEARN Chtr - EXCEL,LEARN CHTR - EXCEL,401,0,0,368,91.8,0,0,1,0.2,6,1.5,0,0,1,0.2,0,0,25,6.2,41.887545,-87.70240559999999,,,,,,,
+400111,Learn Chtr - Hunter Perkins,LEARN Charter School - Hunter Perkins,8677,Charter,400111,LEARN Chtr - Hunter Perkins,LEARN CHTR - HUNTER PERKINS,398,0,0,307,77.1,0,0,0,0,3,0.8,1,0.3,0,0,0,0,87,21.9,41.7430469,-87.6656924,,,,,,,
+400165,Learn Chtr - Middle,LEARN Charter - Middle School Campus,9629,Charter,400165,LEARN Chtr - Middle,LEARN CHTR - MIDDLE,200,0,0,192,96,0,0,0,0,4,2,0,0,0,0,0,0,4,2,41.887545,-87.70240559999999,,,,,,,
+610291,Lee,Richard Henry Lee Elementary School,7170,Network 10,610291,Lee,LEE,878,24,2.7,8,0.9,0,0,4,0.5,841,95.8,0,0,1,0.1,0,0,0,0,41.7752394,-87.7292935,7170,Lee,686,38.2,1.6,0.7,59.5
+400049,Legacy Chtr Campus,Legacy Charter Elementary School,5870,Charter,400049,Legacy Charter,LEGACY CHARTER,496,1,0.2,449,90.5,0,0,2,0.4,13,2.6,0,0,0,0,0,0,31,6.3,41.8566228,-87.7305377,,,,,,,
+400119,Legal Prep Chtr - Academy,Legal Prep Charter Academy,9036,Charter,400119,Legal Prep Acad Chtr,LEGAL PREP ACAD CHTR,228,0,0,223,97.8,0,0,0,0,4,1.8,0,0,0,0,0,0,1,0.4,41.887454,-87.67465200000001,,,,,,,
+610305,Leland,George Leland Elementary School,7320,Network 3,610305,Leland,LELAND,673,1,0.1,661,98.2,0,0,1,0.1,9,1.3,1,0.1,0,0,0,0,0,0,41.8737146,-87.75580939999999,7320,Leland,256,0,98.8,0,1.2
+610298,Lenart,Lenart Elementary Regional Gifted Center,7240,Network 11,610298,Lenart,LENART,303,49,16.2,179,59.1,0,0,2,0.7,15,5,11,3.6,45,14.9,2,0.7,0,0,41.7466573,-87.62763369999999,7240,Lenart,240,38.3,38.3,10.4,12.1
+610036,Lewis,Leslie Lewis Elementary School,4450,AUSL,610036,Lewis,LEWIS,488,6,1.2,394,80.7,0,0,0,0,78,16,1,0.2,1,0.2,1,0.2,7,1.4,41.90715489999999,-87.7543032,4450,Lewis,1119,0.2,93.9,0,5.9
+610037,Libby,Arthur A Libby Elementary School,4470,Network 11,610037,Libby,LIBBY,510,1,0.2,432,84.7,0,0,0,0,75,14.7,2,0.4,0,0,0,0,0,0,41.7977233,-87.65983849999999,4470,Libby,843,0.4,92.5,0,7.1
+610038,Lincoln,Abraham Lincoln Elementary School,4480,Network 4,610038,Lincoln,LINCOLN,808,518,64.1,92,11.4,0,0,7,0.9,71,8.8,51,6.3,69,8.5,0,0,0,0,41.9243633,-87.6446323,4480,Lincoln,571,61.6,25.2,6,7
+609738,Lincoln Park HS,Lincoln Park High School,1620,Network 4,609738,Lincoln Park HS,LINCOLN PARK HS,"2,230",629,28.2,535,24,0,0,7,0.3,728,32.6,94,4.2,232,10.4,1,0,4,0.2,41.91840819999999,-87.64584479999999,1620,Lincoln Park HS,1724,31.1,39.9,11.6,17
+610391,Lindblom HS,Robert Lindblom Math & Science Academy HS,7110,Network 11,610391,Lindblom MSHS,LINDBLOM MSHS,"1,156",27,2.3,800,69.2,0,0,3,0.3,297,25.7,8,0.7,16,1.4,2,0.2,3,0.3,41.7821917,-87.6719195,,,,,,,
+400137,Little Black Pearl,Little Black Pearl Art and Design Academy,9054,Options,400137,Little Black Pearl HS,LITTLE BLACK PEARL HS,148,1,0.7,146,98.6,0,0,0,0,1,0.7,0,0,0,0,0,0,0,0,41.8099001,-87.599668,,,,,,,
+609834,Little Village,Little Village Elementary School,2590,Network 7,609834,Little Village,LITTLE VILLAGE,868,2,0.2,0,0,0,0,1,0.1,865,99.7,0,0,0,0,0,0,0,0,41.8439268,-87.7172404,2590,Little Village,769,0.3,0,0,99.7
+610040,Lloyd,Henry D Lloyd Elementary School,4500,Network 3,610040,Lloyd,LLOYD,"1,268",12,0.9,28,2.2,0,0,4,0.3,"1,219",96.1,3,0.2,2,0.2,0,0,0,0,41.9190325,-87.74826039999999,4500,Lloyd,813,3.1,4.1,0.1,92.6
+400011,"Locke, A Chtr",Alain Locke Charter Elementary Academy,4730,Charter,400011,Locke A. Charter,LOCKE A. CHARTER,570,0,0,562,98.6,0,0,0,0,7,1.2,1,0.2,0,0,0,0,0,0,41.8770667,-87.7051214,4730,Locke Charter,132,0,100,0,0
+610041,"Locke, J",Josephine C Locke Elementary School,4510,Network 3,610041,Locke J.,LOCKE J.,"1,389",150,10.8,32,2.3,0,0,9,0.6,"1,144",82.4,2,0.1,39,2.8,12,0.9,1,0.1,41.9319516,-87.7963231,4510,Locke,1025,31.4,5.2,1.9,61.4
+610325,Logandale,Logandale Middle School,7560,Network 4,610325,Logandale Middle,LOGANDALE MIDDLE,894,20,2.2,43,4.8,0,0,1,0.1,814,91.1,11,1.2,5,0.6,0,0,0,0,41.9342234,-87.70804609999999,7560,Logandale Middle,480,4.4,5.6,1.3,88.8
+610541,Lorca,Federico Garcia Lorca Elementary School,8330,Network 4,610541,Lorca,LORCA,905,33,3.6,12,1.3,0,0,5,0.6,808,89.3,4,0.4,8,0.9,0,0,35,3.9,41.9400535,-87.7242263,,,,,,,
+610043,Lovett,Joseph Lovett Elementary School,4530,Network 3,610043,Lovett,LOVETT,469,2,0.4,396,84.4,0,0,0,0,70,14.9,1,0.2,0,0,0,0,0,0,41.9126297,-87.78426280000001,4530,Lovett,602,0.5,90.7,0.7,8.1
+610044,Lowell,James Russell Lowell Elementary School,4540,Network 5,610044,Lowell,LOWELL,644,13,2,170,26.4,0,0,0,0,455,70.7,4,0.6,1,0.2,0,0,1,0.2,41.9066526,-87.7105648,4540,Lowell,873,0.7,24.1,0,75.3
+610029,Lozano,Rodolfo Lozano Bilingual & International Ctr ES,4380,Network 6,610029,Lozano Bilingual,LOZANO BILINGUAL,290,8,2.8,32,11,0,0,1,0.3,247,85.2,1,0.3,0,0,1,0.3,0,0,41.9088438,-87.6651862,4380,Lozano Bilingual,718,3.8,2.2,0.3,93.7
+,Lozano Leadership Academy - Mastery Campus,Instituto Charter Rudy Lozano - RLLAM,9628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+610046,Lyon,Mary Lyon Elementary School,4560,Network 3,610046,Lyon,LYON,"1,425",82,5.8,27,1.9,0,0,15,1.1,"1,261",88.5,8,0.6,22,1.5,2,0.1,8,0.6,41.934333,-87.77688859999999,4560,Lyon,1599,19.7,1.6,3.4,75.3
+610215,Madero,Francisco I Madero Middle School,6310,Network 7,610215,Madero Middle,MADERO MIDDLE,316,2,0.6,2,0.6,0,0,0,0,311,98.4,1,0.3,0,0,0,0,0,0,41.8411492,-87.7053165,6310,Madero Middle,329,0,0,0,100
+610047,Madison,James Madison Elementary School,4570,Network 12,610047,Madison,MADISON,233,0,0,230,98.7,0,0,0,0,2,0.9,1,0.4,0,0,0,0,0,0,41.7601336,-87.59051280000001,4570,Madison,653,0,100,0,0
+610574,"Mandela, W",Winnie Mandela High School,9639,Options,610574,Mandela HS,MANDELA HS,115,3,2.6,101,87.8,0,0,0,0,11,9.6,0,0,0,0,0,0,0,0,41.7522253,-87.5757673,,,,,,,
+610048,Manierre,George Manierre Elementary School,4580,OS4,610048,Manierre,MANIERRE,359,0,0,347,96.7,0,0,0,0,6,1.7,2,0.6,0,0,0,0,4,1.1,41.9075509,-87.64007319999999,4580,Manierre,815,0,97.1,0,2.9
+609722,Manley HS,Manley Career Academy High School,1460,Network 5,609722,Manley HS,MANLEY HS,450,0,0,441,98,0,0,0,0,9,2,0,0,0,0,0,0,0,0,41.870759,-87.6998844,1460,Manley Car Acad,646,0,100,0,0
+610052,Mann,Horace Mann Elementary School,4610,Network 12,610052,Mann,MANN,423,1,0.2,419,99.1,0,0,0,0,1,0.2,2,0.5,0,0,0,0,0,0,41.7488632,-87.5747265,4610,Mann,1053,0,99.8,0,0.2
+610502,Marine Military HS,Marine Military Math and Science Academy,1085,Military,610502,Marine Math & Sci Mil HS,MARINE MATH & SCI MIL HS,401,5,1.2,135,33.7,0,0,2,0.5,253,63.1,2,0.5,4,1,0,0,0,0,41.87891750000001,-87.68838799999999,,,,,,,
+610053,Marquette,Marquette Elementary School,4620,AUSL,610053,Marquette,MARQUETTE,"1,296",17,1.3,532,41,0,0,4,0.3,737,56.9,5,0.4,0,0,0,0,1,0.1,41.7745007,-87.6972144,4620,Marquette West,2011,3.6,49.2,0.2,46.9
+610054,Marsh,John L Marsh Elementary School,4630,Network 13,610054,Marsh,MARSH,882,10,1.1,58,6.6,0,0,5,0.6,806,91.4,2,0.2,0,0,1,0.1,0,0,41.7168945,-87.55239569999999,4630,Marsh,540,4.1,3.5,0,92.4
+609723,Marshall HS,John Marshall Metropolitan High School,1470,Network 5,609723,Marshall HS,MARSHALL HS,624,1,0.2,606,97.1,0,0,0,0,12,1.9,3,0.5,1,0.2,0,0,1,0.2,41.8789427,-87.7071788,1470,Marshall Magnet HS,1164,0,100,0,0
+610321,"Marshall, T",Thurgood Marshall Middle School,7520,Network 1,610321,Marshall Middle,MARSHALL MIDDLE,275,14,5.1,11,4,0,0,2,0.7,236,85.8,3,1.1,6,2.2,1,0.4,2,0.7,41.9522637,-87.72047649999999,7520,"Marshall, T. Middle",666,14.3,3.6,4.8,76.3
+610056,Mason,Roswell B Mason Elementary School,4650,Network 5,610056,Mason,MASON,485,0,0,481,99.2,0,0,0,0,3,0.6,1,0.2,0,0,0,0,0,0,41.8566228,-87.7305377,4650,Mason,1490,0.1,94,0,6
+609724,Mather HS,Stephen T Mather High School,1480,Network 2,609724,Mather HS,MATHER HS,"1,623",341,21,202,12.4,3,0.2,11,0.7,604,37.2,28,1.7,426,26.2,6,0.4,2,0.1,41.9880628,-87.7009466,1480,Mather HS,1855,34.7,7.7,27.3,30.1
+610059,Mayer,Oscar F Mayer Elementary School,4680,Network 4,610059,Mayer Magnet,MAYER MAGNET,614,340,55.4,100,16.3,1,0.2,4,0.7,122,19.9,15,2.4,14,2.3,7,1.1,11,1.8,41.92287200000001,-87.6575052,4680,Mayer,730,14.8,47.1,1.1,36.4
+610290,Mays,Benjamin E Mays Elementary Academy,7150,Network 11,610290,Mays,MAYS,606,0,0,590,97.4,0,0,1,0.2,9,1.5,2,0.3,2,0.3,0,0,2,0.3,41.773192,-87.6368395,7150,Mays Acad,266,0,98.1,0,1.9
+609968,Mcauliffe,Sharon Christa McAuliffe Elementary School,3770,Network 4,609968,McAuliffe,MCAULIFFE,677,18,2.7,36,5.3,0,0,2,0.3,609,90,2,0.3,0,0,0,0,10,1.5,41.9146522,-87.7234141,3770,McAuliffe,1007,1.1,7.1,0.3,91.1
+610062,Mcclellan,George B McClellan Elementary School,4710,Network 6,610062,McClellan,MCCLELLAN,293,40,13.7,74,25.3,0,0,3,1,150,51.2,11,3.8,9,3.1,0,0,6,2,41.8303162,-87.640913,4710,McClellan,370,31.1,3.5,6.8,57.6
+610063,Mccormick,Cyrus H McCormick Elementary School,4720,Network 7,610063,McCormick,MCCORMICK,875,4,0.5,2,0.2,0,0,3,0.3,866,99,0,0,0,0,0,0,0,0,41.8424252,-87.70620459999999,4720,McCormick,985,0.3,0.3,0,99.4
+610269,Mccutcheon,John T McCutcheon Elementary School,6910,Network 2,610269,McCutcheon,MCCUTCHEON,502,24,4.8,235,46.8,0,0,1,0.2,125,24.9,12,2.4,103,20.5,0,0,2,0.4,41.97125399999999,-87.6544199,6910,McCutcheon,563,1.6,52.2,30.7,15.3
+610066,Mcdade,James E McDade Elementary Classical School,4750,Network 12,610066,McDade Classical,MCDADE CLASSICAL,189,3,1.6,179,94.7,0,0,0,0,3,1.6,1,0.5,2,1.1,1,0.5,0,0,41.734354,-87.618014,4750,McDade Classical,187,1.1,97.3,0,1.6
+610312,Mcdowell,Mary E McDowell Elementary School,7390,Network 12,610312,McDowell,MCDOWELL,194,1,0.5,181,93.3,0,0,0,0,5,2.6,6,3.1,1,0.5,0,0,0,0,41.7328045,-87.5899013,7390,McDowell,204,0.5,99.5,0,0
+610067,Mckay,Francis M McKay Elementary School,4760,Network 10,610067,McKay,MCKAY,884,1,0.1,760,86,0,0,4,0.5,114,12.9,3,0.3,0,0,1,0.1,1,0.1,41.7677443,-87.6915121,4760,McKay,1501,0.5,94.6,0,4.9
+610282,Mcnair,Ronald E McNair Elementary School,7040,Network 3,610282,McNair,MCNAIR,382,1,0.3,355,92.9,0,0,1,0.3,23,6,2,0.5,0,0,0,0,0,0,41.8980098,-87.7470306,7040,McNair Acad,518,0,100,0,0
+610070,Mcpherson,James B McPherson Elementary School,4800,Network 2,610070,McPherson,MCPHERSON,827,110,13.3,50,6,0,0,7,0.8,582,70.4,13,1.6,58,7,0,0,7,0.8,41.96813239999999,-87.67693229999999,4800,McPherson,874,17.4,4.9,4.6,72.2
+610293,Melody,Genevieve Melody Elementary School,7190,Network 5,610293,Melody,MELODY,618,0,0,602,97.4,0,0,0,0,11,1.8,0,0,0,0,1,0.2,4,0.6,41.8788585,-87.7246271,7190,Melody,691,0.1,99.7,0,0.1
+609902,Metcalfe,Ralph H Metcalfe Elementary Community Academy,3190,Network 13,609902,Metcalfe,METCALFE,530,1,0.2,522,98.5,0,0,0,0,3,0.6,3,0.6,0,0,1,0.2,0,0,41.6695151,-87.6342134,3190,Metcalfe Comm Acad,1012,0,99.7,0,0.3
+610171,Mireles,Arnold Mireles Elementary Academy,5880,Network 12,610171,Mireles,MIRELES,744,7,0.9,368,49.5,0,0,2,0.3,365,49.1,1,0.1,0,0,1,0.1,0,0,41.73142060000001,-87.55294820000002,5880,Mireles,1594,0.4,43.5,0.1,55.3
+610073,Mitchell,Ellen Mitchell Elementary School,4840,Network 5,610073,Mitchell,MITCHELL,362,83,22.9,33,9.1,0,0,4,1.1,229,63.3,9,2.5,1,0.3,3,0.8,0,0,41.8919519,-87.68331320000001,4840,Mitchell,466,12.2,2.1,0,85.2
+610276,Mollison,Irvin C Mollison Elementary School,6950,Network 9,610276,Mollison,MOLLISON,505,0,0,498,98.6,0,0,0,0,2,0.4,0,0,0,0,0,0,5,1,41.81472369999999,-87.61644770000001,6950,Mollison,514,0,100,0,0
+610074,Monroe,James Monroe Elementary School,4850,Network 4,610074,Monroe,MONROE,"1,053",21,2,15,1.4,0,0,1,0.1,"1,011",96,2,0.2,3,0.3,0,0,0,0,41.9295238,-87.71908289999999,4850,Monroe,1303,7.8,3.3,0.3,88.6
+610075,Montefiore,Moses Montefiore Special Elementary School,4860,Network 6,610075,Montefiore,MONTEFIORE,58,0,0,45,77.6,0,0,0,0,13,22.4,0,0,0,0,0,0,0,0,41.86483279999999,-87.6668675,4860,Montefiore Special,127,1.6,89,0,9.4
+400116,Montessori Chtr - Englewood,The Montessori School of Englewood Charter,9033,Charter,400116,Montessori Englewood Chtr,MONTESSORI ENGLEWOOD CHTR,205,0,0,170,82.9,0,0,0,0,8,3.9,2,1,0,0,0,0,25,12.2,41.7741847,-87.67533379999999,,,,,,,
+610076,Moos,Bernhard Moos Elementary School,4870,Network 5,610076,Moos,MOOS,500,10,2,72,14.4,0,0,2,0.4,410,82,1,0.2,5,1,0,0,0,0,41.9128678,-87.6964062,4870,Moos,856,2.7,10.3,0.4,86.7
+609725,Morgan Park HS,Morgan Park High School,1490,OS4,609725,Morgan Park HS,MORGAN PARK HS,"1,431",18,1.3,"1,376",96.2,0,0,1,0.1,21,1.5,13,0.9,1,0.1,1,0.1,0,0,41.6922179,-87.66532769999999,1490,Morgan Park HS,2083,13.3,79.2,1.2,6.1
+610077,Morrill,Donald Morrill Math & Science Elementary School,4880,Network 10,610077,Morrill,MORRILL,816,4,0.5,357,43.8,0,0,0,0,448,54.9,6,0.7,0,0,0,0,1,0.1,41.783676,-87.6880432,4880,Morrill,1078,0.8,55,0,44.2
+610257,Morton,Morton School of Excellence,6800,AUSL,610257,Morton,MORTON,412,1,0.2,389,94.4,0,0,1,0.2,21,5.1,0,0,0,0,0,0,0,0,41.8890389,-87.704657,6800,Morton Car Acad,550,1.1,84.4,0,14.5
+610082,Mount Greenwood,Mount Greenwood Elementary School,4940,Network 10,610082,Mt Greenwood,MT GREENWOOD,999,819,82,15,1.5,0,0,4,0.4,137,13.7,7,0.7,8,0.8,8,0.8,1,0.1,41.69599059999999,-87.70537759999999,4940,Mt. Greenwood,598,73.2,20.7,0.2,5.9
+610086,Mount Vernon,Mount Vernon Elementary School,4980,Network 13,610086,Mt Vernon,MT VERNON,300,0,0,299,99.7,0,0,0,0,0,0,0,0,0,0,1,0.3,0,0,41.7023021,-87.648142,4980,Mt. Vernon,501,0,99.4,0,0.6
+610088,Mozart,Wolfgang A Mozart Elementary School,5000,Network 4,610088,Mozart,MOZART,836,10,1.2,41,4.9,0,0,0,0,760,90.9,1,0.1,0,0,0,0,24,2.9,41.9213743,-87.7224669,5000,Mozart,1022,2.2,7.3,0.2,90.3
+610385,Multicultural Acad Scholarship,Multicultural Academy of Scholarship,7630,Network 7,610385,Multicultural Arts HS,MULTICULTURAL ARTS HS,280,1,0.4,39,13.9,0,0,3,1.1,236,84.3,0,0,0,0,0,0,1,0.4,41.8351441,-87.7351437,,,,,,,
+610089,Murphy,John B Murphy Elementary School,5020,Network 1,610089,Murphy,MURPHY,606,63,10.4,9,1.5,0,0,1,0.2,493,81.4,23,3.8,12,2,1,0.2,4,0.7,41.9501479,-87.7166177,5020,Murphy,614,21.8,4.1,4.4,68.9
+610090,Murray,Phillip Murray Elementary Language Academy,5030,Network 9,610090,Murray Magnet,MURRAY MAGNET,535,32,6,433,80.9,0,0,1,0.2,27,5,26,4.9,16,3,0,0,0,0,41.7980018,-87.59342939999999,5030,Murray,345,22.9,69.9,3.8,2.6
+400050,Namaste Chtr Campus,Namaste Charter Elementary School,7920,Charter,400050,Namaste Charter,NAMASTE CHARTER,483,44,9.1,20,4.1,0,0,1,0.2,410,84.9,2,0.4,5,1,1,0.2,0,0,41.825728,-87.6676207,,,,,,,
+610092,Nash,Henry H Nash Elementary School,5050,Network 3,610092,Nash,NASH,403,1,0.2,378,93.8,0,0,0,0,17,4.2,5,1.2,0,0,0,0,2,0.5,41.8920702,-87.7472655,5050,Nash,1042,0,99.9,0,0.1
+610231,National Teachers,National Teachers Elementary Academy,6480,AUSL,610231,Natl Teachers Acad,NATL TEACHERS ACAD,585,13,2.2,535,91.5,0,0,0,0,20,3.4,7,1.2,9,1.5,0,0,1,0.2,41.8522221,-87.6289518,,,,,,,
+610093,Neil,Jane A Neil Elementary School,5060,Network 12,610093,Neil,NEIL,346,0,0,336,97.1,0,0,1,0.3,7,2,1,0.3,0,0,0,0,1,0.3,41.7390451,-87.62103789999999,5060,Neil,369,1.9,93.5,0,4.3
+610094,Nettelhorst,Louis Nettelhorst Elementary School,5070,Network 4,610094,Nettelhorst,NETTELHORST,797,478,60,79,9.9,0,0,4,0.5,135,16.9,37,4.6,48,6,16,2,0,0,41.9413046,-87.64445529999999,5070,Nettelhorst,562,15.7,35.1,5.2,43.6
+610284,New Field,New Field Elementary School,7060,Network 2,610284,New Field,NEW FIELD,589,48,8.1,126,21.4,0,0,5,0.8,350,59.4,9,1.5,46,7.8,1,0.2,4,0.7,42.0077747,-87.6724574,,,,,,,
+610193,New Sullivan,William K New Sullivan Elementary School,6100,Network 12,610193,Sullivan,SULLIVAN,502,6,1.2,364,72.5,0,0,0,0,126,25.1,5,1,0,0,1,0.2,0,0,41.7440595,-87.5426627,6100,Sullivan Specialty,700,0.6,53.1,0,46
+610095,Newberry,Walter L Newberry Math & Science Academy ES,5080,Network 4,610095,Newberry Magnet,NEWBERRY MAGNET,563,127,22.6,217,38.5,0,0,0,0,165,29.3,22,3.9,29,5.2,1,0.2,2,0.4,41.914189,-87.646788,5080,Newberry,567,25.6,40.9,10.8,22.2
+609793,Nicholson Tech Acad,Nicholson Technology Academy,2200,Network 11,609793,Nicholson,NICHOLSON,570,1,0.2,559,98.1,0,0,1,0.2,5,0.9,1,0.2,1,0.2,2,0.4,0,0,41.7845981,-87.6476722,2200,Nicholson,707,0,100,0,0
+610096,Nightingale,Florence Nightingale Elementary School,5090,Network 8,610096,Nightingale,NIGHTINGALE,"1,389",11,0.8,6,0.4,0,0,3,0.2,"1,369",98.6,0,0,0,0,0,0,0,0,41.7981868,-87.68941559999999,5090,Nightingale,1323,2.6,3.4,0.2,93.7
+610097,Nixon,William P Nixon Elementary School,5100,Network 4,610097,Nixon,NIXON,"1,059",11,1,25,2.4,0,0,9,0.8,"1,009",95.3,3,0.3,1,0.1,1,0.1,0,0,41.9193877,-87.73101369999999,5100,Nixon,1109,2,1.1,0.4,96.6
+400045,Nkrumah Contr,Kwame Nkrumah Academy Elementary School,2055,Charter,400045,Nkrumah Academy,NKRUMAH ACADEMY,217,0,0,214,98.6,0,0,0,0,1,0.5,1,0.5,0,0,0,0,1,0.5,41.6979709,-87.6309575,,,,,,,
+610098,Nobel,Alfred Nobel Elementary School,5110,Network 5,610098,Nobel,NOBEL,842,3,0.4,118,14,0,0,6,0.7,702,83.4,5,0.6,0,0,0,0,8,1,41.9062339,-87.729492,5110,Nobel,988,1.7,18.3,0,80
+400157,Noble Street Chtr - Baker College Prep,Noble Street Charter Orange HS,9614,Charter,400157,Noble St Chtr HS - Orange Campus,NOBLE ST CHTR HS - ORANGE CAMPUS,105,1,1,94,89.5,0,0,0,0,10,9.5,0,0,0,0,0,0,0,0,41.734564,-87.557508,,,,,,,
+400097,Noble Street Chtr - Chgo Bulls,Noble Street Charter - Chicago Bulls College,8078,Charter,400097,Noble St Chtr HS - Chgo Bulls College,NOBLE ST CHTR HS - CHGO BULLS COLLEGE,"1,079",9,0.8,303,28.1,0,0,3,0.3,742,68.8,9,0.8,7,0.6,1,0.1,5,0.5,41.87907000000001,-87.6784704,,,,,,,
+400052,Noble Street Chtr - Comer,Noble Street Charter - Gary Comer College Prep,1935,Charter,400052,Nobel St Chtr HS - Comer,NOBEL ST CHTR HS - COMER,950,1,0.1,892,93.9,0,0,0,0,43,4.5,13,1.4,0,0,0,0,1,0.1,41.7640694,-87.60243559999999,,,,,,,
+400053,Noble Street Chtr - Golder,Noble Street Charter - Golder College Prep,1934,Charter,400053,Noble St Chtr HS - Golder,NOBLE ST CHTR HS - GOLDER,635,21,3.3,82,12.9,1,0.2,2,0.3,524,82.5,1,0.2,2,0.3,1,0.2,1,0.2,41.8954949,-87.6644366,,,,,,,
+400106,Noble Street Chtr - Johnson,Noble Street Charter School Ã¢â¬â Johnson HS,8028,Charter,400106,Noble St Chtr HS - Englewood HS,NOBLE ST CHTR HS - ENGLEWOOD HS,773,1,0.1,738,95.5,0,0,1,0.1,20,2.6,5,0.6,4,0.5,0,0,4,0.5,41.7784576,-87.63548829999999,,,,,,,
+400098,Noble Street Chtr - Muchin,Noble Street Charter - Muchin College Prep,8079,Charter,400098,Noble St Chtr HS- Muchin,NOBLE ST CHTR HS- MUCHIN,886,24,2.7,253,28.6,4,0.5,5,0.6,514,58,1,0.1,47,5.3,0,0,38,4.3,41.8822865,-87.6274617,,,,,,,
+400051,Noble Street Chtr - Noble,Noble Street Charter - Noble Street College Prep,1930,Charter,400051,Noble St Chtr Hs -College Prep,NOBLE ST CHTR HS -COLLEGE PREP,602,17,2.8,64,10.6,0,0,5,0.8,510,84.7,1,0.2,5,0.8,0,0,0,0,41.9001416,-87.6628518,1930,Noble St. Charter,126,7.1,8.7,0.8,83.3
+400054,Noble Street Chtr - Pritzker,Noble Street Charter - Pritzker College Prep,1931,Charter,400054,Noble St Chtr HS - Prtizker,NOBLE ST CHTR HS - PRTIZKER,858,7,0.8,18,2.1,0,0,4,0.5,824,96,2,0.2,3,0.3,0,0,0,0,41.9149117,-87.7297341,,,,,,,
+400156,Noble Street Chtr - Pullman College Prep,Noble Street Charter  Crimson HS,9613,Charter,400156,Noble St Chtr HS - Crimson Campus,NOBLE ST CHTR HS - CRIMSON CAMPUS,102,0,0,99,97.1,0,0,0,0,1,1,0,0,0,0,0,0,2,2,41.7065107,-87.6026697,,,,,,,
+400118,Noble Street Chtr - Purple,Noble Street Charter School - Purple,9035,Charter,400118,Noble St Chtr HS - Homan Square,NOBLE ST CHTR HS - HOMAN SQUARE,431,6,1.4,372,86.3,0,0,0,0,46,10.7,2,0.5,0,0,0,0,5,1.2,41.869208,-87.709929,,,,,,,
+400055,Noble Street Chtr - Rauner,Noble Street Charter - Rauner College Prep,1932,Charter,400055,Noble St Chtr HS - Rauner,NOBLE ST CHTR HS - RAUNER,640,13,2,50,7.8,0,0,9,1.4,560,87.5,7,1.1,0,0,0,0,1,0.2,41.8922657,-87.6609999,,,,,,,
+400056,Noble Street Chtr - Rowe Clark,Noble Street Charter - Rowe-Clark Math & Sci Acad,1933,Charter,400056,Noble St Chtr HS - Clark,NOBLE ST CHTR HS - CLARK,662,5,0.8,466,70.4,0,0,0,0,173,26.1,7,1.1,2,0.3,0,0,9,1.4,41.8951857,-87.71813209999999,,,,,,,
+400117,Noble Street Chtr - Silver HS,Noble Street Charter School - Silver,9034,Charter,400117,Noble St Chtr HS - Auburn-Grensham,NOBLE ST CHTR HS - AUBURN-GRENSHAM,498,0,0,488,98,0,0,0,0,8,1.6,0,0,1,0.2,0,0,1,0.2,41.7350463,-87.6509086,,,,,,,
+400057,Noble Street Chtr - Uic,Noble Street Charter - UIC College Prep,1936,Charter,400057,Nobel St Chtr HS - UIC College Prep,NOBEL ST CHTR HS - UIC COLLEGE PREP,851,22,2.6,201,23.6,0,0,4,0.5,576,67.7,8,0.9,36,4.2,0,0,4,0.5,41.8654229,-87.67564279999999,,,,,,,
+610354,North River,North River Elementary School,7890,Network 1,610354,North River,NORTH RIVER,403,9,2.2,7,1.7,0,0,3,0.7,368,91.3,3,0.7,4,1,1,0.2,8,2,41.9620879,-87.7075605,,,,,,,
+609691,North-grand HS,North-Grand High School,1140,Network 5,609691,North-Grand HS,NORTH-GRAND HS,910,4,0.4,66,7.3,0,0,3,0.3,833,91.5,1,0.1,2,0.2,1,0.1,0,0,41.9123295,-87.7351569,,,,,,,
+609744,Northside Learning HS,Northside Learning Center High School,1690,Network 1,609744,Northside Lrn Ctr HS,NORTHSIDE LRN CTR HS,284,44,15.5,87,30.6,1,0.4,0,0,138,48.6,1,0.4,13,4.6,0,0,0,0,41.9833796,-87.72158879999999,1690,Northside L.C.,236,19.1,35.6,5.5,39.8
+609749,Northside Prep HS,Northside College Preparatory High School,1740,Network 1,609749,Northside CPHS,NORTHSIDE CPHS,"1,069",429,40.1,97,9.1,2,0.2,4,0.4,270,25.3,46,4.3,191,17.9,3,0.3,27,2.5,41.981241,-87.70767099999999,1740,Northside College Prep,507,48.9,5.5,24.1,20.7
+610051,Northwest,Northwest Middle School,4600,Network 3,610051,Northwest Middle,NORTHWEST MIDDLE,667,13,1.9,24,3.6,0,0,1,0.1,625,93.7,2,0.3,2,0.3,0,0,0,0,41.9211855,-87.7581093,4600,Northwest Middle,715,10.6,3.1,1.1,85
+610099,Norwood Park,Norwood Park Elementary School,5120,Network 1,610099,Norwood Park,NORWOOD PARK,367,228,62.1,2,0.5,0,0,3,0.8,104,28.3,13,3.5,14,3.8,1,0.3,2,0.5,41.989235,-87.8026622,5120,Norwood Park,311,77.2,6.1,2.3,14.1
+400058,Nth Lawndale Chtr - Christiana,North Lawndale College Prep Charter - Christiana,1105,Charter,400058,North Lawndale Chrt -Christiana,NORTH LAWNDALE CHRT -CHRISTIANA,425,0,0,419,98.6,0,0,0,0,5,1.2,1,0.2,0,0,0,0,0,0,41.8572115,-87.707832,1105,North Lawndale Charter,158,0,100,0,0
+400059,Nth Lawndale Chtr - Collins,North Lawndale College Prep Charter - Collins,1106,Charter,400059,North Lawndale Chrt - Collins,NORTH LAWNDALE CHRT - COLLINS,422,0,0,415,98.3,0,0,1,0.2,2,0.5,0,0,0,0,0,0,4,0.9,41.86452449999999,-87.7022152,,,,,,,
+610103,O'keeffe,Isabelle C O'Keeffe Elementary School,5180,AUSL,610103,O'Keeffe,O'KEEFFE,588,0,0,576,98,0,0,1,0.2,9,1.5,2,0.3,0,0,0,0,0,0,41.7683371,-87.5729967,5180,O'Keeffe,853,0,100,0,0
+610108,O'toole,Luke O'Toole Elementary School,5230,Network 11,610108,O'Toole,O'TOOLE,419,1,0.2,396,94.5,0,0,0,0,20,4.8,0,0,1,0.2,1,0.2,0,0,41.7741847,-87.67533379999999,5230,O'Toole,830,0,100,0,0
+610101,Ogden,William B Ogden Elementary School,5150,Network 6,610101,Ogden,OGDEN,822,404,49.1,113,13.7,1,0.1,4,0.5,113,13.7,54,6.6,123,15,2,0.2,8,1,41.90003069999999,-87.6294499,5150,Ogden,528,40.3,38.8,8,12.9
+610529,Ogden HS,Ogden International High School,8083,Network 6,610529,Ogden HS,OGDEN HS,784,211,26.9,256,32.7,3,0.4,5,0.6,222,28.3,27,3.4,47,6,2,0.3,11,1.4,41.8937782,-87.6584693,,,,,,,
+610102,Oglesby,Richard J Oglesby Elementary School,5170,Network 11,610102,Oglesby,OGLESBY,480,0,0,474,98.8,0,0,0,0,4,0.8,2,0.4,0,0,0,0,0,0,41.7552011,-87.64538449999999,5170,Oglesby,799,0,100,0,0
+610569,Ombudsman 1 HS,Ombudsman #1,9634,Options,610569,Ombudsman No.1 HS,OMBUDSMAN NO.1 HS,70,23,32.9,19,27.1,0,0,1,1.4,24,34.3,2,2.9,0,0,0,0,1,1.4,42.0172747,-87.806905,,,,,,,
+610570,Ombudsman 2 HS,Ombudsman #2,9635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+610571,Ombudsman 3 HS,Ombudsman #3,9636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+610104,Onahan,William J Onahan Elementary School,5190,Network 1,610104,Onahan,ONAHAN,670,421,62.8,4,0.6,0,0,4,0.6,200,29.9,16,2.4,17,2.5,2,0.3,6,0.9,41.9937141,-87.7931358,5190,Onahan,490,70,6.7,4.1,18.4
+610105,Oriole Park,Oriole Park Elementary School,5200,Network 1,610105,Oriole Park,ORIOLE PARK,661,461,69.7,8,1.2,0,0,1,0.2,132,20,9,1.4,46,7,4,0.6,0,0,41.9787866,-87.8120682,5200,Oriole Park,421,64.4,6.2,4,24.9
+610329,Orozco,Orozco Fine Arts & Sciences Elementary School,7610,Network 7,610329,Orozco,OROZCO,616,3,0.5,5,0.8,0,0,6,1,592,96.1,0,0,2,0.3,0,0,8,1.3,41.8579867,-87.6750768,7610,Orozco Acad,718,0,0.8,0,99.2
+610389,Orr HS,Orr Academy High School,1830,AUSL,610389,Orr Academy HS,ORR ACADEMY HS,647,1,0.2,556,85.9,0,0,1,0.2,87,13.4,2,0.3,0,0,0,0,0,0,41.8940713,-87.7260458,1830,Orr Comm Acad HS,1052,0.1,88.8,0.1,10.9
+609950,Ortiz De Dominguez,Josefa Ortiz De Dominguez Elementary School,3630,Network 7,609950,Ortiz De Dominguez,ORTIZ DE DOMINGUEZ,728,8,1.1,0,0,0,0,4,0.5,716,98.4,0,0,0,0,0,0,0,0,41.8382454,-87.717398,3630,Ortiz De Dominguez,847,0.1,0.1,0,99.8
+610107,Otis,James Otis Elementary School,5220,Network 6,610107,Otis,OTIS,635,21,3.3,124,19.5,0,0,4,0.6,477,75.1,8,1.3,1,0.2,0,0,0,0,41.89265390000001,-87.6655331,5220,Otis,707,7.1,8.6,0.1,84
+610109,Owen,William Bishop Owen Scholastic Academy ES,5240,Network 10,610109,Owen Magnet,OWEN MAGNET,252,4,1.6,222,88.1,0,0,0,0,19,7.5,4,1.6,0,0,1,0.4,2,0.8,41.74289479999999,-87.7055178,5240,Owen Schol Acad,249,29.3,55,0,14.9
+610111,Palmer,John Palmer Elementary School,5260,Network 1,610111,Palmer,PALMER,906,269,29.7,7,0.8,0,0,7,0.8,425,46.9,19,2.1,126,13.9,45,5,8,0.9,41.97296,-87.7386609,5260,Palmer,815,45.8,1.6,17.7,34.7
+610115,Park Manor,Park Manor Elementary School,5290,Network 12,610115,Park Manor,PARK MANOR,355,0,0,347,97.7,0,0,0,0,5,1.4,1,0.3,2,0.6,0,0,0,0,41.7669065,-87.611601,5290,Park Manor,572,0,100,0,0
+610112,Parker,Francis W Parker Elementary Community Academy,5270,Network 11,610112,Parker,PARKER,791,1,0.1,763,96.5,0,0,0,0,24,3,1,0.1,0,0,0,0,2,0.3,41.7708441,-87.63258569999999,5270,Parker,1038,0,99.9,0,0.1
+610116,Parkside,Parkside Elementary Community Academy,5300,Network 12,610116,Parkside,PARKSIDE,295,0,0,290,98.3,0,0,1,0.3,3,1,1,0.3,0,0,0,0,0,0,41.7686134,-87.58320189999999,5300,Parkside Comm Acad,551,0,100,0,0
+610117,Pasteur,Louis Pasteur Elementary School,5310,Network 8,610117,Pasteur,PASTEUR,"1,222",55,4.5,6,0.5,0,0,10,0.8,"1,126",92.1,7,0.6,11,0.9,1,0.1,6,0.5,41.7871479,-87.7324652,5310,Pasteur,954,49.3,0.5,0,50.2
+610557,Pathways Education HS,Pathways in Education,8687,Options,610557,Pathways to Education HS,PATHWAYS TO EDUCATION HS,310,6,1.9,101,32.6,0,0,2,0.6,199,64.2,0,0,0,0,0,0,2,0.6,41.7352401,-87.7038724,,,,,,,
+610568,Pathways Education HS - Avondale,Pathways in Education Avondale,9633,Options,610568,Pathways to Ed - Avondale HS,PATHWAYS TO ED - AVONDALE HS,161,8,5,39,24.2,0,0,0,0,109,67.7,3,1.9,0,0,1,0.6,1,0.6,41.939609,-87.705423,,,,,,,
+609680,Payton HS,Walter Payton College Preparatory High School,1090,Network 6,609680,Payton CPHS,PAYTON CPHS,819,298,36.4,143,17.5,2,0.2,3,0.4,184,22.5,38,4.6,79,9.6,2,0.2,70,8.5,41.901666,-87.635232,,,,,,,
+610386,Peace & Education HS,Peace & Education Coalition High School,1123,Options,610386,Peace & Education Alt HS,PEACE & EDUCATION ALT HS,160,4,2.5,59,36.9,0,0,0,0,95,59.4,2,1.3,0,0,0,0,0,0,41.80356,-87.667613,1123,Dugan Alternative HS,27,3.7,0,0,96.3
+610120,Peck,Ferdinand Peck Elementary School,5340,Network 8,610120,Peck,PECK,"1,608",33,2.1,12,0.7,0,0,6,0.4,"1,548",96.3,2,0.1,7,0.4,0,0,0,0,41.7882691,-87.7193163,5340,Peck,1100,18.9,0.5,0.3,80.2
+610122,Peirce,Helen Peirce International Studies ES,5360,Network 2,610122,Peirce,PEIRCE,"1,041",204,19.6,87,8.4,0,0,9,0.9,623,59.8,48,4.6,70,6.7,0,0,0,0,41.9832047,-87.66673879999999,5360,Peirce,1097,10.6,10.9,10.3,67.5
+610123,Penn,William Penn Elementary School,5370,Network 5,610123,Penn,PENN,404,0,0,353,87.4,0,0,1,0.2,48,11.9,0,0,1,0.2,0,0,1,0.2,41.8583372,-87.7217845,5370,Penn,692,0.1,94.8,0,5.1
+609872,Perez,Manuel Perez Elementary School,2930,Network 7,609872,Perez,PEREZ,349,1,0.3,4,1.1,0,0,0,0,342,98,0,0,2,0.6,0,0,0,0,41.8556453,-87.6583843,2930,Perez,703,0.3,0.6,0,99.1
+610126,Pershing,John J Pershing Elementary Humanities Magnet,5400,Network 9,610126,Pershing E. Magnet,PERSHING E. MAGNET,447,5,1.1,422,94.4,0,0,0,0,13,2.9,2,0.4,3,0.7,0,0,2,0.4,41.8359146,-87.61854799999999,5400,Pershing,269,1.1,95.5,1.5,1.9
+400062,Perspectives Chtr - Calumet Tech,Perspectives Charter - Calumet Technology,1962,Charter,400062,Perspectives Chrt - Cal Tech HS,PERSPECTIVES CHRT - CAL TECH HS,494,1,0.2,486,98.4,0,0,0,0,4,0.8,1,0.2,0,0,0,0,2,0.4,41.7461051,-87.6522342,,,,,,,
+400066,Perspectives Chtr - Iit,Perspectives Charter - IIT Math & Science Academy,1964,Charter,400066,Perspectives Chrt - ITT Math/Science,PERSPECTIVES CHRT - ITT MATH/SCIENCE,586,8,1.4,545,93,1,0.2,0,0,17,2.9,8,1.4,2,0.3,0,0,5,0.9,41.8279863,-87.6243999,,,,,,,
+400064,Perspectives Chtr - Joslin,Perspectives Charter - Rodney D Joslin,1960,Charter,400064,Perspectives Chrt  - Joslin,PERSPECTIVES CHRT  - JOSLIN,385,9,2.3,262,68.1,1,0.3,0,0,95,24.7,7,1.8,7,1.8,1,0.3,3,0.8,41.8563189,-87.62813539999999,1960,Perspectives Charter,148,0.7,58.8,0,39.9
+400061,Perspectives Chtr - Leadership Academy,Perspectives Charter Leadership Academy HS,1961,Charter,400061,Perspectives Chrt - Calumet HS,PERSPECTIVES CHRT - CALUMET HS,754,1,0.1,741,98.3,0,0,1,0.1,4,0.5,6,0.8,0,0,0,0,1,0.1,41.7461051,-87.6522342,,,,,,,
+610127,Peterson,Mary Gage Peterson Elementary School,5410,Network 1,610127,Peterson,PETERSON,860,220,25.6,42,4.9,0,0,6,0.7,312,36.3,30,3.5,248,28.8,2,0.2,0,0,41.9816988,-87.71283419999999,5410,Peterson,829,34.3,3.1,38.8,23.6
+609727,Phillips HS,Wendell Phillips Academy High School,1510,AUSL,609727,Phillips HS,PHILLIPS HS,670,2,0.3,653,97.5,0,0,2,0.3,6,0.9,5,0.7,2,0.3,0,0,0,0,41.823806,-87.6199445,1510,Phillips HS,728,0,99.9,0,0.1
+610304,Phoenix Military HS,Phoenix Military Academy High School,7310,Military,610304,Phoenix Mil Acad HS,PHOENIX MIL ACAD HS,497,1,0.2,127,25.6,0,0,0,0,366,73.6,2,0.4,1,0.2,0,0,0,0,41.87891750000001,-87.68838799999999,,,,,,,
+610106,Piccolo,Brian Piccolo Elementary Specialty School,5210,AUSL,610106,Piccolo,PICCOLO,544,4,0.7,334,61.4,0,0,1,0.2,202,37.1,2,0.4,0,0,1,0.2,0,0,41.90021429999999,-87.7318907,5210,Piccolo Elem,826,0.4,81.4,0,18.3
+610129,Pickard,Josiah Pickard Elementary School,5430,Network 7,610129,Pickard,PICKARD,614,7,1.1,18,2.9,0,0,1,0.2,585,95.3,1,0.2,0,0,0,0,2,0.3,41.8524745,-87.68399959999999,5430,Pickard,674,1.2,2.1,0,96.7
+610013,Pilsen,Pilsen Elementary Community Academy,4210,Network 7,610013,Pilsen,PILSEN,439,1,0.2,33,7.5,0,0,2,0.5,398,90.7,3,0.7,2,0.5,0,0,0,0,41.8590571,-87.66316900000001,4210,Pilsen Comm Acad,914,0.3,3.5,0.3,95.7
+610130,Pirie,John T Pirie Fine Arts & Academic Center ES,5440,Network 12,610130,Pirie,PIRIE,394,0,0,390,99,0,0,0,0,1,0.3,3,0.8,0,0,0,0,0,0,41.7406771,-87.6084994,5440,Pirie,533,0,100,0,0
+610131,Plamondon,Ambrose Plamondon Elementary School,5450,Network 5,610131,Plamondon,PLAMONDON,163,0,0,37,22.7,0,0,0,0,124,76.1,2,1.2,0,0,0,0,0,0,41.8605584,-87.69261279999999,5450,Plamondon,266,0,16.2,0,83.5
+400068,Plato Contr,Plato Learning Academy Elementary School,2045,Contract,400068,Plato Learning Acad,PLATO LEARNING ACAD,475,0,0,473,99.6,0,0,0,0,2,0.4,0,0,0,0,0,0,0,0,41.8725068,-87.7635021,,,,,,,
+610132,Poe,Edgar Allan Poe Elementary Classical School,5460,Network 13,610132,Poe Classical,POE CLASSICAL,193,3,1.6,182,94.3,0,0,0,0,6,3.1,1,0.5,0,0,0,0,1,0.5,41.702558,-87.60630979999999,5460,Poe,172,4.7,94.2,0,1.2
+400069,Polaris Chtr Campus,Polaris Charter Academy Elementary School,4150,Charter,400069,Polaris Charter Acad,POLARIS CHARTER ACAD,442,1,0.2,399,90.3,0,0,0,0,37,8.4,1,0.2,0,0,0,0,4,0.9,41.8923773,-87.7080654,,,,,,,
+610135,Portage Park,Portage Park Elementary School,5490,Network 1,610135,Portage Park,PORTAGE PARK,"1,114",341,30.6,24,2.2,0,0,13,1.2,686,61.6,16,1.4,24,2.2,8,0.7,2,0.2,41.9571504,-87.76110419999999,5490,Portage Park,861,66.4,1.4,3.4,28.7
+610281,Powell,Adam Clayton Powell Paideia Community Academy ES,7010,Network 12,610281,Powell,POWELL,564,0,0,553,98,0,0,0,0,9,1.6,1,0.2,1,0.2,0,0,0,0,41.760168,-87.55610899999999,7010,Powell,680,0.6,99.4,0,0
+610136,Prescott,William H Prescott Elementary School,5500,Network 4,610136,Prescott,PRESCOTT,288,99,34.4,39,13.5,0,0,2,0.7,122,42.4,15,5.2,10,3.5,0,0,1,0.3,41.9290816,-87.66922749999999,5500,Prescott,370,6.2,8.9,1.6,83
+610533,Prieto,Dr Jorge Prieto Math and Science,8023,Network 3,610533,Prieto,PRIETO,"1,051",18,1.7,36,3.4,0,0,1,0.1,994,94.6,1,0.1,1,0.1,0,0,0,0,41.9211341,-87.7651628,,,,,,,
+610229,Pritzker,A.N. Pritzker School,6460,Network 6,610229,Pritzker,PRITZKER,699,164,23.5,259,37.1,0,0,0,0,219,31.3,33,4.7,21,3,2,0.3,1,0.1,41.9068861,-87.6780938,6460,Pritzker,710,21,41.1,4.1,33.7
+400070,Prologue HS,Prologue Early College High School,1135,Contract,400070,Prologue Early College HS,PROLOGUE EARLY COLLEGE HS,231,8,3.5,179,77.5,0,0,0,0,39,16.9,1,0.4,1,0.4,0,0,3,1.3,41.902656,-87.66338760000001,,,,,,,
+400109,Prologue-johnston Chtr HS,Prologue-Joshua Johnston Charter School,8670,Charter,400109,Prologue Chrt - Johnston HS,PROLOGUE CHRT - JOHNSTON HS,251,0,0,247,98.4,0,0,0,0,3,1.2,1,0.4,0,0,0,0,0,0,41.72089440000001,-87.66231169999999,,,,,,,
+609679,Prosser HS,Charles Allen Prosser Career Academy High School,1070,Network 3,609679,Prosser HS,PROSSER HS,"1,514",67,4.4,322,21.3,0,0,8,0.5,"1,099",72.6,8,0.5,8,0.5,2,0.1,0,0,41.9193548,-87.7618808,1070,Prosser HS,1318,19,36.1,1.1,43.7
+400071,Providence Chtr - Bunche,Providence Englewood Charter - Bunche,6700,Charter,400071,Providence-Englewood Chrt,PROVIDENCE-ENGLEWOOD CHRT,471,0,0,426,90.4,0,0,0,0,7,1.5,2,0.4,0,0,2,0.4,34,7.2,41.7755601,-87.6640159,,,,,,,
+610137,Prussing,Ernst Prussing Elementary School,5510,Network 1,610137,Prussing,PRUSSING,687,325,47.3,13,1.9,1,0.1,4,0.6,254,37,6,0.9,36,5.2,5,0.7,43,6.3,41.965887,-87.77296,5510,Prussing,603,71.8,2.5,6.5,18.9
+610138,Pulaski,Pulaski International School of Chicago,5520,Network 6,610138,Pulaski,PULASKI,895,97,10.8,9,1,0,0,6,0.7,741,82.8,17,1.9,9,1,0,0,16,1.8,41.918734,-87.68377149999999,5520,Pulaski,1129,4.3,3.9,1.4,90.3
+610139,Pullman,George M Pullman Elementary School,5530,Network 13,610139,Pullman,PULLMAN,254,0,0,191,75.2,0,0,1,0.4,51,20.1,3,1.2,0,0,0,0,8,3.1,41.6888097,-87.60953300000001,5530,Pullman,618,0.3,73.3,0,26.4
+610334,Raby HS,Al Raby High School,7690,OS4,610334,Raby HS,RABY HS,513,0,0,493,96.1,0,0,1,0.2,17,3.3,0,0,0,0,2,0.4,0,0,41.8860663,-87.7156456,,,,,,,
+609941,Randolph,Asa Philip Randolph Elementary School,3550,Network 11,609941,Randolph Magnet,RANDOLPH MAGNET,500,1,0.2,478,95.6,0,0,0,0,15,3,6,1.2,0,0,0,0,0,0,41.760634,-87.67637959999999,3550,Randolph Magnet,1049,2.9,96.7,0,0.5
+610141,Ravenswood,Ravenswood Elementary School,5550,Network 2,610141,Ravenswood,RAVENSWOOD,508,200,39.4,51,10,0,0,0,0,213,41.9,24,4.7,16,3.1,2,0.4,2,0.4,41.9610293,-87.67126119999999,5550,Ravenswood,552,13.6,8.3,6.5,70.7
+610142,Ray,William H Ray Elementary School,5560,Network 9,610142,Ray,RAY,721,146,20.2,399,55.3,0,0,2,0.3,54,7.5,43,6,72,10,1,0.1,4,0.6,41.7922303,-87.5943728,5560,Ray,808,21.9,62.3,11.6,3.8
+610143,Reavis,William C Reavis Math & Science Specialty ES,5580,OS4,610143,Reavis,REAVIS,304,1,0.3,296,97.4,0,0,0,0,3,1,0,0,1,0.3,3,1,0,0,41.80433,-87.605137,5580,Reavis,679,0,100,0,0
+610144,Reilly,Frank W Reilly Elementary School,5590,Network 4,610144,Reilly,REILLY,"1,150",49,4.3,15,1.3,0,0,6,0.5,"1,058",92,7,0.6,10,0.9,4,0.3,1,0.1,41.9410275,-87.719067,5590,Reilly,1695,21.5,0.8,2,75.3
+610145,Reinberg,Peter A Reinberg Elementary School,5600,Network 1,610145,Reinberg,REINBERG,840,241,28.7,12,1.4,0,0,1,0.1,550,65.5,11,1.3,22,2.6,1,0.1,2,0.2,41.94260209999999,-87.7690709,5600,Reinberg,1096,47.9,5.5,6,40.1
+610146,Revere,Paul Revere Elementary School,5610,Network 12,610146,Revere,REVERE,324,0,0,322,99.4,0,0,0,0,1,0.3,1,0.3,0,0,0,0,0,0,41.7644336,-87.6000725,5610,Revere,549,0,98.4,0.2,1.5
+609682,Richards HS,Ellen H Richards Career Academy High School,1110,OS4,609682,Richards HS,RICHARDS HS,385,1,0.3,146,37.9,0,0,1,0.3,234,60.8,1,0.3,1,0.3,0,0,1,0.3,41.8028204,-87.66196459999999,1110,Richards Car Acad HS,553,0.9,50.8,0.5,47.7
+610390,Rickover HS,Hyman G Rickover Naval Academy High School,7140,Military,610390,Rickover Naval HS,RICKOVER NAVAL HS,507,48,9.5,60,11.8,0,0,4,0.8,371,73.2,5,1,19,3.7,0,0,0,0,41.9892455,-87.6666223,,,,,,,
+609707,Robeson HS,Paul Robeson High School,1320,Network 11,609707,Robeson HS,ROBESON HS,372,0,0,371,99.7,0,0,0,0,1,0.3,0,0,0,0,0,0,0,0,41.7702519,-87.6368723,1320,Robeson HS,907,0,99.8,0.2,0
+610256,Robinson,Jackie Robinson Elementary School,6780,OS4,610256,Robinson,ROBINSON,135,0,0,133,98.5,0,0,0,0,1,0.7,0,0,1,0.7,0,0,0,0,41.817471,-87.598843,6780,Robinson,337,0,99.1,0,0.9
+610147,Rogers,Philip Rogers Elementary School,5630,Network 2,610147,Rogers,ROGERS,752,134,17.8,126,16.8,0,0,4,0.5,310,41.2,6,0.8,171,22.7,1,0.1,0,0,42.0153797,-87.69676,5630,Rogers,648,38.4,16.4,30.2,15
+609728,Roosevelt HS,Theodore Roosevelt High School,1520,Network 1,609728,Roosevelt HS,ROOSEVELT HS,"1,437",72,5,157,10.9,1,0.1,5,0.3,"1,042",72.5,9,0.6,86,6,2,0.1,63,4.4,41.9650389,-87.7144907,1520,Roosevelt HS,1668,17.2,9,18.5,55.2
+400096,Rowe,Rowe Elementary School,8077,Charter,400096,Rowe,ROWE,588,15,2.6,77,13.1,0,0,1,0.2,460,78.2,5,0.9,2,0.3,0,0,28,4.8,41.9078093,-87.6645798,,,,,,,
+610308,Rudolph,Wilma Rudolph Elementary Learning Center,7350,Network 6,610308,Rudolph Lrng Ctr,RUDOLPH LRNG CTR,109,9,8.3,44,40.4,0,0,0,0,50,45.9,1,0.9,3,2.8,1,0.9,1,0.9,41.8835995,-87.66937539999999,7350,Rudolph Learn Ctr,89,2.2,41.6,0,56.2
+610152,Ruggles,Martha Ruggles Elementary School,5660,Network 12,610152,Ruggles,RUGGLES,410,0,0,404,98.5,0,0,0,0,3,0.7,2,0.5,0,0,1,0.2,0,0,41.7519718,-87.6177101,5660,Ruggles,626,0,99.8,0,0
+610125,Ruiz,Irma C Ruiz Elementary School,5390,Network 7,610125,Ruiz,RUIZ,897,14,1.6,1,0.1,0,0,5,0.6,874,97.4,3,0.3,0,0,0,0,0,0,41.8479002,-87.6812235,5390,Ruiz,925,3.2,0.1,0.1,96.5
+610153,Ryder,William H Ryder Math & Science Specialty ES,5670,Network 11,610153,Ryder,RYDER,410,0,0,393,95.9,0,0,0,0,4,1,0,0,0,0,1,0.2,12,2.9,41.73517349999999,-87.6394761,5670,Ryder,599,0,100,0,0
+610342,Sabin,Albert R Sabin Elementary Magnet School,7790,Network 5,610342,Sabin Magnet,SABIN MAGNET,626,9,1.4,102,16.3,0,0,7,1.1,494,78.9,6,1,2,0.3,0,0,6,1,41.9072003,-87.6828914,7790,Sabin Magnet,534,8.2,17.2,1.5,72.8
+610250,Salazar,Rueben Salazar Elementary Bilingual Center,6720,Network 6,610250,Salazar Bilingual,SALAZAR BILINGUAL,405,8,2,77,19,0,0,1,0.2,310,76.5,1,0.2,8,2,0,0,0,0,41.9014848,-87.6340307,6720,Salazar Bilingual,375,0.8,6.1,0,93.1
+610226,Sandoval,Socorro Sandoval Elementary School,6430,Network 8,610226,Sandoval,SANDOVAL,"1,133",14,1.2,15,1.3,0,0,4,0.4,"1,091",96.3,0,0,3,0.3,0,0,6,0.5,41.79301419999999,-87.71237339999999,6430,Sandoval School,1238,6.9,0.6,0.2,92.2
+610017,Saucedo,Maria Saucedo Elementary Scholastic Academy,4250,Network 7,610017,Saucedo Magnet,SAUCEDO MAGNET,"1,281",3,0.2,21,1.6,0,0,10,0.8,"1,228",95.9,4,0.3,0,0,0,0,15,1.2,41.8478891,-87.69538109999999,4250,Saucedo Acad,1339,2.8,4,0.1,93
+610155,Sauganash,Sauganash Elementary School,5690,Network 1,610155,Sauganash,SAUGANASH,553,290,52.4,9,1.6,0,0,1,0.2,138,25,12,2.2,101,18.3,2,0.4,0,0,41.9912865,-87.74636369999999,5690,Sauganash,295,60.7,3.7,17.6,17.3
+610157,Sawyer,Sidney Sawyer Elementary School,5710,Network 8,610157,Sawyer,SAWYER,"1,837",21,1.1,12,0.7,0,0,3,0.2,"1,797",97.8,3,0.2,0,0,0,0,1,0.1,41.7976971,-87.7050688,5710,Sawyer,1493,5.4,0.9,0,93.6
+610158,Sayre,Harriet E Sayre Elementary Language Academy,5720,Network 3,610158,Sayre,SAYRE,571,68,11.9,223,39.1,0,0,1,0.2,246,43.1,28,4.9,4,0.7,0,0,1,0.2,41.9138284,-87.79926669999999,5720,Sayre Lang Acad,529,15.7,55.2,3.8,25
+610159,Scammon,Jonathan Y Scammon Elementary School,5730,Network 1,610159,Scammon,SCAMMON,872,54,6.2,8,0.9,0,0,5,0.6,775,88.9,9,1,15,1.7,3,0.3,3,0.3,41.9413315,-87.73284029999999,5730,Scammon,1062,19.8,1.1,1.4,77.1
+610178,Schmid,Theophilus Schmid Elementary School,5950,Network 12,610178,Schmid,SCHMID,208,1,0.5,196,94.2,0,0,1,0.5,9,4.3,1,0.5,0,0,0,0,0,0,41.7175507,-87.5970387,5950,Schmid,322,0,99.7,0,0.3
+610297,School Of Leadrshp HS,High School of Leadership at South Shore,7230,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+610165,Schubert,Franz Peter Schubert Elementary School,5800,Network 3,610165,Schubert,SCHUBERT,967,32,3.3,12,1.2,0,0,1,0.1,917,94.8,2,0.2,2,0.2,0,0,1,0.1,41.9303572,-87.76127439999999,5800,Schubert,1234,10.9,1.3,1.1,86.5
+609729,Schurz HS,Carl Schurz High School,1530,Network 1,609729,Schurz HS,SCHURZ HS,"2,379",134,5.6,219,9.2,0,0,15,0.6,"1,930",81.1,15,0.6,24,1,2,0.1,40,1.7,41.947268,-87.73561199999999,1530,Schurz HS,2500,13.4,8.1,2,76.3
+609730,Senn HS,Nicholas Senn High School,1540,Network 2,609730,Senn HS,SENN HS,"1,162",108,9.3,327,28.1,0,0,5,0.4,521,44.8,33,2.8,161,13.9,6,0.5,1,0.1,41.9892455,-87.6666223,1540,Senn Magnet HS,1785,6.9,43.7,15.5,33.4
+610167,Seward,William H Seward Communication Arts Academy ES,5820,Network 8,610167,Seward,SEWARD,849,10,1.2,4,0.5,0,0,0,0,834,98.2,0,0,1,0.1,0,0,0,0,41.809893,-87.66888639999999,5820,Seward,996,3.2,0,0,96.8
+400073,Shabazz Chtr - Dusable,Betty Shabazz Intl Charter - DuSable Leadership,4140,Charter,400073,Shabazz Chrt - DuSable,SHABAZZ CHRT - DUSABLE,234,0,0,230,98.3,0,0,0,0,2,0.9,1,0.4,0,0,0,0,1,0.4,41.8045878,-87.6247619,,,,,,,
+400072,Shabazz Chtr - Shabazz,Betty Shabazz Intl Charter,4520,Charter,400072,Shabazz Charter,SHABAZZ CHARTER,324,0,0,263,81.2,0,0,1,0.3,1,0.3,3,0.9,0,0,0,0,56,17.3,41.7526674,-87.60035429999999,4520,Shabazz Charter,243,0,100,0,0
+400074,Shabazz Chtr - Sizemore,Betty Shabazz Intl Charter - Barbara A Sizemore,5130,Charter,400074,Shabazz Chrt - Sizmore,SHABAZZ CHRT - SIZMORE,286,0,0,263,92,0,0,0,0,2,0.7,0,0,0,0,0,0,21,7.3,41.7678338,-87.6675638,,,,,,,
+610081,Sheridan,Mark Sheridan Elementary Math & Science Academy,4920,Network 6,610081,Sheridan Magnet,SHERIDAN MAGNET,545,156,28.6,96,17.6,0,0,0,0,114,20.9,16,2.9,162,29.7,1,0.2,0,0,41.8442331,-87.64119889999999,4920,"Sheridan, M.",531,30.7,25.8,29.8,13.4
+610172,Sherman,William T Sherman Elementary School,5890,AUSL,610172,Sherman,SHERMAN,391,0,0,371,94.9,0,0,0,0,20,5.1,0,0,0,0,0,0,0,0,41.7998366,-87.6504673,5890,Sherman,804,0,100,0,0
+610173,Sherwood,Jesse Sherwood Elementary School,5900,Network 11,610173,Sherwood,SHERWOOD,407,1,0.2,395,97.1,0,0,1,0.2,7,1.7,2,0.5,0,0,0,0,1,0.2,41.7906272,-87.6322292,5900,Sherwood,418,0,100,0,0
+610174,Shields,James Shields Elementary School,5910,Network 8,610174,Shields,SHIELDS,"1,051",17,1.6,8,0.8,0,0,2,0.2,"1,021",97.1,1,0.1,1,0.1,1,0.1,0,0,41.8159166,-87.6895483,5910,Shields,2076,5.7,0.4,0,93.7
+610559,Shields Middle,James Shields Middle School,9597,Network 8,610559,Shields Middle,SHIELDS MIDDLE,717,6,0.8,5,0.7,0,0,6,0.8,698,97.4,0,0,1,0.1,1,0.1,0,0,41.80650929999999,-87.6897709,,,,,,,
+610175,Shoesmith,Beulah Shoesmith Elementary School,5920,Network 9,610175,Shoesmith,SHOESMITH,343,4,1.2,324,94.5,0,0,0,0,8,2.3,2,0.6,4,1.2,0,0,1,0.3,41.8047591,-87.5943398,5920,Shoesmith,375,0.5,97.1,0,2.4
+610176,Shoop,John D Shoop Math-Science Technical Academy ES,5930,Network 13,610176,Shoop,SHOOP,502,0,0,496,98.8,0,0,0,0,6,1.2,0,0,0,0,0,0,0,0,41.69143529999999,-87.6585877,5930,Shoop,690,0,100,0,0
+609692,Simeon HS,Neal F Simeon Career Academy High School,1150,Network 11,609692,Simeon HS,SIMEON HS,"1,467",0,0,"1,446",98.6,0,0,0,0,8,0.5,13,0.9,0,0,0,0,0,0,41.746942,-87.634677,1150,Simeon Vocational,1379,0,100,0,0
+609750,Simpson HS,Simpson Academy High School for Young Women,1750,Options,609750,Simpson HS,SIMPSON HS,87,1,1.1,63,72.4,0,0,0,0,20,23,1,1.1,0,0,0,0,2,2.3,41.8646142,-87.6683561,1750,Simpson HS,165,0,95.8,0,4.2
+610177,Skinner,Mark Skinner Elementary School,5940,Network 6,610177,Skinner Classical,SKINNER CLASSICAL,903,209,23.1,352,39,0,0,7,0.8,109,12.1,22,2.4,186,20.6,2,0.2,16,1.8,41.8795976,-87.6591186,5940,Skinner,395,18.7,59.5,11.4,10.1
+610534,Skinner North,Skinner North,8024,Network 4,610534,Skinner North,SKINNER NORTH,368,152,41.3,55,14.9,0,0,1,0.3,42,11.4,25,6.8,91,24.7,2,0.5,0,0,41.9053006,-87.6452217,,,,,,,
+609978,Smith,Wendell Smith Elementary School,3870,Network 13,609978,Smith W.,SMITH W.,343,3,0.9,338,98.5,0,0,0,0,2,0.6,0,0,0,0,0,0,0,0,41.7074789,-87.6053889,3870,Smith,630,0.2,99,0,0.8
+610179,Smyser,Washington D Smyser Elementary School,5960,Network 1,610179,Smyser,SMYSER,"1,006",380,37.8,7,0.7,0,0,5,0.5,568,56.5,11,1.1,32,3.2,3,0.3,0,0,41.9590292,-87.7821491,5960,Smyser,838,70.5,2.3,4.7,21.7
+610180,Smyth,John M Smyth Elementary School,5970,OS4,610180,Smyth J.,SMYTH J.,512,8,1.6,472,92.2,0,0,0,0,25,4.9,1,0.2,6,1.2,0,0,0,0,41.8649951,-87.6540125,5970,Smyth,601,0,100,0,0
+610182,Solomon,Hannah G Solomon Elementary School,5980,Network 1,610182,Solomon,SOLOMON,357,158,44.3,14,3.9,0,0,0,0,50,14,11,3.1,124,34.7,0,0,0,0,41.9940348,-87.72466849999999,5980,Solomon,458,41.3,21.6,26.4,10.5
+610543,Solorio HS,Eric Solorio Academy High School,8550,AUSL,610543,Solorio HS,SOLORIO HS,"1,068",17,1.6,41,3.8,0,0,6,0.6,"1,002",93.8,1,0.1,1,0.1,0,0,0,0,41.7951935,-87.7116076,,,,,,,
+609990,South Loop,South Loop Elementary School,3960,Network 6,609990,South Loop,SOUTH LOOP,867,237,27.3,393,45.3,0,0,1,0.1,83,9.6,33,3.8,100,11.5,20,2.3,0,0,41.8668292,-87.62894140000002,3960,South Loop,546,0.5,98.9,0,0.5
+610547,South Shore Intl HS,South Shore Intl College Prep High School,8676,Network 12,610547,South Shore Intl HS,SOUTH SHORE INTL HS,572,1,0.2,550,96.2,0,0,0,0,16,2.8,3,0.5,1,0.2,1,0.2,0,0,41.7583583,-87.5768501,,,,,,,
+610530,Southshore,South Shore Fine Arts Academy,2015,Network 12,610530,South Shore,SOUTH SHORE,503,0,0,487,96.8,0,0,0,0,6,1.2,6,1.2,1,0.2,0,0,3,0.6,41.7672347,-87.59025280000002,,,,,,,
+609745,Southside HS,Southside Occupational Academy High School,1700,Network 11,609745,Southside Occp HS,SOUTHSIDE OCCP HS,228,7,3.1,175,76.8,0,0,0,0,44,19.3,0,0,0,0,2,0.9,0,0,41.7598391,-87.6760302,1700,Southside L.C.,232,9.5,76.7,0,13.8
+610183,Spencer Tech Acad,Spencer Technology Academy,6000,Network 3,610183,Spencer,SPENCER,864,1,0.1,852,98.6,0,0,0,0,11,1.3,0,0,0,0,0,0,0,0,41.8848557,-87.75074769999999,6000,Spencer,1315,0.1,99.9,0,0
+610184,Spry,John Spry Elementary Community School,6010,Network 7,610184,Spry,SPRY,734,6,0.8,1,0.1,0,0,0,0,716,97.5,0,0,0,0,0,0,11,1.5,41.8478175,-87.69972229999999,6010,Spry,924,0.1,1.3,0.1,98.5
+610357,Spry HS,Spry Community Links High School,7930,Network 7,610357,Spry Comm Links HS,SPRY COMM LINKS HS,189,1,0.5,2,1.1,0,0,0,0,186,98.4,0,0,0,0,0,0,0,0,41.8478175,-87.69972229999999,,,,,,,
+610339,Stagg,Amos Alonzo Stagg Elementary School,7760,AUSL,610339,Stagg,STAGG,589,1,0.2,580,98.5,0,0,0,0,5,0.8,1,0.2,2,0.3,0,0,0,0,41.7587011,-87.6493411,7760,Stagg,773,0,99.9,0,0.1
+609732,Steinmetz College Prep HS,Charles P Steinmetz College Preparatory HS,1560,Network 3,609732,Steinmetz HS,STEINMETZ HS,"1,809",191,10.6,227,12.5,0,0,14,0.8,"1,331",73.6,6,0.3,36,2,1,0.1,3,0.2,41.935631,-87.78415199999999,1560,Steinmetz HS,2258,30.2,23.7,2.9,43
+610548,Stem ES,STEM Magnet Academy,8678,Network 6,610548,STEM Elementary,STEM ELEMENTARY,334,60,18,109,32.6,0,0,0,0,90,26.9,9,2.7,63,18.9,3,0.9,0,0,41.868721,-87.66438140000001,,,,,,,
+610185,Stevenson,Adlai E Stevenson Elementary School,6030,Network 10,610185,Stevenson,STEVENSON,"1,264",57,4.5,68,5.4,0,0,5,0.4,"1,126",89.1,3,0.2,3,0.2,1,0.1,1,0.1,41.7471357,-87.7319927,6030,Stevenson,864,50.1,14.6,1.5,33.7
+610163,Stock,Frederick Stock Elementary School,5770,Network 1,610163,Stock,STOCK,241,125,51.9,7,2.9,0,0,1,0.4,34,14.1,2,0.8,10,4.1,1,0.4,61,25.3,42.0167079,-87.8144064,5770,Stock,118,49.2,17.8,4.2,28.8
+610191,Stone,Stone Elementary Scholastic Academy,6070,Network 2,610191,Stone Magnet,STONE MAGNET,634,220,34.7,116,18.3,0,0,2,0.3,122,19.2,26,4.1,146,23,2,0.3,0,0,41.9954156,-87.6843866,6070,Stone Acad,592,25.2,25.5,21.8,25.8
+610192,Stowe,Harriet Beecher Stowe Elementary School,6080,Network 5,610192,Stowe,STOWE,794,7,0.9,50,6.3,0,0,4,0.5,721,90.8,4,0.5,0,0,0,0,8,1,41.9126433,-87.7131134,6080,"Stowe, H.B.",1543,1.6,7.5,0.1,90.7
+610405,Suder,Suder Montessori Magnet ES,6340,Network 6,610405,Suder Montessori,SUDER MONTESSORI,417,70,16.8,253,60.7,0,0,1,0.2,52,12.5,15,3.6,19,4.6,0,0,7,1.7,41.8831457,-87.67721,,,,,,,
+609733,Sullivan HS,Roger C Sullivan High School,1570,Network 2,609733,Sullivan HS,SULLIVAN HS,708,31,4.4,305,43.1,0,0,4,0.6,263,37.1,11,1.6,92,13,2,0.3,0,0,42.0023031,-87.6692692,1570,Sullivan HS,1204,7.9,56.6,6.8,28.1
+610194,Sumner,Charles Sumner  Math & Science Community Acad ES,6110,Network 5,610194,Sumner,SUMNER,417,0,0,411,98.6,0,0,0,0,4,1,0,0,1,0.2,1,0.2,0,0,41.8705731,-87.734166,6110,Sumner,717,0.1,93,0,6.8
+610195,Sutherland,Elizabeth H Sutherland Elementary School,6120,Network 10,610195,Sutherland,SUTHERLAND,737,296,40.2,383,52,0,0,1,0.1,41,5.6,13,1.8,3,0.4,0,0,0,0,41.711022,-87.67630799999999,6120,Sutherland,681,52.3,44.1,0.6,2.9
+610196,Swift,George B Swift Elementary Specialty School,6130,Network 2,610196,Swift,SWIFT,696,114,16.4,229,32.9,0,0,7,1,227,32.6,25,3.6,92,13.2,2,0.3,0,0,41.98899429999999,-87.6585765,6130,Swift,842,24.7,38.8,7.5,29
+609734,Taft HS,William Howard Taft High School,1580,Network 1,609734,Taft HS,TAFT HS,"3,195","1,534",48,67,2.1,4,0.1,9,0.3,"1,270",39.7,58,1.8,244,7.6,3,0.1,6,0.2,41.9828878,-87.79197529999999,1580,Taft HS,1624,31.4,29.4,6,32.7
+610197,Talcott,Mancel Talcott Elementary School,6140,Network 6,610197,Talcott,TALCOTT,535,40,7.5,33,6.2,0,0,1,0.2,445,83.2,12,2.2,4,0.7,0,0,0,0,41.8927413,-87.6742009,6140,Talcott,804,5.8,5,0,89.2
+610249,Talman,Talman Elementary School,6680,Network 8,610249,Talman,TALMAN,419,1,0.2,5,1.2,0,0,1,0.2,411,98.1,0,0,0,0,0,0,1,0.2,41.7941537,-87.690652,,,,,,,
+610279,Tanner,Henry O Tanner Elementary School,6970,Network 12,610279,Tanner,TANNER,404,1,0.2,396,98,0,0,0,0,2,0.5,2,0.5,0,0,0,0,3,0.7,41.76066700000001,-87.6069055,6970,Tanner,668,0,99.9,0,0.1
+610396,Tarkington,Tarkington School of Excellence ES,7160,AUSL,610396,Tarkington,TARKINGTON,"1,056",4,0.4,213,20.2,0,0,7,0.7,823,77.9,9,0.9,0,0,0,0,0,0,41.7645049,-87.70631399999999,,,,,,,
+610198,Taylor,Douglas Taylor Elementary School,6150,Network 13,610198,Taylor,TAYLOR,590,5,0.8,57,9.7,0,0,5,0.8,521,88.3,2,0.3,0,0,0,0,0,0,41.7156267,-87.5332614,6150,Taylor,791,9.4,4.9,0,85.3
+610506,Team HS,TEAM Englewood Community Academy High School,8080,Network 11,610506,TEAM HS,TEAM HS,407,0,0,398,97.8,0,0,1,0.2,8,2,0,0,0,0,0,0,0,0,41.781949,-87.63442270000002,,,,,,,
+609921,Telpochcalli,Telpochcalli Elementary School,3380,OS4,609921,Telpochcalli,TELPOCHCALLI,308,2,0.6,5,1.6,0,0,0,0,299,97.1,2,0.6,0,0,0,0,0,0,41.8478891,-87.69538109999999,3380,Telpochalli,230,0,0,0.4,99.1
+610504,Thomas,Velma F Thomas Early Childhood Center,6710,Network 8,610504,Thomas,THOMAS,176,10,5.7,5,2.8,0,0,1,0.6,150,85.2,2,1.1,5,2.8,0,0,3,1.7,41.827807,-87.67763289999999,,,,,,,
+610200,"Thorp, J",James N Thorp Elementary School,6180,Network 12,610200,Thorp J. N.,THORP J. N.,413,4,1,319,77.2,0,0,1,0.2,89,21.5,0,0,0,0,0,0,0,0,41.732887,-87.5450539,6180,"Thorp, J.N.",707,0,72.6,1.8,25.5
+610201,"Thorp, O",Ole A Thorp Elementary Scholastic Academy,6190,Network 1,610201,Thorp O. A. Magnet,THORP O. A. MAGNET,846,249,29.4,105,12.4,0,0,10,1.2,335,39.6,32,3.8,66,7.8,3,0.4,46,5.4,41.94894499999999,-87.777823,6190,"Thorp, 0.A.",776,32.3,33.2,11,22.8
+609735,Tilden HS,Edward Tilden Career Community Academy HS,1590,OS4,609735,Tilden HS,TILDEN HS,345,27,7.8,232,67.2,0,0,0,0,72,20.9,5,1.4,6,1.7,0,0,3,0.9,41.8075276,-87.64235269999999,1590,Tilden Acad,1035,9.3,53.2,0.2,37.3
+610065,Till,Emmett Louis Till Math and Science Academy,4740,Network 9,610065,Till,TILL,421,0,0,415,98.6,0,0,0,0,1,0.2,0,0,0,0,1,0.2,4,1,41.7755789,-87.6091119,4740,McCosh,1046,0.1,99.7,0,0.2
+610202,Tilton,George W Tilton Elementary School,6210,Network 5,610202,Tilton,TILTON,448,0,0,434,96.9,0,0,0,0,4,0.9,2,0.4,0,0,0,0,8,1.8,41.884245,-87.72974599999999,6210,Tilton,604,0,100,0,0
+610203,Tonti,Enrico Tonti Elementary School,6220,Network 8,610203,Tonti,TONTI,"1,084",10,0.9,21,1.9,0,0,4,0.4,"1,035",95.5,3,0.3,1,0.1,0,0,10,0.9,41.7874641,-87.7078015,6220,Tonti,934,5.4,3.5,0.5,90.6
+609895,Turner-drew,Turner-Drew Elementary Language Academy,3110,Network 11,609895,Turner-Drew Magnet,TURNER-DREW MAGNET,373,0,0,360,96.5,0,0,1,0.3,11,2.9,1,0.3,0,0,0,0,0,0,41.7258197,-87.6304959,3110,Turner-Drew Language,403,5.2,92.1,0.2,1.7
+610206,Twain,Mark Twain Elementary School,6240,Network 10,610206,Twain,TWAIN,"1,201",231,19.2,10,0.8,0,0,2,0.2,943,78.5,10,0.8,5,0.4,0,0,0,0,41.7990578,-87.75892569999999,6240,Twain,826,62.7,4.4,1.7,30.9
+400075,Univ Of Chgo Chtr - Donoghue,University of Chicago Charter - Donoghue,2600,Charter,400075,U Of C Chtr - Donoghue,U OF C CHTR - DONOGHUE,550,0,0,527,95.8,0,0,1,0.2,3,0.5,1,0.2,0,0,0,0,18,3.3,41.8274419,-87.6080624,,,,,,,
+400076,Univ Of Chgo Chtr - Nko,University of Chicago Charter - NKO,3060,Charter,400076,U Of C Chtr - North Kenwood,U OF C CHTR - NORTH KENWOOD,340,7,2.1,319,93.8,0,0,0,0,6,1.8,1,0.3,0,0,0,0,7,2.1,41.8111549,-87.59825889999999,3060,No. Kenwood Charter,156,1.3,98.7,0,0
+400077,Univ Of Chgo Chtr - Woodlawn,University of Chicago Charter - Woodlawn,3061,Charter,400077,U Of C Chtr - Woodlawn,U OF C CHTR - WOODLAWN,634,1,0.2,619,97.6,0,0,0,0,3,0.5,5,0.8,0,0,1,0.2,5,0.8,41.7785315,-87.5980675,,,,,,,
+400078,Univ Of Chgo Chtr - Woodson,University of Chicago Charter - Carter G Woodson,3062,Charter,400078,U of C Chtr - Woodson,U OF C CHTR - WOODSON,372,1,0.3,353,94.9,0,0,0,0,1,0.3,2,0.5,0,0,0,0,15,4,41.8140223,-87.6086873,,,,,,,
+400101,Uno Chtr  - Sandra Cisneros,UNO Charter - Sandra Cisneros,8094,Charter,400101,UNO Chtr - Gage Park,UNO CHTR - GAGE PARK,555,0,0,4,0.7,0,0,2,0.4,524,94.4,0,0,0,0,0,0,25,4.5,41.823046,-87.69435899999999,,,,,,,
+400112,Uno Chtr - 51st - Homan,UNO 51st and Homan Charter Elementary School,8671,Charter,400112,UNO Chtr - 51st Homan,UNO CHTR - 51ST HOMAN,573,4,0.7,0,0,0,0,4,0.7,557,97.2,0,0,0,0,0,0,8,1.4,41.8011826,-87.7086906,,,,,,,
+400081,Uno Chtr - De Las Casas,UNO Charter - Bartolome de Las Casas,3341,Charter,400081,UNO Chtr - Las Casas,UNO CHTR - LAS CASAS,286,0,0,2,0.7,0,0,0,0,281,98.3,1,0.3,0,0,0,0,2,0.7,41.8593726,-87.6680088,,,,,,,
+400082,Uno Chtr - Fuentes,UNO Charter - Carlos Fuentes,3342,Charter,400082,UNO Chtr - Fuentes,UNO CHTR - FUENTES,576,3,0.5,1,0.2,0,0,1,0.2,559,97,2,0.3,3,0.5,0,0,7,1.2,41.937491,-87.699636,,,,,,,
+400153,Uno Chtr - Immaculate Conception,UNO Charter 15 ES,9610,Charter,400153,UNO Chtr - 15th Campus,UNO CHTR - 15TH CAMPUS,380,1,0.3,5,1.3,0,0,0,0,372,97.9,0,0,0,0,0,0,2,0.5,41.8132503,-87.6934112,,,,,,,
+400085,Uno Chtr - Major Hector P.Garcia,UNO Charter School - Major Hector P.Garcia MD Campus,3343,Charter,400085,UNO Chtr - Major Garcia,UNO CHTR - MAJOR GARCIA,648,6,0.9,3,0.5,0,0,4,0.6,627,96.8,0,0,1,0.2,1,0.2,6,0.9,41.808606,-87.7307366,,,,,,,
+400089,Uno Chtr - Marquez,UNO Charter School - Officer Donald J. Marquez,3346,Charter,400089,UNO Chtr - Marquez,UNO CHTR - MARQUEZ,575,0,0,3,0.5,0,0,1,0.2,543,94.4,0,0,0,0,0,0,28,4.9,41.8085713,-87.6971777,,,,,,,
+400120,Uno Chtr - Near West,UNO Charter - Near West Elementary,9600,Charter,400120,UNO Chtr - Near West,UNO CHTR - NEAR WEST,576,7,1.2,28,4.9,0,0,1,0.2,524,91,2,0.3,0,0,0,0,14,2.4,41.9177899,-87.78801229999999,,,,,,,
+400121,Uno Chtr - Northside,UNO Charter - Rogers Park ES,9038,Charter,400121,UNO Chtr - Northside,UNO CHTR - NORTHSIDE,605,8,1.3,61,10.1,0,0,3,0.5,513,84.8,3,0.5,9,1.5,0,0,8,1.3,42.01635479999999,-87.6849634,,,,,,,
+400083,Uno Chtr - Paz,UNO Charter - Octavio Paz Campus,5810,Charter,400083,UNO Chtr - Paz Interm,UNO CHTR - PAZ INTERM,429,2,0.5,32,7.5,0,0,2,0.5,370,86.2,0,0,0,0,0,0,23,5.4,41.8499318,-87.6922998,5810,Otavio Paz Charter,723,1,49.4,0,49.7
+400080,Uno Chtr - Pfc Omar E.Torres,UNO Charter School - PFC Omar E.Torres Campus,3345,Charter,400080,UNO Chtr - PFC Torres,UNO CHTR - PFC TORRES,636,4,0.6,7,1.1,0,0,1,0.2,598,94,1,0.2,0,0,0,0,25,3.9,41.808606,-87.7307366,,,,,,,
+400149,Uno Chtr - Soccer Academy,UNO Soccer Academy High School,9640,Charter,400149,UNO Chtr - Soccer Acad,UNO CHTR - SOCCER ACAD,544,3,0.6,3,0.6,0,0,1,0.2,520,95.6,0,0,1,0.2,0,0,16,2.9,41.8007125,-87.7111073,,,,,,,
+400079,Uno Chtr - Spc Daniel Zizumbo,UNO Charter School - SPC Daniel Zizumbo Campus,3344,Charter,400079,UNO Chtr - SPC Zizumbo,UNO CHTR - SPC ZIZUMBO,638,9,1.4,1,0.2,0,0,3,0.5,579,90.8,0,0,0,0,0,0,46,7.2,41.808606,-87.7307366,,,,,,,
+400114,Uno Chtr - St Marks,UNO Charter Elementary School St Marks,8093,Charter,400114,UNO Chtr - St Marks,UNO CHTR - ST MARKS,278,2,0.7,11,4,0,0,1,0.4,262,94.2,0,0,1,0.4,0,0,1,0.4,41.9002725,-87.68989599999999,,,,,,,
+400084,Uno Chtr - Tamayo,UNO Charter - Rufino Tamayo,3340,Charter,400084,UNO Chtr - Tamayo,UNO CHTR - TAMAYO,288,3,1,0,0,0,0,0,0,285,99,0,0,0,0,0,0,0,0,41.7998488,-87.6937861,,,,,,,
+610394,Uplift HS,Uplift Community High School,2210,Network 2,610394,Uplift Community HS,UPLIFT COMMUNITY HS,354,10,2.8,285,80.5,0,0,0,0,42,11.9,7,2,8,2.3,0,0,2,0.6,41.96598849999999,-87.6521892,,,,,,,
+400105,Urban Prep Chtr - Bronzeville,Urban Prep Academy for Young Men - Bronzeville,8027,Charter,400105,Urban Prep Acad - So Shore HS,URBAN PREP ACAD - SO SHORE HS,502,0,0,490,97.6,0,0,0,0,9,1.8,2,0.4,0,0,0,0,1,0.2,41.8311151,-87.61332139999999,,,,,,,
+400086,Urban Prep Chtr - Englewood,Urban Prep Acad for Young Men Charter - Englewood,7030,Charter,400086,Urban Prep Chtr HS,URBAN PREP CHTR HS,449,0,0,401,89.3,0,0,0,0,1,0.2,3,0.7,0,0,0,0,44,9.8,41.781949,-87.63442270000002,,,,,,,
+400102,Urban Prep Chtr - West,Urban Prep Academy for Young Men - West,8096,Charter,400102,Urban Prep Acad - E Garfield HS,URBAN PREP ACAD - E GARFIELD HS,476,0,0,455,95.6,0,0,1,0.2,7,1.5,3,0.6,0,0,0,0,10,2.1,41.862675,-87.6600756,,,,,,,
+610207,Vanderpoel,John H Vanderpoel Elementary Magnet School,6250,Network 10,610207,Vanderpoel Magnet,VANDERPOEL MAGNET,298,1,0.3,291,97.7,0,0,0,0,6,2,0,0,0,0,0,0,0,0,41.7205446,-87.6658052,6250,Vanderpoel Magnet,309,1,95.8,0,3.2
+609766,Vaughn HS,Jacqueline B Vaughn Occupational High School,1920,Network 1,609766,Vaughn Occp HS,VAUGHN OCCP HS,214,40,18.7,68,31.8,0,0,0,0,99,46.3,0,0,7,3.3,0,0,0,0,41.9602399,-87.7644328,1920,Vaughn HS,177,18.1,45.8,0.6,35.6
+609871,Vick,Barbara Vick Early Childhood & Family Center,2920,Network 10,609871,Vick EC Ctr,VICK EC CTR,348,147,42.2,50,14.4,0,0,0,0,137,39.4,5,1.4,2,0.6,1,0.3,6,1.7,41.6881171,-87.6856317,2920,Barbara Vick Center,128,77.3,18,0,4.7
+610518,Voise HS,VOISE Academy High School,1145,Network 3,610518,VOISE HS,VOISE HS,341,0,0,314,92.1,0,0,1,0.3,24,7,2,0.6,0,0,0,0,0,0,41.8851391,-87.7626951,,,,,,,
+610209,Volta,Alessandro Volta Elementary School,6270,Network 1,610209,Volta,VOLTA,"1,034",88,8.5,33,3.2,0,0,6,0.6,653,63.2,2,0.2,246,23.8,1,0.1,5,0.5,41.97142789999999,-87.7250431,6270,Volta,946,16.9,3.8,26.1,53.2
+610039,Von Linne,Carl von Linne Elementary School,4490,Network 4,610039,Linne,LINNE,677,22,3.2,8,1.2,0,0,1,0.1,586,86.6,7,1,10,1.5,1,0.1,42,6.2,41.9402685,-87.70241949999999,4490,Linne,862,9.3,2.1,1.3,86.8
+609737,Von Steuben HS,Friedrich W von Steuben Metropolitan Science HS,1610,Network 1,609737,Von Steuben HS,VON STEUBEN HS,"1,666",316,19,194,11.6,0,0,10,0.6,883,53,30,1.8,227,13.6,4,0.2,2,0.1,41.9724943,-87.71346659999999,1610,Von Steuben Magnet HS,1445,29,26.9,18.4,25.1
+610366,Wacker,Charles H Wacker Elementary School,8030,Network 11,610366,Wacker,WACKER,245,0,0,245,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.7162577,-87.64829759999999,8030,Wacker,310,0,100,0,0
+610213,Wadsworth,James Wadsworth Elementary School,6300,Network 9,610213,Wadsworth,WADSWORTH,522,1,0.2,517,99,0,0,1,0.2,2,0.4,0,0,0,0,0,0,1,0.2,41.774602,-87.60127299999999,6300,Wadsworth,534,0,100,0,0
+610216,Walsh,John A Walsh Elementary School,6320,Network 7,610216,Walsh,WALSH,450,7,1.6,29,6.4,0,0,1,0.2,407,90.4,1,0.2,4,0.9,0,0,1,0.2,41.8543632,-87.6486683,6320,Walsh,533,1.9,3,0,95.1
+610217,"Ward, J",James Ward Elementary School,6330,Network 6,610217,Ward J.,WARD J.,519,22,4.2,115,22.2,0,0,3,0.6,64,12.3,6,1.2,308,59.3,0,0,1,0.2,41.843456,-87.63516050000001,6330,"Ward, J.",464,17.5,16.8,50.4,15.3
+610133,"Ward, L",Laura S Ward Elementary School,5470,Network 5,610133,Ward L.,WARD L.,674,2,0.3,648,96.1,0,0,1,0.1,18,2.7,4,0.6,0,0,0,0,1,0.1,41.8931162,-87.7188542,5470,"Ward, L.",752,0,100,0,0
+610218,Warren,Joseph Warren Elementary School,6350,Network 12,610218,Warren,WARREN,343,0,0,334,97.4,0,0,0,0,5,1.5,4,1.2,0,0,0,0,0,0,41.7276686,-87.5752322,6350,Warren,479,0.2,98.5,0,0.8
+609739,Washington HS,George Washington High School,1630,Network 13,609739,Washington G. HS,WASHINGTON G. HS,"1,563",94,6,110,7,1,0.1,17,1.1,"1,322",84.6,4,0.3,0,0,0,0,15,1,41.687694,-87.5379655,1630,Washington HS,1519,12.7,16.1,0.3,70.7
+610219,"Washington, G",George Washington Elementary School,6360,Network 13,610219,Washington G.,WASHINGTON G.,835,66,7.9,10,1.2,0,0,9,1.1,745,89.2,3,0.4,2,0.2,0,0,0,0,41.6877874,-87.53611099999999,6360,"Washington, G.",665,21.7,0.6,0.3,77.1
+610124,"Washington, H",Harold Washington Elementary School,5380,Network 12,610124,Washington H.,WASHINGTON H.,503,0,0,497,98.8,0,0,0,0,6,1.2,0,0,0,0,0,0,0,0,41.7285417,-87.59661419999999,5380,"Washington, H.",722,0.4,99.6,0,0
+610220,Waters,Thomas J Waters Elementary School,6370,Network 2,610220,Waters,WATERS,670,301,44.9,22,3.3,0,0,1,0.1,268,40,34,5.1,19,2.8,11,1.6,14,2.1,41.9642621,-87.6919875,6370,Waters,622,23.2,4.5,3.9,68
+610221,Webster,Daniel Webster Elementary School,6380,Network 5,610221,Webster,WEBSTER,337,0,0,335,99.4,0,0,0,0,1,0.3,1,0.3,0,0,0,0,0,0,41.8698221,-87.72730790000001,6380,Webster,651,0,100,0,0
+609740,Wells HS,Wells Community Academy High School,1640,OS4,609740,Wells HS,WELLS HS,596,17,2.9,277,46.5,0,0,2,0.3,294,49.3,4,0.7,1,0.2,1,0.2,0,0,41.899336,-87.6682572,1640,Wells Comm Acad,1257,5.3,16.3,0.2,78
+610110,"Wells, I",Ida B Wells Preparatory Elementary Academy,5250,Network 9,610110,Wells Prep,WELLS PREP,490,0,0,420,85.7,0,0,0,0,9,1.8,0,0,0,0,0,0,61,12.4,41.8271544,-87.61983459999999,5250,Wells Prep,185,0,100,0,0
+610223,Wentworth,Daniel S Wentworth Elementary School,6390,Network 11,610223,Wentworth,WENTWORTH,611,0,0,598,97.9,0,0,2,0.3,7,1.1,2,0.3,0,0,0,0,2,0.3,41.7650064,-87.6579155,6390,Wentworth,769,0.3,99.7,0,0
+610100,West Park,West Park Elementary Academy,5140,Network 5,610100,West Park,WEST PARK,646,6,0.9,179,27.7,0,0,1,0.2,458,70.9,1,0.2,0,0,0,0,1,0.2,41.90685269999999,-87.7320853,5140,West Park Acad,853,1.4,37.9,0.2,59
+610542,West Ridge,West Ridge Elementary School,8440,Network 2,610542,Wst Ridge,WST RIDGE,753,225,29.9,55,7.3,0,0,4,0.5,185,24.6,11,1.5,266,35.3,7,0.9,0,0,42.002691,-87.70621539999999,,,,,,,
+610300,Westcott,Oliver S Westcott Elementary School,7260,Network 11,610300,Westcott,WESTCOTT,420,0,0,401,95.5,0,0,1,0.2,11,2.6,2,0.5,0,0,0,0,5,1.2,41.7487119,-87.6357168,7260,Westcott,712,0,100,0,0
+609693,Westinghouse HS,George Westinghouse College Prep,1160,Network 5,609693,Westinghouse HS,WESTINGHOUSE HS,"1,125",23,2,674,59.9,0,0,3,0.3,355,31.6,8,0.7,61,5.4,1,0.1,0,0,41.8891093,-87.7073178,1160,Westinghouse Vocational,1399,0,98.9,0,1.1
+610225,Whistler,John Whistler Elementary School,6420,Network 13,610225,Whistler,WHISTLER,335,1,0.3,331,98.8,0,0,1,0.3,2,0.6,0,0,0,0,0,0,0,0,41.6840503,-87.65509949999999,6420,Whistler,656,0.3,99.4,0,0.3
+610315,White,Edward White Elementary Career Academy,7440,Network 13,610315,White,WHITE,183,0,0,180,98.4,0,0,0,0,2,1.1,1,0.5,0,0,0,0,0,0,41.67273549999999,-87.650342,7440,White,257,0.4,96.9,0,2.7
+610227,Whitney,Eli Whitney Elementary School,6440,Network 7,610227,Whitney,WHITNEY,"1,097",7,0.6,1,0.1,0,0,1,0.1,"1,054",96.1,3,0.3,0,0,1,0.1,30,2.7,41.8400288,-87.72524469999999,6440,Whitney,1262,0.2,0.1,0.1,99.5
+610228,Whittier,John Greenleaf Whittier Elementary School,6450,Network 7,610228,Whittier,WHITTIER,348,4,1.1,0,0,0,0,0,0,344,98.9,0,0,0,0,0,0,0,0,41.8504893,-87.6738943,6450,Whittier,502,1.8,0,0,98.2
+610230,Wildwood,Wildwood Elementary School,6470,Network 1,610230,Wildwood Magnet,WILDWOOD MAGNET,424,249,58.7,17,4,0,0,0,0,92,21.7,25,5.9,36,8.5,5,1.2,0,0,42.0065902,-87.77739609999999,6470,Wildwood,286,39.9,7.3,8.7,44.1
+610380,"Williams, D",Daniel Hale Williams Prep School of Medicine,7200,Network 9,610380,Williams Prep Med HS,WILLIAMS PREP MED HS,300,0,0,284,94.7,0,0,0,0,5,1.7,3,1,2,0.7,0,0,6,2,41.8045878,-87.6247619,,,,,,,
+609977,Woodlawn,Woodlawn Community Elementary School,3860,Network 9,609977,Woodlawn,WOODLAWN,230,0,0,227,98.7,0,0,0,0,0,0,3,1.3,0,0,0,0,0,0,41.773523,-87.594026,3860,Woodlawn Comm,187,0,100,0,0
+610345,Woodson,Carter G Woodson South Elementary School,7820,Network 9,610345,Woodson South,WOODSON SOUTH,378,1,0.3,350,92.6,0,0,0,0,11,2.9,0,0,0,0,0,0,16,4.2,41.8140835,-87.6087663,7820,Woodson South,518,0,100,0,0
+610392,World Language HS,World Language Academy High School,4460,Network 7,610392,World Language HS,WORLD LANGUAGE HS,353,1,0.3,36,10.2,0,0,1,0.3,315,89.2,0,0,0,0,0,0,0,0,41.8351441,-87.7351437,,,,,,,
+610234,Yates,Richard Yates Elementary School,6510,Network 5,610234,Yates,YATES,675,17,2.5,87,12.9,0,0,2,0.3,563,83.4,0,0,2,0.3,3,0.4,1,0.1,41.9146978,-87.7003531,6510,Yates,1075,2.2,19.6,0,77.9
+400134,Yccs Chtr - Addams,YCCS-Jane Addams Alternative HS,9051,Charter,400134,YCCS Chtr - Addams,YCCS CHTR - ADDAMS,219,13,5.9,57,26,0,0,1,0.5,143,65.3,1,0.5,4,1.8,0,0,0,0,41.857048,-87.6451017,,,,,,,
+400125,Yccs Chtr - Aspira Pantoja,"YCCS-ASPIRA,Antonia Pantoja Alternative HS",9042,Charter,400125,YCCS Chtr - ASIPRA,YCCS CHTR - ASIPRA,168,7,4.2,3,1.8,0,0,0,0,157,93.5,1,0.6,0,0,0,0,0,0,41.9379315,-87.72677089999999,,,,,,,
+400126,Yccs Chtr - Association House,"YCCS-Association House, El Cuarto Ano HS",9043,Charter,400126,YCCS Chtr - Assoc. House,YCCS CHTR - ASSOC. HOUSE,155,3,1.9,42,27.1,0,0,0,0,108,69.7,1,0.6,1,0.6,0,0,0,0,41.9018592,-87.7067781,,,,,,,
+400127,Yccs Chtr - Austin Career,YCCS-Austin Career Education Center HS,9044,Charter,400127,YCCS Chtr - Austin Career,YCCS CHTR - AUSTIN CAREER,187,0,0,178,95.2,0,0,0,0,6,3.2,2,1.1,1,0.5,0,0,0,0,41.895186,-87.760325,,,,,,,
+400131,Yccs Chtr - Campos,YCCS-Dr. Pedro Albizu Campos Puerto Rican HS,9601,Charter,400131,YCCS Chtr - Campos,YCCS CHTR - CAMPOS,170,4,2.4,27,15.9,0,0,0,0,133,78.2,1,0.6,1,0.6,0,0,4,2.4,41.90264000000001,-87.695976,,,,,,,
+400128,Yccs Chtr - Cca Academy,YCCS-CCA Academy HS,9045,Charter,400128,YCCS Chtr - CCA Academy,YCCS CHTR - CCA ACADEMY,190,0,0,186,97.9,0,0,1,0.5,3,1.6,0,0,0,0,0,0,0,0,41.865081,-87.7247639,,,,,,,
+400150,Yccs Chtr - Chatham,YCCS-Chatham Academy HS,9599,Charter,400150,YCCS Chtr - Chatham Academy,YCCS CHTR - CHATHAM ACADEMY,181,0,0,177,97.8,0,0,0,0,2,1.1,2,1.1,0,0,0,0,0,0,41.7300088,-87.6069874,,,,,,,
+400145,Yccs Chtr - Community Academy,YCCS-Youth Connection Leadership Academy HS,9062,Charter,400145,YCCS Chtr - Youth Connection,YCCS CHTR - YOUTH CONNECTION,250,0,0,246,98.4,0,0,0,0,3,1.2,1,0.4,0,0,0,0,0,0,41.8324121,-87.6268522,,,,,,,
+400123,Yccs Chtr - Community Service,YCCS-Academy of Scholastic Achievement HS,9040,Charter,400123,YCCS Chtr - Scholastic,YCCS CHTR - SCHOLASTIC,198,0,0,198,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.8805207,-87.74198489999999,,,,,,,
+400129,Yccs Chtr - Houston,YCCS-Charles Hamilton Houston Alternative HS,9046,Charter,400129,YCCS Chtr - Houston,YCCS CHTR - HOUSTON,144,0,0,143,99.3,0,0,0,0,1,0.7,0,0,0,0,0,0,0,0,41.809164,-87.615686,,,,,,,
+400133,Yccs Chtr - Innovations,YCCS-Innovations of Arts Integration HS,9602,Charter,400133,YCCS Chtr - Innovations,YCCS CHTR - INNOVATIONS,303,2,0.7,279,92.1,0,0,0,0,18,5.9,3,1,1,0.3,0,0,0,0,41.8117593,-87.63206509999999,,,,,,,
+400135,Yccs Chtr - Latino Youth,YCCS-Latino Youth Alternative HS,9052,Charter,400135,YCCS Chtr - Lation Youth,YCCS CHTR - LATION YOUTH,199,1,0.5,14,7,0,0,0,0,184,92.5,0,0,0,0,0,0,0,0,41.854808,-87.69518400000001,,,,,,,
+400124,Yccs Chtr - Mckinley,YCCS-Ada S. McKinley-Lakeside HS,9041,Charter,400124,YCCS Chtr - McKinley-Lakeside,YCCS CHTR - MCKINLEY-LAKESIDE,177,0,0,174,98.3,0,0,0,0,3,1.7,0,0,0,0,0,0,0,0,41.84137339999999,-87.6252432,,,,,,,
+400136,Yccs Chtr - Olive Harvey,YCCS-Olive Harvey Middle College HS,9053,Charter,400136,YCCS Chtr - Harvey Middle,YCCS CHTR - HARVEY MIDDLE,186,2,1.1,173,93,0,0,1,0.5,10,5.4,0,0,0,0,0,0,0,0,41.7105365,-87.59211599999999,,,,,,,
+400139,Yccs Chtr - Sullivan,YCCS-Sullivan House Alternative HS,9056,Charter,400139,YCCS Chtr - Sullivan House,YCCS CHTR - SULLIVAN HOUSE,314,1,0.3,306,97.5,0,0,0,0,6,1.9,1,0.3,0,0,0,0,0,0,41.745947,-87.578591,,,,,,,
+400141,Yccs Chtr - Truman,YCCS-Truman Middle College HS,9058,Charter,400141,YCCS Chtr - Truman Middle,YCCS CHTR - TRUMAN MIDDLE,212,26,12.3,75,35.4,0,0,2,0.9,100,47.2,3,1.4,4,1.9,2,0.9,0,0,41.9650863,-87.6590226,,,,,,,
+400142,Yccs Chtr - Virtual,YCCS-Virtual HS,9059,Charter,400142,YCCS Chtr - Virtual,YCCS CHTR - VIRTUAL,172,8,4.7,116,67.4,0,0,0,0,45,26.2,2,1.2,0,0,0,0,1,0.6,41.8769174,-87.67394039999999,,,,,,,
+400143,Yccs Chtr - West Town,YCCS-West Town Academy Alternative HS,9603,Charter,400143,YCCS Chtr - West Town,YCCS CHTR - WEST TOWN,155,1,0.6,123,79.4,0,0,0,0,29,18.7,2,1.3,0,0,0,0,0,0,41.8905965,-87.702801,,,,,,,
+400144,Yccs Chtr - Westside Holistic,YCCS-Westside Holistic Leadership Academy HS,9604,Charter,400144,YCCS Chtr - Westside Ldrshp,YCCS CHTR - WESTSIDE LDRSHP,185,1,0.5,164,88.6,0,0,0,0,19,10.3,1,0.5,0,0,0,0,0,0,41.9019333,-87.7493819,,,,,,,
+400130,Yccs Chtr - Youth Development,YCCS-Community Youth Development Institute HS,9047,Charter,400130,YCCS Chtr - Comm Youth Dev.,YCCS CHTR - COMM YOUTH DEV.,251,0,0,247,98.4,0,0,1,0.4,3,1.2,0,0,0,0,0,0,0,0,41.7513059,-87.6416327,,,,,,,
+400087,Yng Women - Chtr Campus,Young Women's Leadership Charter High School,2490,Charter,400087,Yng Women Ldrshp Chrt,YNG WOMEN LDRSHP CHRT,331,11,3.3,276,83.4,0,0,2,0.6,19,5.7,4,1.2,0,0,0,0,19,5.7,41.84445300000001,-87.61838,,,,,,,
+609748,York HS,Consuella B York Alternative High School,1730,Options,609748,York Alt HS,YORK ALT HS,342,5,1.5,278,81.3,0,0,4,1.2,55,16.1,0,0,0,0,0,0,0,0,41.8425353,-87.69709080000001,1730,C.B. York Alt HS,588,5.3,76.4,0.3,18
+610235,Young,Ella Flagg Young Elementary School,6520,Network 3,610235,Young,YOUNG,"1,085",5,0.5,953,87.8,0,0,4,0.4,97,8.9,6,0.6,1,0.1,3,0.3,16,1.5,41.9061721,-87.7675424,6520,"Young, E.",1653,0.1,97.5,0,2.5
+609755,Young HS,Whitney M Young Magnet High School,1810,Network 6,609755,Young Magnet HS,YOUNG MAGNET HS,"2,196",664,30.2,532,24.2,0,0,7,0.3,589,26.8,79,3.6,322,14.7,3,0.1,0,0,41.8782714,-87.6635842,1810,"Young, W. Magnet HS",2226,23.9,41.3,15.5,18.9
+609973,Zapata,Emiliano Zapata Elementary Academy,3820,Network 7,609973,Zapata,ZAPATA,967,1,0.1,5,0.5,0,0,1,0.1,956,98.9,0,0,0,0,0,0,4,0.4,41.8412173,-87.7344897,3820,Zapata Acad,802,0.2,0.4,0.1,99.3
+,,,,Charter,400161,Chgo Collegiate Chtr HS,CHGO COLLEGIATE CHTR HS,115,0,0,111,96.5,0,0,0,0,3,2.6,0,0,0,0,0,0,1,0.9,41.6793949,-87.6178825,,,,,,,
+,,,,Charter,400161,Chgo Collegiate Chtr HS,CHGO COLLEGIATE CHTR HS,115,0,0,111,96.5,0,0,0,0,3,2.6,0,0,0,0,0,0,1,0.9,41.6793949,-87.6178825,,,,,,,
+,,,,Network 1,610564,Disney II Magnet HS,DISNEY II MAGNET HS,247,54,21.9,50,20.2,2,0.8,3,1.2,127,51.4,2,0.8,6,2.4,2,0.8,1,0.4,41.9522637,-87.72047649999999,,,,,,,
+,,,,Network 1,610564,Disney II Magnet HS,DISNEY II MAGNET HS,247,54,21.9,50,20.2,2,0.8,3,1.2,127,51.4,2,0.8,6,2.4,2,0.8,1,0.4,41.9522637,-87.72047649999999,,,,,,,
+,,,,Charter,400164,IJLA Chtr - Lozano HS,IJLA CHTR - LOZANO HS,81,1,1.2,1,1.2,0,0,1,1.2,76,93.8,0,0,0,0,0,0,2,2.5,41.8457485,-87.68586049999999,,,,,,,
+,,,,Charter,400164,IJLA Chtr - Lozano HS,IJLA CHTR - LOZANO HS,81,1,1.2,1,1.2,0,0,1,1.2,76,93.8,0,0,0,0,0,0,2,2.5,41.8457485,-87.68586049999999,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2010,Abbott,326,0.3,99.4,0,0.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1780,ACORN Charter,157,0.6,2.5,0,96.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1720,ACT Charter,241,0.4,92.1,0.4,7.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2050,Altgeld,798,0,99.9,0,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2060,Andersen Com Acad,824,3.5,14,0.2,81.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7480,Anderson Comm Acad,573,0.3,97.9,0.2,1.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4590,Arai Middle,563,3.7,55.2,10.5,30
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5700,"Armstrong, L.",239,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1900,Arts of Living HS,137,2.2,68.6,0,29.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1220,Austin Comm HS,1069,0,99.9,0,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2140,Avondale,1037,3.5,5.2,0.7,90.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6880,Banneker,537,0.6,98.7,0,0.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1020,Best Practice HS,440,2.7,61.8,0.7,34.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8020,Bethune,587,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5750,Bontemps,654,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1240,Bowen HS,1070,0.2,57.4,0,42.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6980,Buckingham Sp Ed,42,2.4,95.2,0,2.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6830,Bunche,659,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2560,Byrd Comm Acad,449,0.2,98.9,0,0.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6610,Calhoun North,573,0.3,99.7,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1250,Calumet HS,976,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2640,Carpenter,528,2.7,27.3,1.1,68.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2700,Carver Middle,497,0,99.8,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1880,Collins HS,845,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2840,Colman,629,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7430,Davis Dev. Ctr,75,2.7,89.3,0,8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7180,"Davis, M. Acad",474,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7330,De La Cruz,241,0.4,2.1,0,97.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3000,Delano,742,0,99.9,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6790,Donoghue,611,0.2,99.8,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7620,Doolittle West,681,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1980,Dorsey APC,123,1.6,82.9,1.6,13.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3090,Douglas Comm Acad,621,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6890,Dumas,641,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1280,DuSable HS,960,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8070,Dyett Middle,508,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3230,Emmet,736,0.1,99.9,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1680,Englewood HS,963,0,99.9,0,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3300,Farren,430,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3320,Fermi,486,0.2,99.8,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1040,Flower HS,672,0,99.3,0,0.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3310,Foundations,176,0.6,97.7,0.6,1.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7780,Frazier,601,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1260,Future Com Prof Prep,111,1.8,95.5,0,2.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1370,Future Comm Tech HS,130,0,99.2,0,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3540,Gladstone,607,0.5,69.5,0,29.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7840,Goldblatt,700,0,99.9,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3290,Goodlow Magnet,719,1.3,98.7,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3610,Grant,752,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7050,Guggenheim,444,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3790,Hartigan,780,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1100,Harvey APC,280,4.3,50.7,0.4,44.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1290,Hayes APC,191,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6570,Henson,445,0.7,99.3,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3950,Herbert,515,0.2,98.6,0,1.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1660,Hernandez APC,212,1.4,67.9,0,30.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4130,Hope Comm Acad,992,0.1,90.2,0,9.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4070,Howland,379,0,99.5,0,0.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4780,Irving Park Middle,431,19.3,1.4,4.2,75.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4190,"Jefferson, T.",287,1,95.1,0.7,3.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5540,"Johns, V. Acad",406,0,99.8,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4280,Key,670,0,99.9,0,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4310,King,414,0.7,66.4,0,32.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4360,Kohn,779,0.3,99.6,0,0.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4400,LaFayette,930,0.1,26,0.1,73.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1910,Las Casas Occ. HS,133,6.8,89.5,0,3.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6750,Lathrop,468,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4550,Lawrence,689,0,99.7,0,0.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4440,LeMoyne,500,11.2,37.2,4.2,47.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1122,Lincolns Challenge,163,4.3,75.5,0.6,18.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1450,Lindblom Tech HS,739,0.4,99.1,0.1,0.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6590,Marconi Comm Acad,540,0,99.8,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4670,May Comm Acad,907,0.2,99.8,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4700,Mayo,497,0.4,99.6,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6820,McCorkle,360,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Medill Primary,353,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4830,Morgan,587,0.2,99.5,0,0.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4900,Morse,611,0,98.4,0,1.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6640,Munoz-Marin Prim.,308,0,29.9,0,70.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1050,Near North Career HS,270,0.4,71.5,0,28.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4970,Near North Spl Ed,97,6.2,67,0,25.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4050,Nia,121,0,99.2,0,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1180,Olive APC,211,4.3,58.3,0,37.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6960,Overton,787,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3470,Owens Comm Acad,552,0.2,99.8,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6930,Paderewski,412,0,98.1,0,1.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5280,Parkman,374,0.3,98.9,0,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Partee APC,203,0,98.5,0,1.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5330,Peabody,478,4.6,16.5,0,78.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7400,Piccolo Middle,341,0.3,77.4,0,22.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5480,Pope,302,0,89.4,0,10.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6810,Price,550,1.3,98.5,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1990,Proctor APC,201,0.5,80.1,0,19.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5570,Raymond,583,0,99.8,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6020,Recov/Gifted Child,44,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6870,Reed,632,0.2,99.4,0,0.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1124,Renaissance Acad,33,15.2,42.4,3,39.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5620,Riis,320,0.3,97.5,0,2.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1080,Rodriguez APC,128,6.3,28.1,4.7,60.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7510,Roque DeDuprey,495,2.2,6.5,0.2,91.1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5650,Ross,581,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5680,Ryerson,617,0.2,98.9,0,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1120,SAFE Schools,276,11.2,72.1,1.1,15.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5760,Schiller,355,0.3,99.4,0,0.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5790,Schneider,387,4.4,70.3,0,24.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1190,Sengstacke APC,223,13.5,37.2,0.4,48.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5830,"Sexton, A.O.",754,0,99.7,0,0.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5740,Songhai,878,0.2,99.8,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1550,South Shore Comm Acad,995,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5990,Spalding Elem.,142,1.4,76.1,1.4,20.4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1650,Spalding HS,501,4.8,79.2,1.6,14.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6040,Stewart,504,5.2,52.6,10.5,31.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6060,Stockton,640,10.5,29.8,11.6,47.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6090,Suder,425,0.7,99.1,0,0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6840,Terrell,353,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1970,Tesla Alternative HS,214,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5320,Triumphant Charter,169,0,95.3,0,4.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6230,Trumbull,564,16,9.6,17,57.3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7900,Truth,627,0.6,98.6,0,0.8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6280,Von Humboldt,1330,1.4,31.8,0.7,65.7
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6400,West Pullman,585,0.3,99.7,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6490,Williams,868,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7080,Woods Acad,862,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7750,Woodson North,343,1.5,90.1,0,8.5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7500,Wright,345,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6500,Yale,490,0,100,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1121,Youth Connections Chtr,1242,4.6,68.6,1.4,25.2

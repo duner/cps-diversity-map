@@ -1,0 +1,46 @@
+<HTML>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+</head>
+<body>
+
+    <div class="meta">
+        <h2>The Diversity of Chicago Public Schools</h2>
+    	<div class="key">Each circle represents a public school in Chicago.</div>
+        <div class="key">Color indicates the most prevalent group in each school &mdash;
+			<ul>
+				<li class="white"><span class="circle">&#9679;</span>White</li>
+				<li class="black"><span class="circle">&#9679;</span>Black</li>
+				<li class="hispanic"><span class="circle">&#9679;</span>Hispanic</li>
+				<li class="asian"><span class="circle">&#9679;</span>Asian</li>
+			</ul>
+    	</div>
+    	<div class="info">Circles are scaled relative to the size of the school's student body. Color transparency indicates the prevalence of the largest group.</div>
+    </div>
+    <div id="map">
+    <div id="map-ui">
+        <form class="toggle-year" action="">
+            <div>
+                <input type="radio" name="year" id="y2000" value="y2000" class="radio"/>
+                <label for="y2000">2000</label>
+            </div>
+            <div class="active">
+                <input type="radio" name="year" id="y2014" value="y2014" class="radio" checked/>
+                <label for="y2014">2014</label>
+            </div>
+        </form>
+    </div>
+
+    </div>
+    <div class="meta">
+    <div class="caption">
+        Data from the <a href="http://cps.edu/SchoolData/Pages/SchoolData.aspx">Chicago Public Schools 1999/2000 and 2013-2014 School Year Racial/Ethnic Report</a>.
+    </div>        
+    </div>
+    <script src="tabletop.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</HTML>
